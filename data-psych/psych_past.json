@@ -1,0 +1,5405 @@
+{
+ "sets": [
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 0,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week0",
+   "questions": [
+    {
+     "q": "What is Psychology?",
+     "options": [
+      "A Science subject",
+      "Is objective perception",
+      "An art of living",
+      "A thought process",
+      "A study of cognitive processes & behavior"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Psychology = scientific study of mind (cognitive processes) and behavior.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "A broad field of study that explores a variety of questions about thoughts, feelings and actions is___?",
+     "options": [
+      "Society",
+      "Globalization",
+      "Psychology",
+      "Social Science",
+      "Human Development"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "A systematic assessment that provides information on political views, consumer buying habits and many other topics is called___?",
+     "options": [
+      "Standardized test.",
+      "Projects",
+      "Experiments",
+      "Survey",
+      "Psychological tests"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Surveys gather data on political views, buying habits etc.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "The word Psyche means",
+     "options": [
+      "Body or physique",
+      "Mind or soul",
+      "Science & spirituality",
+      "Mental health",
+      "Neuropsychology"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Greek psyche = mind/soul.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Who established psychology laboratory in Germany?",
+     "options": [
+      "B.F. Skinner",
+      "J. Thorndike",
+      "Sigmund Freud",
+      "David Kolb",
+      "Wilhelm Wundt"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Wundt founded the first lab at Leipzig (1879).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "To help people to function effectively and fulfill their own unique potential\" is the aim of___?",
+     "options": [
+      "Humanistic psychology",
+      "Social Psychiatry",
+      "Philosophy",
+      "Development studies",
+      "Sustainable development"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Humanistic psychology aims at self-actualization.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Behaviorists use a learning process to change abnormal behavior is called___?",
+     "options": [
+      "Rationalism",
+      "Experiential intervention",
+      "Gestalt mechanism",
+      "Hypotheses verification",
+      "Conditioning"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Behaviour therapy uses conditioning.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "The study of changes in behavior during life time is called",
+     "options": [
+      "Behaviorism",
+      "Individual difference",
+      "Developmental Psychology",
+      "Maturational theory",
+      "Genetics or Heredity"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "The study of differences and similarities in the behavior of animals of different species is called",
+     "options": [
+      "Sociology",
+      "Social work",
+      "Rehabilitation studies",
+      "Comparative Psychology",
+      "Cultural Psychology"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 1,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week1",
+   "questions": [
+    {
+     "q": "Which of the following is true regarding learning in psychology?",
+     "options": [
+      "Learning has not been an important topic in psychology",
+      "Learning involves no change in the organism",
+      "Learning focuses on how humans speak",
+      "Learning can be defined in many ways"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture: learning \"has been defined differently by different group of psychologists\"; the other options contradict the lecture. (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learning is seen as an effect attributed to an element in",
+     "options": [
+      "blood",
+      "environment",
+      "hormones",
+      "none of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"observable change in the behavior that is attributed to an element in the environment\" (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Non-associative learning refers to ____________ in the intensity of a response as the result of the repeated presentation of a stimulus.",
+     "options": [
+      "a decrease",
+      "an increase",
+      "no change",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"the non-associative learning ... refers to the decrease in the intensity of a response\" (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a type of learning style?",
+     "options": [
+      "visual",
+      "auditory",
+      "kinesthetic",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"visual learners, auditory learners, kinesthetic learners\" are named as learner preferences. (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "'Psychology as the Behaviorist Views It' is the famous work of",
+     "options": [
+      "Sigmund Freud",
+      "John Watson",
+      "Albert Bandura",
+      "Ivan Pavlov"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"his work is the psychology as the behaviorist views it\" (Watson). (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "The state of conscious incompetence may be valuable ____________ of a learning experience.",
+     "options": [
+      "at the start",
+      "at the end",
+      "in the middle",
+      "throughout the process"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"the state of conscious incompetent may be valuable at the start of learning\" (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "Adding to existing student knowledge is known as",
+     "options": [
+      "conceptual change",
+      "conceptual pattern",
+      "conceptual exploration",
+      "conceptual growth"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"adding to the existing student knowledge known as the conceptual growth\" (Lecture 3)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Deliberate practice involves the following, except",
+     "options": [
+      "attention",
+      "rehearsal",
+      "repetition",
+      "forgetting"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"deliberate practice involves attention rehearsal and repetition over time\" (Lecture 4)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Students persist in the face of challenging tasks and process information more deeply when they adopt ____________ goals.",
+     "options": [
+      "performance",
+      "insignificant",
+      "mastery",
+      "repetitive"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Principle: students persist ... and process information more deeply when they adopt mastery goals (APA principle, read in lecture). (Lecture 4)",
+     "verified": "lecture"
+    },
+    {
+     "q": "____________ refers to a decrease in response rate while ____________ refers to an increase in response rate.",
+     "options": [
+      "sensitization, habituation",
+      "meaningful learning, association",
+      "habituation, sensitization",
+      "association, meaningful learning"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Habituation = reduced response through regular exposure; sensitization described as \"just opposite\" (heightened response). (Lecture 5)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 2,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week2",
+   "questions": [
+    {
+     "q": "According to constructivism, reality is determined by",
+     "options": [
+      "the experiences of the learner",
+      "the blood type of the learner",
+      "the future goals of the learner",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Constructivism: learners construct knowledge from their own experiences. (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Teachers and instructors who understand the constructivist learning theory understand that their students",
+     "options": [
+      "are all the same",
+      "bring their own unique experiences",
+      "do not demand much effort in the classroom",
+      "are careless"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"students bring their own unique experience in their classroom\". (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The domain of social constructivism is largely attributed to the work done by ____________ by adding the focus on societal and peer influence on learning.",
+     "options": [
+      "Jean Piaget",
+      "Lev Vygotsky",
+      "Sigmund Freud",
+      "John Watson"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"social constructivism ... Lev Vygotsky ... societies and peer influence has a significant role\". (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a major type of learning described by behavioral psychology?",
+     "options": [
+      "classical conditioning",
+      "operant conditioning",
+      "observational learning",
+      "traditional learning"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Behavioural psychology's three types: classical, operant, observational learning; \"traditional learning\" is not one. (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is true according to behaviorism?",
+     "options": [
+      "all behaviors can be unlearned",
+      "all behaviors are directed by one's parents",
+      "all behaviors are fundamentally destructive in nature",
+      "all behaviors are unobservable"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"behavior can be unlearned can be unlearned and replaced by the new behavior\" (Lecture 6: Major Theories of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "In ____________ conditioning, presentation of unconditioned stimulus precedes the presentation of the conditioned stimulus.",
+     "options": [
+      "backward",
+      "delay",
+      "trace",
+      "simultaneous"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"backward condition is that an unconditioned stimulus precedes the presentation of the [conditioned] stimulus\" (Lecture 6: Major Theories of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Smiling and complimenting students for good performance is a type of",
+     "options": [
+      "negative punishment",
+      "positive punishment",
+      "negative reinforcement",
+      "positive reinforcement"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Praise/smiles added after good performance = positive reinforcement (operant conditioning, lecture 6).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following psychologists was instrumental in engendering the dramatic shift from behaviorism to cognitive theories?",
+     "options": [
+      "Tolman",
+      "Bruner",
+      "Gestalt",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"Tolman ... Bruner ... German Gestalt psychologists ... instrumental in changing ... bringing this cognitive theories\". (Lecture 7)",
+     "verified": "lecture"
+    },
+    {
+     "q": "IQ is a typical measurement for",
+     "options": [
+      "intelligence",
+      "personality",
+      "emotions",
+      "classical learning"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "IQ is the standard measure of intelligence (lecture 8 intelligence theories). (Lecture 8)",
+     "verified": "lecture"
+    },
+    {
+     "q": "BBL deals with the concept of learning in a ____________ context.",
+     "options": [
+      "neuro-physiological",
+      "cognitive",
+      "social",
+      "behavioral"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"brain based learning ... the concept of learning in a neurophysiological context\". (Lecture 9)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 3,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week3",
+   "questions": [
+    {
+     "q": "Which of the following is true?",
+     "options": [
+      "Human memory involves the ability to only preserve information",
+      "Human memory involves the ability to only recover information",
+      "Human memory involves the ability to neither preserve nor recover information",
+      "Human memory involves the ability to both preserve and recover information"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Memory = encoding, storage and retrieval, i.e. both preserving and recovering information. (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ refers to connections between the nerve cells",
+     "options": [
+      "Storage",
+      "Synapses",
+      "Neuron",
+      "Blood"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"changes in this connection between the nerve cells ... synapses\". (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "In order to create a new memory, information must be changed into ____",
+     "options": [
+      "a usable form",
+      "a long form",
+      "a short form",
+      "a visual form"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"information must be changed to a usable form\". (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The memory ____ process allows us to bring stored memories into conscious awareness.",
+     "options": [
+      "storage",
+      "retrieval",
+      "encoding",
+      "forgetting"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"memory retrieval process also allows us to bring the stored memory into the conscious awareness\". (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a major domain of cognition?",
+     "options": [
+      "Judgment",
+      "Attention",
+      "Aggression",
+      "Intelligence"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Domains of cognition: attention, perception, memory, intelligence, executive function, social cognition, judgment; not aggression. (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not an assumption of the information processing view?",
+     "options": [
+      "Information is processed in steps or stages",
+      "There are limits on how much information can be processed",
+      "The human information processing system is interactive",
+      "Information processing is analogous to computer processing"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "The question looks flawed: Lecture 11 lists all four options as assumptions of information processing (the 2024 version says \"There is no limit\"). The answer key gives this option.",
+     "verified": "unsure"
+    },
+    {
+     "q": "____ refers to rote rehearsal of repetition",
+     "options": [
+      "elaborative rehearsal",
+      "maintenance rehearsal",
+      "meaningful rehearsal",
+      "none of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Maintenance rehearsal = rote repetition.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "____ presentations can enhance working memory capacity",
+     "options": [
+      "multimodal",
+      "unimodal",
+      "one by one",
+      "antimodal"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Not found in the captions; dual-channel working memory (lecture 13) implies multimodal (audio+visual) presentation increases effective capacity.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Episodic and semantic memories are categorized under ____ memory",
+     "options": [
+      "procedural",
+      "structural",
+      "phonemic",
+      "declarative"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Episodic and semantic memory are subtypes of declarative (explicit) memory. (Lecture 14)",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the neural network model, memory capacity depends on ____",
+     "options": [
+      "complexity of the synapses",
+      "sparseness of representations",
+      "spatial and temporal correlations between memories",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"memory capacity ... depends on the complexity of the synapses, the sparseness of the representation, the spatial and temporal [correlations]\". (Lecture 14)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 4,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week4",
+   "questions": [
+    {
+     "q": "Creative thinking is the ability to generate ____ ideas.",
+     "options": [
+      "innovative",
+      "unconventional",
+      "useful",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Creative thinking generates new, unconventional and useful ideas (lecture 19); all of the above.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "____ are representative items within each concept.",
+     "options": [
+      "Constructs",
+      "Symbols",
+      "Prototypes",
+      "Categories"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Prototypes are representative items of a concept. (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "A mental representation can take the form of a ____.",
+     "options": [
+      "word",
+      "image",
+      "sound",
+      "all of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Mental representations take the form of images, musical tones, words, etc. (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is true?",
+     "options": [
+      "Thinking is a lower mental process",
+      "Thinking is a sub-vocal talking",
+      "Thinking is unrelated to problem solving",
+      "We can only think in numbers or words"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"thinking is a sub vocal talking\"; thinking is a higher-level function. (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Cognitive architecture is a theory about the ____ that create a mind in natural or artificial systems.",
+     "options": [
+      "structures",
+      "facts",
+      "images",
+      "sounds"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"cognitive architecture is the structure\"; a theory of the fixed structures that make up a mind. (Lecture 14)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Bloom's Taxonomy is a system of hierarchical models (arranged in a hierarchical rank,) used to categorize ____ into varying levels of complexity.",
+     "options": [
+      "learning objectives",
+      "attention goals",
+      "prototypes",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Bloom's taxonomy classifies learning (educational) objectives by complexity. (Lecture 17)",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ knowledge refers to knowledge of terminology and specific details.",
+     "options": [
+      "Metacognitive",
+      "Conceptual",
+      "Kinesthetic",
+      "Factual"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"factual knowledge ... relates to specific details, information, data\" (terminology and details). (Lecture 17)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Choosing to skim subheadings of unimportant information to get to the information we need as a metacognitive skill is called ____.",
+     "options": [
+      "skimming",
+      "rehearsing",
+      "self-monitoring",
+      "modifying"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Metacognitive skill examples: knowing limits, self-monitoring, modifying, \"skimming\". (Lecture 18)",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ refers to the ability to regulate your thoughts and set aside any personal biases to come to the best conclusion.",
+     "options": [
+      "Self-regulation",
+      "Openmindedness",
+      "Observation",
+      "Interpretation",
+      "elaboration"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Corrected after checking the lecture (was: Openmindedness). Lecture: \"self regulation ... whenever we are reaching ... the conclusion ... we have to keep aside our personal bias ... regulating ... monitoring our thought processes\" = self-regulation, not open-mindedness. (Lecture 18)",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ method of solving problems refers to a rule that guarantees the solution to a problem",
+     "options": [
+      "imagination",
+      "trial and error",
+      "analogy",
+      "algorithm"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Algorithm = rule/procedure that guarantees a solution (vs heuristics/trial and error).",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 5,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week5",
+   "questions": [
+    {
+     "q": "Motivation is seen as a ____ that drives and directs human behavior.",
+     "options": [
+      "hormonal impulse",
+      "mental impulse",
+      "attention deficit",
+      "judgment delay"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L21 slide: 'Motivation is seen as a mental impulse that drives and directs human behavior'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is false regarding motivation?",
+     "options": [
+      "Motivation is an internal process",
+      "Motivation can be directly observed",
+      "Motivation activates people's actions",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L21 slide: motivation is 'an internal process that can't be directly observed', so 'can be directly observed' is false.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following does not come under intrinsic motivation?",
+     "options": [
+      "interests",
+      "social pressure",
+      "curiosity",
+      "self-satisfaction"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L21: intrinsic factors are needs, interest, curiosity, self-satisfaction; social pressure is an extrinsic causal factor.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Doing something/behaving well because one feels pressure from within is called ____.",
+     "options": [
+      "introjected regulation",
+      "amotivation",
+      "identified motivation",
+      "None of the given"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L21: introjected regulation = 'doing something or behave well because one feels pressure within'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a biological need/drive?",
+     "options": [
+      "love",
+      "food",
+      "water",
+      "oxygen"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L22 slide: biological drives relate to food, water, shelter, sex; love is a psychological drive.",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ theory suggests that people are motivated to take action in order to receive a reward",
+     "options": [
+      "incentive",
+      "biological",
+      "arousal",
+      "goal setting"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L22 slide: incentive theory 'suggests that people are motivated to take action in order to receive a reward'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The Arousal Theory of Motivation was first proposed by ____.",
+     "options": [
+      "Hall",
+      "Watson",
+      "Bandura",
+      "Murray"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L22 slide: 'The Arousal Theory of Motivation was first proposed by Henry Murray in 1938'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ theory is based on the assumption that our behavior is based on making a conscious choice from a set of possible alternative behaviors.",
+     "options": [
+      "arousal",
+      "expectancy",
+      "drive",
+      "goal setting"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L22 slide: expectancy theory 'is based on the assumption that our behavior is based on making a conscious choice from a set of possible alternative behaviors'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not an attribute of effective goal setting?",
+     "options": [
+      "unrealistic goals",
+      "specific goals",
+      "time based goals",
+      "assignable goals"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L23: effective goals are specific, measurable, assignable, realistic, time-based; unrealistic goals are not an attribute.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Maslow's hierarchy of needs consists of ____ tiers.",
+     "options": [
+      "four",
+      "three",
+      "six",
+      "five"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L24: Maslow's 'five tier model... five layers'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 6,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week6",
+   "questions": [
+    {
+     "q": "____ is mainly responsible for popularizing emotional intelligence.",
+     "options": [
+      "John Watson",
+      "Daniel Goleman",
+      "Sigmund Freud",
+      "Albert Bandura"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L26 slide: 'Dr. Daniel Goleman popularized the term in his 1995 book'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "EQ is used to measure ____.",
+     "options": [
+      "cognitive intelligence",
+      "memory",
+      "emotional intelligence",
+      "attention"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L26: emotional intelligence and emotional quotient (EQ) are used interchangeably; EQ measures EI.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Experts suggest that EQ is more important than IQ.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L26: 'expert says that EQ is more important than the IQ'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Being able to put words to feelings refers to ____.",
+     "options": [
+      "emotional responsibility",
+      "emotional cognition",
+      "emotional attention",
+      "emotional literacy"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L26: putting feelings into words 'is called the emotional literacy'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The first step in emotional intelligence is ____.",
+     "options": [
+      "perceiving emotions accurately",
+      "reasoning with emotions",
+      "managing emotions",
+      "dismissing emotions"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L27: 'perceiving emotions in the beginning first step... first is perceiving emotion'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to nine-layer model pyramid, ____ lies at the bottom of the pyramid.",
+     "options": [
+      "Emotional stimuli",
+      "Self awareness",
+      "Self management",
+      "Transcendence"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L27: the nine-layer pyramid starts 'with emotional stimuli' at its base.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The mixed model by ____ claims that EQ is a combination of competencies, skills, and “facilitators” that contribute to how people express themselves, respond to challenges in their environment, and connect with others.",
+     "options": [
+      "Watson",
+      "Goleman",
+      "Salovey and Mayer",
+      "Bar-On"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L27: 'Bar-On's mixed model... says that EQ is a combination of competencies, skills and facilitators'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The transfer of emotions from one person to another is called ____.",
+     "options": [
+      "social effect",
+      "emotional effect",
+      "social contagion",
+      "emotional contagion"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L29 slide: 'emotional contagion - the transfer of emotional state from person to person'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Hochschild has given the concept of ____ using the example of flight attendants.",
+     "options": [
+      "emotional indifference",
+      "emotional difficulty",
+      "emotional labor",
+      "emotional literacy"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L29: emotional labor illustrated with flight attendants (Hochschild).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Review of literature shows that ____ is associated with increasing levels of burnout.",
+     "options": [
+      "emotional intelligence",
+      "deep acting",
+      "surface acting",
+      "emotional literacy"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L29: 'surface acting is associated with increasing level of burnout' (teacher burnout literature).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 7,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week7",
+   "questions": [
+    {
+     "q": "Which of the following is false about learning according to Gagne’s definition?",
+     "options": [
+      "It is a change in human disposition",
+      "It persists over a period of time",
+      "It is simply ascribable to processes of growth",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L31: Gagne - learning 'is not simply ascribable to processes of growth'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Manual or physical skills come under ____ component of Bloom’s taxonomy.",
+     "options": [
+      "Cognitive",
+      "Affective",
+      "Psychomotor",
+      "Physical"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L31: psychomotor domain covers reflex/fundamental movements, physical activities, skilled movement.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Reflection, learning and education was explored by ____.",
+     "options": [
+      "Carl Rogers",
+      "John Watson",
+      "Benjamin Bloom",
+      "John Dewey"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L31 slide: 'John Dewey's Reflection, learning and education: Returning to experience...'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The principles of ____ refer to how close in time two events must be for a bond to be formed.",
+     "options": [
+      "behavior",
+      "reinforcement",
+      "repetition",
+      "contiguity"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L31: principle of contiguity - how close in time two events must be for a bond to form (behaviorist orientation).",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ gives information to learners about their success or failure concerning the task at hand.",
+     "options": [
+      "Cognitive feedback",
+      "Emotional feedback",
+      "Reinforcement",
+      "Physical feedback"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L31: 'cognitive feedback... gives the idea to the learner how successful he has been, where is the failure' (knowledge of results).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ____ orientation to learning has a quality of personal involvement—the whole person in both feeling and cognitive aspects being in the learning event.",
+     "options": [
+      "behavioral",
+      "cognitive",
+      "humanistic",
+      "social"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L31: humanistic orientation (Carl Rogers) - 'not just about only cognition but cognition and feeling', personal involvement.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learning through play is ____ learning.",
+     "options": [
+      "primary",
+      "secondary",
+      "passive",
+      "active"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L32: active learning = learning by doing, 'learning by playing', experimenting.",
+     "verified": "lecture"
+    },
+    {
+     "q": "People with ____ learning style are prone to sorting their ideas after speaking, rather than thinking ideas through before.",
+     "options": [
+      "logical",
+      "solitary",
+      "visual",
+      "auditory"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L32: auditory learners learn by 'speaking... reading aloud, sorting their ideas after speaking'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is false?",
+     "options": [
+      "Effective instruction is static",
+      "Effective instruction is eclectic",
+      "Effective instruction is generative",
+      "Effective instruction is interactive"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L33: effective instruction 'is generative and dynamic, it's not fixed', eclectic, interactive - so 'static' is false.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In ADDIE model, I stand for ____.",
+     "options": [
+      "instruction",
+      "implementation",
+      "integration",
+      "induction"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L33: ADDIE - analysis, design, development, implementation, evaluation.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 8,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week8",
+   "questions": [
+    {
+     "q": "Pedagogy can be defined as a way of ____ any theoretical topic or academic subject.",
+     "options": [
+      "forgetting",
+      "teaching",
+      "remembering",
+      "memorizing"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L36: pedagogy 'can be defined as a way of teaching of both the theoretical subjects, practical subjects'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Good pedagogy is about ____.",
+     "options": [
+      "enabling self to be good at rote memorization",
+      "eliciting responses that demonstrate understanding",
+      "hampering cognitive development of learners",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L36: 'the primary focus of good pedagogy... is to elicit the responses that demonstrate that understanding'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a pedagogical approach in teaching?",
+     "options": [
+      "inductive",
+      "integrative",
+      "instance-based",
+      "intuitive"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L36 slide: integrative approach is one of the five pedagogical approaches.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the ____ approach, learners are the makers of meaning and knowledge.",
+     "options": [
+      "solitary learning",
+      "passive learning",
+      "constructivist learning",
+      "metalearning"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L36: in the constructivist approach 'Learners are the makers of the meaning and knowledge'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is false about inquiry-based learning?",
+     "options": [
+      "is a form of passive learning",
+      "includes problem-based learning",
+      "generally used in small scale investigations",
+      "starts by posing questions"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L36: inquiry-based 'is a form of active learning', starts by posing questions, problem-based, 'used in the small scale investigation' - so 'passive' is false.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ____ model describes what effective teachers do in their classrooms to engage students in intellectually challenging work.",
+     "options": [
+      "pedagogical",
+      "systematic",
+      "engagement",
+      "intellectual"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L36: 'the pedagogical model... what effective teachers do in the classroom to engage the students in intellectually challenging work'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In experiential learning, experiences are structured to require the student to ____.",
+     "options": [
+      "take initiative",
+      "make decisions",
+      "be accountable for results",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L37 slide: 'Experiences are structured to require the student to take initiative, make decisions and be accountable for results'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following are the roles of an instructor in experiential learning, except ____.",
+     "options": [
+      "setting suitable experiences",
+      "posing problems",
+      "supporting students",
+      "blurring the boundaries"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L37 slide: roles are 'setting suitable experiences, posing problems, setting boundaries, supporting students...'; blurring boundaries is not a role.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Kolb's experiential learning style theory is typically represented by a ____-stage learning cycle",
+     "options": [
+      "three",
+      "five",
+      "four",
+      "seven"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L37: Kolb's 'four stage learning cycle'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "People with ____ learning style are hands-on learners, and rely on intuition over logic.",
+     "options": [
+      "converging",
+      "accommodating",
+      "integrating",
+      "emotional"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L37: 'accommodating is more of hands-on learners, they rely more on intuition, gut feeling, relying on others'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 9,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week9",
+   "questions": [
+    {
+     "q": "A ____ classroom is the changing face of learning.",
+     "options": [
+      "digital",
+      "closed",
+      "passive",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L41: the digital classroom 'has completely changed the face of learning and education in 21st century'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a feature of e-learning?",
+     "options": [
+      "accessibility",
+      "teacher-centeredness",
+      "social justice",
+      "personalization"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "lecture",
+     "explanation": "Lecture 41 slide lists the features of e-learning: \"Accessibility, user friendliness and social justice; Personalization, individualization and learner-centeredness\". It is learner-centred, not teacher-centred."
+    },
+    {
+     "q": "Which of the following is a synonym of e-learning?",
+     "options": [
+      "audio-visual learning",
+      "multimedia learning",
+      "distance learning",
+      "none of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L41 slide: 'It is not a synonym of audio-visual learning, multimedia learning, distance learning as these are just complementary.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "In ____ e-learning course, the content is simple and comprises text, images, audio, powerpoint presentation and text questions.",
+     "options": [
+      "simulation-based",
+      "interactive",
+      "powerpoint-driven",
+      "text-driven"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L41 slide: 'Text Driven: In a text-driven e-learning course, the content is simple and comprises text, images, audio, power-point presentation and text questions.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "Recent thinking in cognitive psychology places the ____ firmly at the center of the learning experience.",
+     "options": [
+      "computer",
+      "parent",
+      "teacher",
+      "individual"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L42: 'recent thinking on the cognitive psychology places the individual firmly at the center'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is true?",
+     "options": [
+      "Learning depends on self-awareness.",
+      "Learning is social",
+      "Learning is goal-oriented",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L42: principles - learning is goal oriented, learning depends on self-awareness, learning is social (and active).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learners may multitask when engaging in an online course, which could be resulting in ____.",
+     "options": [
+      "hyperfocus",
+      "better retrieval",
+      "shorter attention spans",
+      "None of the given"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L43: continuous multitasking 'makes our attention span very short'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The brain can process ____ visual cues per hour!",
+     "options": [
+      "36",
+      "360",
+      "3600",
+      "36,000"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L42 slide: 'The brain can process 36,000 visual cues per hour!'",
+     "verified": "lecture"
+    },
+    {
+     "q": "Our brain has approximately ____ neurons that send information to one another.",
+     "options": [
+      "85 billion",
+      "85 million",
+      "85 lakhs",
+      "85,000"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L42 slide: 'Our brain has approximately 85 billion neurons that send information to one another.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ is referring to learners' automatic performance on specific procedures with predetermined steps to be followed.",
+     "options": [
+      "chaining",
+      "automatization",
+      "framing",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L44 slide: 'Chaining is referring to learners' automatic performance on specific procedures...' - keyed term is chaining.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 10,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week10",
+   "questions": [
+    {
+     "q": "The ____ Model for New Normal in Education has been designed by many educational institutions.",
+     "options": [
+      "Pedagogical",
+      "Readiness",
+      "Instructional",
+      "Systematic"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L46: 'Readiness model for the New Normal education has been prepared'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The most critical factor that plays a significant role in the success of any remote learning program is the ____.",
+     "options": [
+      "software used by teacher",
+      "readiness of the participants",
+      "personality of the teacher",
+      "the quality of schooling"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L46 slide: 'Learners' Readiness: The most critical factor that plays a significant role in the success of any remote learning program is the readiness of the participants.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "The typical picture of a teacher being a ____ of knowledge to the students has been replaced.",
+     "options": [
+      "absorber",
+      "collector",
+      "exploiter",
+      "dispenser"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L46 slide: 'the typical picture of a teacher being a dispenser of knowledge to the students has been replaced by that of a facilitator'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does today's teacher need to be successful in the classroom?",
+     "options": [
+      "digital skills",
+      "life skills",
+      "communication skills",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L46: today's teacher needs digital skills, life skills, communication skills (plus creativity etc.).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Students who consider intelligence as a ____ entity tend to focus on their goals despite obstacles.",
+     "options": [
+      "malleable",
+      "rigid",
+      "God-given",
+      "unreliable"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L46 slide (Principle 1): 'Students who consider intelligence as a malleable entity tend to focus on their goals despite obstacles.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ feedback to students is important for learning.",
+     "options": [
+      "clear",
+      "explanatory",
+      "timely",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L47 principle 6: 'clear, explanatory and timely feedback to students is very important for learning'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Students tend to enjoy learning and have better outcomes when their motivation is more intrinsic than extrinsic.",
+     "options": [
+      "False",
+      "True"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L47 principle 9: motivation more intrinsic than extrinsic gives more enjoyment and better outcomes.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Long term goals are also called ____ goals.",
+     "options": [
+      "non urgent",
+      "principal",
+      "proximal",
+      "distal"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L47 slide (Principle 12): 'Short-term (proximal), specific and challenging objectives are more motivating than long-term (distal), general' ones.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an example of a reward?",
+     "options": [
+      "clapping",
+      "giving money",
+      "giving a compliment",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L48 slide: 'A reward may be social, such as clapping, or tangible, such as giving' money; verbal praise/compliments also rewards - all of the above.",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ is a teaching approach that generates feedback students can use to improve their performance.",
+     "options": [
+      "Assessment for performance",
+      "Assessment for marks",
+      "Assessment for rewards",
+      "Assessment for learning"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L49: 'assessment for learning is also a teaching approach that generates the feedback to the students that can use to improve their performance'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 11,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week11",
+   "questions": [
+    {
+     "q": "Social cognition is the cognitive processes that influence ____.",
+     "options": [
+      "social schema",
+      "social behavior",
+      "social media",
+      "none of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L51: 'social cognition is the cognitive process that influences social behavior'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Smooth and adaptive social interactions depend on the recruitment of ____.",
+     "options": [
+      "perception",
+      "attention",
+      "language",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L51 slide: 'Smooth and adaptive social interactions depend on the recruitment of virtually all core cognitive functions (e.g., perception, attention, language, memory, executive functions)'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following abilities does not come under social cognition?",
+     "options": [
+      "rote memory",
+      "face processing",
+      "joint attention",
+      "moral reasoning"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L51 slide: social cognition includes face processing, joint attention, theory of mind, moral reasoning, social decision-making; rote memory is not listed.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Social cognition develops primarily in old age.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L51: 'social cognition develops in childhood and adolescence' - not primarily in old age.",
+     "verified": "lecture"
+    },
+    {
+     "q": "A theory of mind refers to a person’s ability to understand and think about the ____ of other people.",
+     "options": [
+      "biological states",
+      "mental states",
+      "physical traits",
+      "none of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L52: 'theory of mind refers to the person's ability to understand and think about the mental state of others'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ____ theory details the processes of observational learning and modeling, and the influence of self-efficacy on the production of behavior.",
+     "options": [
+      "behavioral",
+      "socio-emotional",
+      "social-cognitive",
+      "cognitive-emotional"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L52: social cognitive theory deals with 'observational learning, modeling and the influence of self-efficacy'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ processes account for the information that is selected for observation in the environment.",
+     "options": [
+      "motivational",
+      "production",
+      "retention",
+      "attentional"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L53: 'attentional processes ... account for the information that is selected for observation'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Children become more aggressive when they observe aggressive or violent models.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L53: 'children become more aggressive when they observe the aggressive or violent models'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ____ model of observational learning involves real or fictional characters displaying behaviors in books, films, television programs, or online media.",
+     "options": [
+      "symbolic",
+      "live",
+      "verbal instructional",
+      "contextual"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L53: symbolic model - characters from fiction, books, films, television or online media.",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ refers to the anticipated consequences of a person’s behavior.",
+     "options": [
+      "self-efficacy",
+      "expectations",
+      "intrinsic reinforcement",
+      "extrinsic reinforcement"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L54: 'expectation is the anticipated consequence of the person's behavior'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 12,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-nov25/week12",
+   "questions": [
+    {
+     "q": "Sustainability in the context of environmental sustainability is ____.",
+     "options": [
+      "multidimensional",
+      "bidimensional",
+      "unidimensional",
+      "none of the given"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L56 slide (Eggert 2009): 'Sustainability as used in environmental sustainability, economic sustainability and social sustainability is a one dimensional concept'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "As discussed by the Brundtland commission, sustainable development was the solution to the problems of ____.",
+     "options": [
+      "poor health",
+      "recession",
+      "poverty",
+      "environmental degradation"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L56: 'sustainable development was the solution to the problems of environmental degradation discussed by the Brundtland commission'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Environmental sustainability focuses on the impacts of processes, products and services on ____.",
+     "options": [
+      "biodiversity",
+      "ocean environment",
+      "air",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L56: impacts of processes, products and services on air, water, land, biodiversity, human health, ocean environment.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Social entrepreneurship is defined as solving social problems using ____.",
+     "options": [
+      "generational wealth",
+      "market-based methods",
+      "bank loans",
+      "magical methods"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L56 slide: 'Social entrepreneurship, defined as solving social problems using market-based methods'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "HESI stands for.",
+     "options": [
+      "Health and Education Sustainability Initiative",
+      "Higher Education Systematic Initiative",
+      "Higher Education Sustainability Initiative",
+      "none of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L57: 'higher education sustainability initiative' (HESI).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Universal primary and secondary education is an outcome target of ____.",
+     "options": [
+      "SDG 1",
+      "SDG 2",
+      "SDG 3",
+      "SDG 4"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L57: SDG 4 target 4.1 - universal primary and secondary education.",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ is a target group for ESD for 2030 framework.",
+     "options": [
+      "policymakers",
+      "parents",
+      "institutional leaders",
+      "all of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L57: ESD for 2030 target groups - policy makers, institutional leaders, teachers, learners, parents, educators, youth, community.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Successful implementation of ESD requires a shift in focus to ____.",
+     "options": [
+      "learning",
+      "teaching",
+      "exploiting",
+      "reading"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L58 slide: 'Successful implementation of ESD requires a shift in focus from teaching to learning'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "____ competency refers to the ability to reflect on one's own role in community and society.",
+     "options": [
+      "self-awareness",
+      "emotional",
+      "normative",
+      "anticipatory"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L58/L59: 'self-awareness competencies - our ability to reflect on our own role in the local community as well as the global society'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In 2021, the European Centre for the Development of Vocational Training published a skills forecast scenario on the likely employment and skills implications of the ____.",
+     "options": [
+      "European Greenhouse Initiative",
+      "European Green Deal",
+      "European Green Agreement",
+      "none of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L60 slide: 'In 2021, the European Centre for the Development of Vocational Training published a skills forecast scenario on the likely employment and skills implications of the European Green Deal'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 0,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week0",
+   "questions": [
+    {
+     "q": "What is Psychology?",
+     "options": [
+      "A Science subject",
+      "Is objective perception",
+      "An art of living",
+      "A thought process",
+      "A study of cognitive processes & behavior"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Psychology = scientific study of mind (cognitive processes) and behavior.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "A broad field of study that explores a variety of questions about thoughts, feelings and actions is -------?",
+     "options": [
+      "Society",
+      "Globalization",
+      "Psychology",
+      "Social Science",
+      "Human Development"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "A systematic assessment that provides information on political views, consumer buying habits and many other topics is called--------------?",
+     "options": [
+      "Standardized test.",
+      "Projects",
+      "Experiments",
+      "Survey",
+      "Psychological tests"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Surveys gather data on political views, buying habits etc.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "The word Psyche means -------------?",
+     "options": [
+      "Body or physique",
+      "Mind or soul",
+      "Science & spirituality",
+      "Mental health",
+      "Neuropsychology"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Greek psyche = mind/soul.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Who established psychology laboratory in Germany?",
+     "options": [
+      "B.F. Skinner",
+      "J. Thorndike",
+      "Sigmund Freud",
+      "David Kolb",
+      "Wilhelm Wundt"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Wundt founded the first lab at Leipzig (1879).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "To help people to function effectively and fulfill their own unique potential\" is the aim of------",
+     "options": [
+      "Humanistic psychology",
+      "Social Psychiatry",
+      "Philosophy",
+      "Development studies",
+      "Sustainable development"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Humanistic psychology aims at self-actualization.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Behaviorists use a learning process to change abnormal behavior is called----?",
+     "options": [
+      "Rationalism",
+      "Experiential intervention",
+      "Gestalt mechanism",
+      "Hypotheses verification",
+      "Conditioning"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology. Behaviour therapy uses conditioning.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "The study of changes in behavior during life time is called",
+     "options": [
+      "Behaviorism",
+      "Individual difference",
+      "Developmental Psychology",
+      "Maturational theory",
+      "Genetics or Heredity"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "The study of differences and similarities in the behavior of animals of different species is called",
+     "options": [
+      "Sociology",
+      "Social work",
+      "Rehabilitation studies",
+      "Comparative Psychology",
+      "Cultural Psychology"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Week 0 is a general pre-course quiz with no lectures; answer is standard introductory psychology.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 1,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week1",
+   "questions": [
+    {
+     "q": "Which of the following is true regarding learning in psychology?",
+     "options": [
+      "The psychology of learning focuses on how people learn and how they interact with the environments in which they have not learnt",
+      "Learning does not involve any changes in the organism",
+      "Learning is a relatively temporary change in behavior",
+      "none of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture: learning is a relatively permanent change; options a-c are all false, so \"none of the given\". (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "In order to say that learning has occurred, a/an ___ must occur during the lifetime of the organism.",
+     "options": [
+      "hidden change in behavior",
+      "small change in personality",
+      "visible change in emotions",
+      "observable change in behavior"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"it is an observable change in the behavior that is attributed to an element in the environment\" (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learning changes the ___ through the process of continuous interactions between the learner and the external environment.",
+     "options": [
+      "physical structure of the brain",
+      "chemical structure of neurons",
+      "physical structure of the heart",
+      "chemical structure of the spinal cord"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"learning changes the physical structure of the brain through the process of continuous interaction between the learner and the external environment\" (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Watson, one of the first psychologists to study learning and behavior is known for the",
+     "options": [
+      "Little Albert experiment",
+      "Little John experiment",
+      "Little Robert experiment",
+      "Little Johnny experiment"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"Watson ... conducted a small experiment with little Albert ... exposed to a white rat\". (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not explored and described by the psychology of learning?",
+     "options": [
+      "principles of motivation",
+      "principles of forgetting",
+      "principles of genetic disorders",
+      "principles of memory",
+      "principles of retention"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Scope listed: motivation, transfer, memory retention, cognition, emotion; genetic disorders are not part of it. (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "The state of ___ may be valuable at the start of a learning experience.",
+     "options": [
+      "conscious incompetence",
+      "unconscious incompetence",
+      "conscious over-competence",
+      "unconscious over-competence"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"the state of conscious incompetent may be valuable at the start of learning\" (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is the decrease in the response that an organism gives to a stimulus to which it is exposed in numerous trials or occasions.",
+     "options": [
+      "Habituation",
+      "Sensitization",
+      "Forgetting",
+      "Meaningful learning"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Habituation = decreasing response with repeated exposure (wall-clock example); matches lecture and standard definition. (Lecture 5)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Cooperative learning is shaped by three crucial elements. Which of the following is one of them?",
+     "options": [
+      "formation of heterogeneous groups",
+      "positive interdependence",
+      "individual responsibility",
+      "all of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"Cooperative learning is primarily shaped by three crucial elements\": heterogeneous groups, (positive interdependence), individual responsibility, so all of the given. (Lecture 5)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following psychologists is an important contributor to the concept of observational learning?",
+     "options": [
+      "Watson",
+      "Dewey",
+      "Bruner",
+      "Bandura"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Observational learning is Bandura's social learning theory (lecture 7 covers attention-retention-production-motivation).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following is not considered a pioneer of the behaviorism school of thought in psychology?",
+     "options": [
+      "Watson",
+      "Skinner",
+      "Freud",
+      "Pavlov"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"JB Watson, BF Skinner, Ivan Pavlov ... these are the pioneers of behaviorism\"; Freud was a psychoanalyst. (Lecture 6: Major Theories of Learning)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 2,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week2",
+   "questions": [
+    {
+     "q": "___ is known as the father of modern psychology.",
+     "options": [
+      "Sigmund Freud",
+      "Wilhelm Wundt",
+      "John Watson",
+      "Lev Vygotsky"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Standard: Wundt is called the father of modern (experimental) psychology.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Cognitivists objected to behaviorists because they felt that behaviorists ignored the important role of ___.",
+     "options": [
+      "genetics",
+      "emotions",
+      "thinking",
+      "stimulus reaction"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Cognitivists rejected behaviourism for explaining behaviour only as S-R links and ignoring internal mental processes (thinking). (Lecture 7)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is viewed as the mainstream for all research on learning designs.",
+     "options": [
+      "Psychoanalysis",
+      "Positive psychology",
+      "Cognitivism",
+      "Evolutionary psychology"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Cognitivism is presented as the dominant approach for learning research and instructional design; other options do not fit. (Lecture 7)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is a perspective in psychology focusing on the belief that human consciousness cannot be broken down into its elements and is based on the concept of a 'whole'.",
+     "options": [
+      "Cognitivism",
+      "Behaviorism",
+      "Gestalt psychology",
+      "Positive psychology"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Gestalt: \"whole is more meaningful than the sum of its parts\". (Lecture 7)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Theory of multiple intelligences is given by",
+     "options": [
+      "Howard Gardner",
+      "Edward Tolman",
+      "German Gestalt",
+      "Robert J. Sternberg"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Gardner's multiple intelligences (intrapersonal, interpersonal, logical-mathematical, musical ...). (Lecture 8)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The general intelligence factor, also known as g, is what intelligence tests typically measure and refers only to ___ intelligence.",
+     "options": [
+      "academic",
+      "practical",
+      "linguistic",
+      "kinesthetic"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Sternberg: g (general/academic intelligence) covers only academic/analytical ability. (Lecture 8)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Cognitive evaluation for planning, attention, simultaneous, and successive processing of individuals can be done through CAS based on PASS theory. CAS here stands for ___.",
+     "options": [
+      "Cognitive Achievement System",
+      "Cognitive Ability System",
+      "Cognitive Appraisal System",
+      "Cognitive Assessment System"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"they have developed the scale cognitive assessment system\" based on PASS. (Lecture 9)",
+     "verified": "lecture"
+    },
+    {
+     "q": "BBL is a new science that shapes the learning process and is an approach that is based on the structure and function of the human brain. BBL stands for ___.",
+     "options": [
+      "Biological based learning",
+      "Brain based learning",
+      "Biological battery learning",
+      "Brain biology learning"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"brain based learning ... the concept of learning in a neurophysiological context\". (Lecture 9)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Gagne's Conditions of Learning is also known as ___ Events of Instruction.",
+     "options": [
+      "nine",
+      "five",
+      "ten",
+      "seven"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Gagne \"nine events ... provides a framework for designing and delivering the instruction\". (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a type of constructivism?",
+     "options": [
+      "biological",
+      "cognitive",
+      "social",
+      "radical"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Types named: cognitive (Piaget), social (Vygotsky), radical (von Glasersfeld); no biological constructivism. (Lecture 10)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 3,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week3",
+   "questions": [
+    {
+     "q": "Which of the following is not one of the three major processes involved in memory?",
+     "options": [
+      "encoding",
+      "retrieval",
+      "storage",
+      "imagination"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Three basic processes: encoding, storage, retrieval. (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to changing information into a usable form.",
+     "options": [
+      "Storage",
+      "Recall",
+      "Encoding",
+      "Recollection",
+      "Forgetting"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"information must be changed to a usable form which occurs through a process known as encoding\". (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to a range of mental processes relating to the acquisition, storage, manipulation and retrieval of information.",
+     "options": [
+      "Cognition",
+      "Construction",
+      "Encoding",
+      "Thinking"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"cognition refers to the range of mental processes starting from acquisition to storage to manipulation to retrieval\". (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a challenge faced by people with social cognition deficits?",
+     "options": [
+      "talking too much to people",
+      "responding to well to people",
+      "difficulty in reading facial expressions",
+      "difficulty in getting good academic scores"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Social cognition is a domain of cognition in the lecture; deficits = difficulty reading facial expressions (standard description). (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not true about the assumptions underlying the Information Processing View of Learning?",
+     "options": [
+      "Information processing is analogous to computer processing",
+      "The human information processing system is interactive",
+      "There is no limit on how much information can be processed at each stage",
+      "Information is processed in steps"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Assumptions: processed in stages, \"there are limits on how much information can be processed at each stage\", interactive, analogous to computer. (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ prevents the quick disappearance from short term memory of information",
+     "options": [
+      "Rehearsal",
+      "Encoding",
+      "Retrieval",
+      "None of the given"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"rehearsal prevents the quick disappearance of the information from short term memory\" (Lecture 12)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The Multicomponent Model of Working Memory is largely attributed to the work by",
+     "options": [
+      "Atkinson & Shiffrin",
+      "Baddeley",
+      "Piaget",
+      "Craik & Lockhart"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Multicomponent working memory model (episodic buffer, phonological loop, sketchpad) = Baddeley. (Lecture 13)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ memory refers to the events that can be reported from a person's life.",
+     "options": [
+      "Episodic",
+      "Semantic",
+      "Procedural",
+      "None of the given"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Episodic memory = life events that can be reported (autobiographical episodes). (Lecture 14)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The memory capacity depends on which of the following?",
+     "options": [
+      "complexity of the synapses",
+      "spatial and temporal correlations between memories",
+      "specific way memories are retrieved",
+      "all of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Neural network model: capacity \"depends on the complexity of the synapses, the sparseness of the representation, the spatial and temporal [correlations]\" (and retrieval mode), so all. (Lecture 14)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not one of the three measurable dimensions of cognitive load?",
+     "options": [
+      "mental effort",
+      "mental load",
+      "physical effort",
+      "performance"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"mental load, mental effort and the performances [are] the three measurable dimensions of cognitive load\". (Lecture 15)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 4,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week4",
+   "questions": [
+    {
+     "q": "The three main types of thinking in psychology include the following except",
+     "options": [
+      "symbolic",
+      "creative",
+      "divergent",
+      "convergent"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"primary types of thinking ... creative thinking, divergent thinking, symbolic thinking\"; convergent is the exception. (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Young children engaging in imaginative play often engage in ___ thinking.",
+     "options": [
+      "creative",
+      "divergent",
+      "symbolic",
+      "convergent"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Imaginative play (playing roles like father, caretaker) is symbolic thinking. (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a way in which we think?",
+     "options": [
+      "in verbal symbols",
+      "in mathematical symbols",
+      "in gestures and movements",
+      "all of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"thinking also takes place in terms of mathematical symbols, in terms of gestures\", and verbal symbols. (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "People experience the ___ experience when they find the solution to a problem suddenly that had been in their mind for hours or days, late.",
+     "options": [
+      "\"oh no\"",
+      "\"wow\"",
+      "\"aha\"",
+      "none of the given"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Sudden solution after incubation = \"Eureka moment\"/aha experience (insight). (Lecture 19)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ knowledge refers to knowledge of terminology and specific details.",
+     "options": [
+      "factual",
+      "conceptual",
+      "procedural",
+      "metacognitive"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"factual knowledge ... relates to specific details, information, data\" (terminology and details). (Lecture 17)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not true about metacognition?",
+     "options": [
+      "allows people to be dependent on others for their learning",
+      "often referred to as \"thinking about thinking\"",
+      "is crucial for efficient independent learning because it fosters self-reflection",
+      "is a regulatory system that helps a person understand and control his or her own cognitive performance"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Metacognition builds self-regulation and makes the learner independent; dependence on others is not true. (Lecture 18)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not an effective way to develop reflective thinking?",
+     "options": [
+      "asking questions",
+      "self-questioning",
+      "negotiated learning",
+      "avoiding reflective discussions"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Ways listed: self-checking questions, asking questions, \"joining reflective discussion\", negotiated learning; avoiding discussion is not one. (Lecture 19)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not true about creative thinking?",
+     "options": [
+      "It is the ability to consider something in a new way",
+      "It is not a skill anybody can develop",
+      "It is the process of nurturing our imagination",
+      "It is all about developing innovative solutions to problems.",
+      "It requires a compilation of analytical, problem-solving, organizational and communication skills"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture gives strategies to enhance creative thinking (puzzles, questioning, travel), so it can be developed. (Lecture 19)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ___ stage of the creative thinking process refers to the \"eureka\" moment.",
+     "options": [
+      "insight",
+      "incubation",
+      "evaluation",
+      "preparation",
+      "elaboration"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"all of a sudden that Eureka moment ... that is the Insight\". (Lecture 19)",
+     "verified": "lecture"
+    },
+    {
+     "q": "In a concept map, two nodes connected with a labeled arrow are called a",
+     "options": [
+      "preposition",
+      "nodal link",
+      "schema",
+      "proposition"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"the two nodes when they are connected they are called a proposition\". (Lecture 20)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 5,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week5",
+   "questions": [
+    {
+     "q": "Which of the following is not a causal factor for extrinsic motivation?",
+     "options": [
+      "rewards",
+      "social pressure",
+      "curiosity",
+      "financial gain",
+      "punishment"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L21: extrinsic causal factors 'lie in the external environment like reward, social pressure, punishment, financial gain'; curiosity is intrinsic.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to realizing the value of developing a skill/behavior.",
+     "options": [
+      "Amotivation",
+      "Identified regulation",
+      "Introjected regulation",
+      "Motivational learning"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L21: 'identified regulation is that he is now realizing the whole value of developing that particular skill'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Drive theory is a psychological concept that attempts to explain why and how people behave in the ways they do. It is given by",
+     "options": [
+      "Murray",
+      "Hull",
+      "Atkinson",
+      "Zajonc"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L22 slide: drive theory 'was created by behaviorist Clark Hull in 1943'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ theory that suggests that people are motivated to take action in order to receive a reward and is based on the idea of operant conditioning.",
+     "options": [
+      "Incentive",
+      "Arousal",
+      "Goal setting",
+      "None of the given"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L22 slide: 'Incentive theory... suggests that people are motivated to take action in order to receive a reward... based on operant conditioning'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The Yerkes Dodson law gives ___ relationship between arousal and performance.",
+     "options": [
+      "inverted U shaped",
+      "linear",
+      "no",
+      "parabolic"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L22: Yerkes-Dodson curve - performance rises with arousal to an optimum then is impaired by excess arousal (inverted U).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The expectancy theory is based on the assumption that ___.",
+     "options": [
+      "our behavior is based on making a conscious choice from a set of possible alternative behaviors",
+      "individuals are motivated to seek out stimulation when they have low levels of arousal, but will become bored and unmotivated when they become too highly aroused",
+      "biological needs produce unpleasant states of arousal which people seek to reduce",
+      "none of the given"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L22 slide: expectancy theory 'is based on the assumption that our behavior is based on making a conscious choice from a set of possible alternative behaviors'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Valence, or the perceived value of reward, would have ___ value if one wants to avoid that reward.",
+     "options": [
+      "one",
+      "zero",
+      "positive",
+      "negative"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L23: valence is the perceived value of the reward; 'it could be negative, it could be zero...' - negative when one wants to avoid it (Vroom).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not true about Maslow's need hierarchy?",
+     "options": [
+      "Needs lower down in the hierarchy must be satisfied before individuals can attend to higher needs",
+      "Safety needs lie at the bottom of the pyramid",
+      "Deficiency needs are concerned with basic survival a",
+      "Growth needs are more psychological needs",
+      "Motivation is seen as being not just concerned with tension reduction and survival but also with human growth and development"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L24: base of the pyramid is physiological needs (food, water, warmth), safety is second, so 'safety needs at the bottom' is false.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Self-Determination Theory differentiates between ___ and ___ motivation types.",
+     "options": [
+      "autonomous and controlled",
+      "autonomous and intrinsic",
+      "controlled and extrinsic",
+      "introjected and extrinsic",
+      "introjected and intrinsic"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L24: 'self determination theory differentiates between the autonomous motivation and control(led) motivation'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In achievement motivation, the motive to avoid failure often consists of",
+     "options": [
+      "worries about the consequences of failing",
+      "self-criticism",
+      "accelerated heart rate",
+      "all of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L25 slide: 'motive to avoid failure includes worries about the consequences of failing, self-criticism, ... accelerated heart rate'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 6,
+   "source": "https://www.youtube.com/watch?v=d71eYeW1sN8",
+   "questions": [
+    {
+     "q": "Daniel Goleman's work in emotional intelligence (EI) has outlined ___ main areas of this intelligence.",
+     "options": [
+      "three",
+      "four",
+      "five",
+      "six"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L26 slide: 'Daniel Goleman's work in emotional intelligence has outlined five main areas'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is not true?",
+     "options": [
+      "Experts even suggested that emotional intelligence/ EQ, is more important than IQ/academic intelligence",
+      "An individual with high EI is not only aware of what emotions they are feeling but can put words to their feelings",
+      "Studies show that EI does not impact aspects of one's life like academic performance",
+      "Peter Salovey and John Mayer were the first to develop a psychological theory of emotional intelligence."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L26: 'emotional intelligence can... positively impact their academic performance', so the 'does not impact' statement is false.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to how tuned to the emotions of others a person is.",
+     "options": [
+      "Empathy",
+      "Motivation",
+      "Emotional literacy",
+      "Self regulation"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L26: empathy is 'how tuned to the emotion of others a person is'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following are advantages of developing emotional intelligence, except------",
+     "options": [
+      "Being able to accept criticism and responsibility",
+      "Knowing why we do the things we do",
+      "Being able to say no when we need to",
+      "Being able to hide our feelings from others"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L27 slide 'Advantages of Developing EI' lists accepting criticism, saying no, knowing why we do things, sharing (not hiding) feelings.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The Pyramid of Emotional Intelligence is also known as the ___ layer model.",
+     "options": [
+      "nine",
+      "five",
+      "seven",
+      "eleven"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L27: 'it is nine layer pyramid through which we can understand how emotional intelligence develops'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "EI can be developed at any stage of life through self-effort & training.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L28 slide: 'EI can be developed at any stage of life through self-effort & training'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "When someone engages in ___, they can regulate their emotions to ensure that others feel more comfortable.",
+     "options": [
+      "emotional exhaustion",
+      "emotional literacy",
+      "empathy",
+      "emotional labor"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L29: emotional labor = managing/displaying emotions as the job demands to make others (passengers, customers) feel good.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The management of emotions is ___",
+     "options": [
+      "a private act",
+      "influenced by cultural and social norms",
+      "done by actively shaping and directing feelings",
+      "all of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L29: management of emotion 'is essentially a private act' yet culture-specific, shaped by social norms of what is appropriate to feel; all apply.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is seen when workers change their outward emotional expressions but do not attempt to feel the emotions that they are displaying.",
+     "options": [
+      "deep acting",
+      "emotional contagion",
+      "surface acting",
+      "emotional literacy"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L29: surface acting 'is when the workers change their outward emotional expression but do not attempt to feel the emotion that they are displaying'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The concept of emotional contagion can be linked to biological basis of ___",
+     "options": [
+      "emotional neurons",
+      "mirror neurons",
+      "contagious neurons",
+      "None of the given"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L29: emotional contagion explained by mirror neurons in the cortex.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 7,
+   "source": "https://www.youtube.com/watch?v=N-PrUQKDQeI",
+   "questions": [
+    {
+     "q": "___ defined learning as 'a change in human disposition or capacity that persists over a period of time and is not simply ascribable to processes of growth.'",
+     "options": [
+      "Bloom",
+      "Dewey",
+      "Gagne",
+      "Kolb"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L31: 'Robert Gagne defined learning as a change in human disposition or capacity that persists over a period of time and is not simply ascribable to processes of growth'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The principles of contiguity (how close in time two events must be for a bond to be formed) and reinforcement (any means of increasing the likelihood that an event will be repeated) are central to explaining the learning process in the ___ orientation to learning.",
+     "options": [
+      "Cognitive",
+      "Humanistic",
+      "Social and social-constructivist",
+      "Behaviorist"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L31: in behaviorist orientation 'this principle of contiguity and reinforcement these are the primary factors that explain the learning process'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not true about humanistic orientations to learning?",
+     "options": [
+      "It has a quality of personal involvement",
+      "It is self-initiated",
+      "It is pervasive",
+      "The locus of evaluation resides definitely outside the learner"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L31: humanistic learning - personal involvement, self-initiated, pervasive; 'locus of evaluation... resides within the learner'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The concept of situated learning is studied under which school of thought of learning theories?",
+     "options": [
+      "behaviorist",
+      "cognitive",
+      "humanistic",
+      "social"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L32: situated learning discussed under the social & situational orientation (co-participation, communities of practice).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not one of the individual variable factors affecting learning?",
+     "options": [
+      "ergonomics",
+      "interest",
+      "endurance",
+      "ego",
+      "perception"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L32: individual variables = interest, perception, past experience, learning capabilities, endurance, ego; ergonomics is an environmental variable.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ learners prefer maps, graphs, diagrams and charts to learn.",
+     "options": [
+      "Visual",
+      "Solitary",
+      "Kinesthetic",
+      "Auditory"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L32: visual learners learn through 'maps, graphs, diagrams, charts, visual aids'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ learners search for connections, causes, patterns, and results in their learning.",
+     "options": [
+      "linguistic",
+      "kinesthetic",
+      "visual",
+      "logical"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L32: logical/analytical learners look for 'the connection between the concepts, causes, factors, the patterns'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Effective instruction is ___",
+     "options": [
+      "interactive, generative and dynamic",
+      "designed to accommodate student learning needs and styles",
+      "guided by general pedagogical approaches",
+      "eclectic",
+      "all of the given"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L33: effective instruction is interactive, eclectic, generative and dynamic, accommodates learner needs, uses pedagogical approaches - all of the given.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ role of the trainer consists of transmitting information about a subject to the audience.",
+     "options": [
+      "expert",
+      "instructor",
+      "facilitator",
+      "co-learner"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L33: 'the role of the trainer... he's an expert... because he transmits the information about the subject to the audience'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a component of the ADDIE model?",
+     "options": [
+      "analysis",
+      "integration",
+      "development",
+      "evaluation"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L33: ADDIE = analysis, design, development, implementation, evaluation; integration not a component.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 8,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week8",
+   "questions": [
+    {
+     "q": "The word 'pedagogy' has been derived from the Greek word \"pedagogue\" which stands for",
+     "options": [
+      "the science of learning",
+      "the art of observing",
+      "the art of teaching children",
+      "none of the given"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L36: 'it has come from the Greek word... pedagogue means the art of teaching the children'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is not true about pedagogy?",
+     "options": [
+      "It assists both students and teachers in gaining an in-depth understanding of fundamental material.",
+      "It is about suppressing responses from learners",
+      "It enhances the student-teacher relationship",
+      "It enables teachers to influence student learning with an intention to capture the attention of students"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L36: good pedagogy aims 'to elicit the responses that demonstrate understanding', not to suppress them.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a pedagogical approach in teaching?",
+     "options": [
+      "reflective",
+      "collective",
+      "collaborative",
+      "integrative"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L36 slide: five approaches - constructivist, collaborative, inquiry-based, integrative, reflective; 'collective' is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is a form of active learning that starts by posing questions, problems or scenarios rather than simply presenting established facts or portraying a smooth path to knowledge.",
+     "options": [
+      "constructivist learning",
+      "passive learning",
+      "inquiry-based learning",
+      "metalearning"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L36: inquiry-based approach 'is a form of active learning... posing questions, problems'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a primary role of the instructor in experiential learning?",
+     "options": [
+      "posing problems",
+      "providing solutions",
+      "blurring boundaries",
+      "none of the given"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L37 slide: 'instructor's primary roles include setting suitable experiences, posing problems, setting boundaries, supporting students...'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The \"what is important?\" stage of the experiential learning process refers to the ___ stage",
+     "options": [
+      "processing",
+      "generalizing",
+      "application",
+      "reflecting"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L37 slide: 'Processing/Analyzing \"What's Important?\"'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ___ learning style as given by Kolb suggests that these individuals prefer to look at things from multiple perspectives and prefer to watch rather than do.",
+     "options": [
+      "Assimilating",
+      "Accommodating",
+      "Converging",
+      "Diverging"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L37: diverging style - 'look at things from multiple perspectives... prefer to watch rather than do'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following factors influence preferred learning style except",
+     "options": [
+      "career choice",
+      "personality",
+      "educational specialization",
+      "genes"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L37: factors influencing learning style - adaptive competencies, career choice, current job role, educational specialization, personality type; not genes.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Integrative learning often involves three steps. Which of the following is not one of them?",
+     "options": [
+      "collaboration",
+      "integrative enquiry",
+      "application and transfer",
+      "reflection"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L37: integrative learning 'involves these three steps... integrative inquiry, application and transfer, and then reflection'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In transformative learning, ___ includes a student's habit of the mind, as well as a personal point of view.",
+     "options": [
+      "intentional content",
+      "frame of reference",
+      "frame of context",
+      "none of the given"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L39: 'a frame of reference includes... a student's habit of mind as well as the personal point of view'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 9,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week9",
+   "questions": [
+    {
+     "q": "E-learning implies ___ learning.",
+     "options": [
+      "mentor assisted",
+      "teacher enhanced",
+      "computer enhanced",
+      "electricity enhanced"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L41: 'e-learning is the very comprehensive term which implies the computer enhanced learning, technology enhanced learning'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ type of e-learning is highly interactive, which includes graphics, video, audio and games too.",
+     "options": [
+      "text driven",
+      "simulation",
+      "interactive",
+      "none of the given"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L41 slide: 'Simulation: It is a highly interactive kind of e-learning, which includes graphics, video, audio and games too.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not true about e-learning?",
+     "options": [
+      "one can have access to the content any number of times",
+      "it helps in developing new policies",
+      "it saves time for the students, they don't need to travel to the institution",
+      "it is targeted to cater to the needs of students specifically"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L41 slide benefits: accommodates everyone's needs (working person, housewife or student), lectures can be taken multiple times/'access the content any number of times', scalability 'facilitates in developing and communicating new training policies' - so d (targeted specifically at students) is not true.",
+     "verified": "lecture"
+    },
+    {
+     "q": "As learning depends on the learner's prior experience, and no two learners will have the same experiences, new information will be dealt with in different ways by different learners. This statement means that learning is",
+     "options": [
+      "goal-oriented",
+      "dependent on self-awareness",
+      "social",
+      "idiosyncratic"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L42: 'learning is very peculiar, very idiosyncratic ... as the learning depends on learners prior experience'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a way of facilitating the social dimension to learning?",
+     "options": [
+      "e-mails",
+      "online discussions",
+      "virtual communities",
+      "all of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L41/L42: social dimension via discussion forums, emails/instant messages, blogs, virtual communities of practice - all of these.",
+     "verified": "lecture"
+    },
+    {
+     "q": "We can say that when we're good at something after practice, it's usually because",
+     "options": [
+      "our brain has become automated",
+      "our brain has released better chemicals",
+      "our brain has made stronger connections with this information",
+      "our brain has prioritized this information over others"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L42 slide: 'when we're good at something, it's usually because our brain has made stronger connections with this information'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learners may multitask when engaging in an online course, which could be resulting in",
+     "options": [
+      "hyperfocus",
+      "better retrieval",
+      "shorter attention spans",
+      "None of the given"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L43: continuous multitasking 'makes our attention span very short'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The cognitive load theory suggests that when we overload our ___ we are unable to acquire and process new information.",
+     "options": [
+      "sensory memory",
+      "encoding",
+      "retrieval",
+      "working memory"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L43: working memory has limited capacity; continuous e-learning overloads it creating cognitive load.",
+     "verified": "lecture"
+    },
+    {
+     "q": "There are five critical aspects of psychology which are needed to guarantee the implementation of successful eLearning. Which of the following is not one of them?",
+     "options": [
+      "evolution",
+      "self-discipline",
+      "stress",
+      "emotion"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L43: five critical aspects - motivation, emotion, self-discipline, social skills, stress; evolution is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is a learning tool, because the explicit navigation of the topic and association types might enable meaningful learning and it helps to reduce the cognitive loads caused by E-learning content and constant attention.",
+     "options": [
+      "topic map",
+      "schema",
+      "prototype",
+      "instructional map"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L43: 'topic map ... is a tool and explicit navigation ... enables the meaningful learning ... reduces cognitive load'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 10,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week10",
+   "questions": [
+    {
+     "q": "The Readiness Model for New Normal in Education designed by many educational institutions caters to the following components except",
+     "options": [
+      "parent readiness",
+      "learner readiness",
+      "society readiness",
+      "teacher readiness"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L46 slides: Readiness Model for New Normal - Parents' Readiness, Teachers' Readiness, Learners' Readiness; no society readiness.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In 2018, Global Education and Skills Forum noted that the 'future' teacher would need some skills to thrive in the 21st century. Which of the following is not one of them?",
+     "options": [
+      "Being a facilitator",
+      "Internal focus",
+      "Strong social skills",
+      "Data analysis"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L46 slide (GESF 2018) skills: strong subject knowledge, being a facilitator, strong social skills, external focus, data analysis; 'internal focus' is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following impacts student learning?",
+     "options": [
+      "Their perception about their intelligence and ability",
+      "Prior knowledge",
+      "Their context",
+      "All of the given"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L46 principles: self-perception of intelligence/ability, prior knowledge, and context all affect learning.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is not true?",
+     "options": [
+      "Techniques linked to self-control contribute to more effective learning if taught and applied correctly",
+      "Student creativity can be encouraged.",
+      "Clear, explanatory and timely feedback to students is important for learning",
+      "Students tend to enjoy learning and have better outcomes when their motivation is more extrinsic than intrinsic"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L47 principle 9: students enjoy learning and do better 'when their motivation is more intrinsic than extrinsic' - option d reverses it.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Both formative and summative assessment are important and useful, provided they are applied and interpreted appropriately.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L47/L49: formative and summative assessment are both important and useful, complementary.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Individual differences are the unique ways each human being differs from another. It can be handled through using different techniques. Which of the following is not one of them?",
+     "options": [
+      "observation",
+      "sociograms",
+      "rating scales",
+      "ignorance"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L48 slide: individual differences handled through 'observation, interviews, rating scales', sociograms etc.; ignorance is not a technique.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Clapping is an example of ___ reward.",
+     "options": [
+      "tangible",
+      "financial",
+      "social",
+      "none of the given"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L48 slide: 'A reward may be social, such as clapping, or tangible, such as giving...'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is the process of judging the value or worth of an individual's achievements or characteristics.",
+     "options": [
+      "Goal-setting",
+      "Classroom conduct",
+      "Formation",
+      "Evaluation"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L49: 'evaluation is the process for verifying, valuing or judging the worth of an individual's achievements and/or characteristics'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to the frequent, interactive assessment of student progress to identify learning needs and shape teaching.",
+     "options": [
+      "Formative assessment",
+      "Summative assessment",
+      "Collective assessment",
+      "None of the given"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L49: formative assessment is frequent, intermittent assessment to map progress, give feedback and modify teaching.",
+     "verified": "lecture"
+    },
+    {
+     "q": "\"That is an intelligent response, well done\" is an example of a ___ level feedback.",
+     "options": [
+      "Task-level",
+      "Process-level",
+      "Facilitator-level",
+      "Personal-level"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L50 slide: '3: Personal-level feedback ... directed to the self ... Example: That's an intelligent response, well done.'",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 11,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week11",
+   "questions": [
+    {
+     "q": "___ refers to a complex set of mental abilities underlying social stimulus perception, processing, interpretation, and response.",
+     "options": [
+      "social schema",
+      "emotional cognition",
+      "social cognition",
+      "emotional schema"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L51: 'social cognition ... refers to a complex set of mental abilities underlying social stimulus perception, processing, interpretation and response'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Piaget's conception of ___ views information inconsistent with an individual's cognitive structures as an initiator for assimilation and accommodation processes.",
+     "options": [
+      "assimilation and accommodation schema",
+      "cognitive determinism",
+      "reciprocal dynamism",
+      "cognitive conflict"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L54 slide: 'Piaget's conception of cognitive conflict views information' inconsistent with cognitive structures as initiator of assimilation/accommodation.",
+     "verified": "lecture"
+    },
+    {
+     "q": "During the earliest stages of development, children see the world from their own perspective and struggle to think about how other people may view the world. This highlights that initially, children are",
+     "options": [
+      "egocentric",
+      "idiosyncratic",
+      "egoistic",
+      "egomaniac"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L51: 'at the young stage every child is very much egocentric'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is false regarding social cognition?",
+     "options": [
+      "It develops in childhood and adolescence",
+      "When looking at a social situation, any two people may have wildly different interpretations.",
+      "It includes complex abilities like theory of mind",
+      "There are no cultural differences in social cognition"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L51/L52: social cognition develops in childhood and adolescence, two people may interpret wildly differently, includes theory of mind, and 'there are cultural differences in social cognition'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Social processes influence how information is selected, organized, integrated, and retrieved. This highlights the ___ hypothesis.",
+     "options": [
+      "social cue",
+      "cognitive influence",
+      "schema influence",
+      "social mediation"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L54: 'cognitive influence hypothesis ... social processes influence how the information is selected, organized, integrated and retrieved'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The social cognitive theory is developed by ___.",
+     "options": [
+      "Watson",
+      "Piaget",
+      "Bandura",
+      "Freud"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L52: 'social cognitive theory is actually a learning theory developed by Albert Bandura'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to the internal or external responses to a person's behavior that affect the likelihood of continuing or discontinuing the behavior.",
+     "options": [
+      "modeling",
+      "schemas",
+      "awards",
+      "reinforcements"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L53: reinforcement 'refers to the internal and external responses ... that affects the likelihood of continuing ... or discontinuing' the behaviour.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Observational learning occurs through the sequence of ___ number of processes. One of those is attentional processes.",
+     "options": [
+      "four",
+      "five",
+      "six",
+      "seven"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L53: 'observational learning occur through a sequence of the four processes' - attentional, retention, production, motivational.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ___ model of observational learning involves an actual individual demonstrating or acting out a behavior.",
+     "options": [
+      "live",
+      "symbolic",
+      "verbal instructional",
+      "contextual"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L53: Bandura's three models - live model (actual individual demonstrating behaviour), symbolic, verbal instructional.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ suggests that our behavior, personal factors, and environmental factors all influence each other.",
+     "options": [
+      "environmental dynamism",
+      "reciprocal determinism",
+      "collective determinism",
+      "reciprocal dynamism"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L53: 'reciprocal determinism ... our behavior, personal factor, environmental factors all influence each other'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 12,
+   "source": "https://myquizprep.pages.dev/quiz/psychology-of-learning-jul24/week12",
+   "questions": [
+    {
+     "q": "Sustainable development is",
+     "options": [
+      "unidimensional",
+      "bidimensional",
+      "multidimensional",
+      "none of the given"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L56 slide (Eggert 2009): 'Sustainable development is multidimensional as it integrates...'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Revenue generation and resource use are components of",
+     "options": [
+      "environmental sustainability",
+      "social sustainability",
+      "financial sustainability",
+      "economic sustainability"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L56: economic sustainability relates to 'revenue generation, alternative uses of resources, resource monitoring ... resource use'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ as a practice is defined as solving social problems using market based methods and can create both economic and social value.",
+     "options": [
+      "social entrepreneurship",
+      "economic entrepreneurship",
+      "social marketing",
+      "social economics"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L56 slide: 'Social entrepreneurship, defined as solving social problems using market-based methods' creating economic and social value.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of sustainability, HESI highlights the role of ___ in building a better world for current and future generations.",
+     "options": [
+      "Financial stability",
+      "Higher education",
+      "Climate change",
+      "Natural resources"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L57: HESI 'highlights the role of higher education and higher education institutions in building a better world for current and future generations'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following are the outcome targets of SDG 4, except.",
+     "options": [
+      "Relevant skills for decent work",
+      "Gender equality and inclusion",
+      "Privatization of institutes",
+      "Universal youth literacy"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L57 SDG 4 outcome targets: universal primary/secondary, early childhood, equal access to TVET/higher ed, relevant skills for decent work, gender equality and inclusion, universal youth literacy, citizenship/ESD; no privatization.",
+     "verified": "lecture"
+    },
+    {
+     "q": "One of the means to implement SDG 4 is exponentially increasing the number of scholarships available to developing contexts.",
+     "options": [
+      "False",
+      "True"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L57 slide: '4.b Scholarships - By 2030, substantially expand globally the number of scholarships available to developing countries'. 'Exponentially' is probably a paraphrase (True), but the changed word could be an intended falsification.",
+     "verified": "unsure"
+    },
+    {
+     "q": "Successful implementation of ESD requires a shift in focus from",
+     "options": [
+      "feeling to thinking",
+      "learning to teaching",
+      "teaching to feeling",
+      "teaching to learning"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L58 slide: 'Successful implementation of ESD requires a shift in focus from teaching to learning and a multidisciplinary approach'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to the ability to understand and evaluate multiple possible futures to deal with risks and changes.",
+     "options": [
+      "anticipatory competency",
+      "collaboration competency",
+      "normative competency",
+      "systems thinking competency"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L58/L59: anticipatory competency - 'ability to understand and evaluate multiple futures ... to deal with the risk and changes'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fostering competencies requires integration of three interrelated dimensions of learning as described by UNESCO. Which of the following is not one of them?",
+     "options": [
+      "biological learning",
+      "cognitive learning",
+      "behavioral learning",
+      "social and emotional learning"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L58 slide: three interrelated dimensions of learning (UNESCO) - cognitive, social and emotional, behavioral; biological is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "GAP in the context of Education for Sustainable Development stands for",
+     "options": [
+      "General Activity Priority",
+      "Global Action Programme",
+      "Global Achievement Programme",
+      "General Awareness Programme"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L59 slide: 'Global Action Programme (GAP) on ESD states that...'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 1,
+   "source": "https://www.youtube.com/watch?v=bjXMNsQ_XqA",
+   "questions": [
+    {
+     "q": "Psychologists agree that learning results from ___",
+     "options": [
+      "running",
+      "talking",
+      "experience",
+      "seeing",
+      "reacting"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"learning causes relatively permanent change in the behavior that results from the experience\" (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learning is defined as a ___ change in behavior",
+     "options": [
+      "temporary",
+      "large",
+      "small",
+      "easy",
+      "relatively permanent"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "\"learning brings a relatively permanent change in our behavior that results from experience\" (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ definitions of learning refer to a specific change in mental constructs (e.g., knowledge, representations, associations) of an organism.",
+     "options": [
+      "Cognitive",
+      "Psychodynamic",
+      "Experimental",
+      "Anthropological",
+      "Humanistic"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"the cognitive definition of learning ... refer to the specific change in the organism ... change in the mental constructs\" (Lecture 1: Psychology of Learning)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Who among the following was one of the first psychologists to study how learning influences behavior?",
+     "options": [
+      "Carl Jung",
+      "John B. Watson",
+      "Sigmund Freud",
+      "Albert Einstein",
+      "Abraham Maslow"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture presents John B. Watson as founder of behaviourism who studied learning and behaviour (Little Albert); others listed are not learning researchers. (Lecture 2: Psychology of Learning (Contd.))",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not an outcome of effective learning?",
+     "options": [
+      "more connected knowledge",
+      "more sad and anxious feelings",
+      "more reflective approach",
+      "more positive emotions",
+      "more developed vision of future self as a learner"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Effective learning outcomes listed: \"more connected knowledge\", \"wider range of strategies\", reflective approach, positive emotions; sad/anxious feelings is not one. (Lecture 3)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learning that consists of adding to existing student knowledge is known as",
+     "options": [
+      "conceptual growth",
+      "conceptual decline",
+      "conceptual change",
+      "conceptual decay",
+      "conceptual budding"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"adding to the existing student knowledge known as the conceptual growth or the transforming or revising ... known as the conceptual change\" (Lecture 3)",
+     "verified": "lecture"
+    },
+    {
+     "q": "What type of feedback to students is important for increasing learning?",
+     "options": [
+      "Clear, assertive, and delayed",
+      "Clear, explanatory, and timely",
+      "Ambiguous, explanatory, timely",
+      "Strict, assertive, delayed",
+      "Clear, harsh, timely"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"clear explanatory And Timely feedback to student is important for learning\" (Lecture 4)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Getting used to of something like the ticking of a wall clock is an example of",
+     "options": [
+      "Sensitization",
+      "Conditioning",
+      "Meaningful learning",
+      "Habituation",
+      "Associative learning"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Habituation explained with the example \"clicking of the wall clock ... as we become habituated to that then we overlook it\". (Lecture 5)",
+     "verified": "lecture"
+    },
+    {
+     "q": "In ___ learning, special emphasis is placed on exchanges of information as a way of enriching work and the confluence of ideas",
+     "options": [
+      "associative",
+      "observational",
+      "emotional",
+      "non-associative",
+      "cooperative"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Cooperative learning: \"it is also exchange of information it is also enriching our work with the confluence of ideas\". (Lecture 5)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is the process of gradually changing the quality of a response.",
+     "options": [
+      "Modeling",
+      "Cueing",
+      "Reinforcement",
+      "Shaping",
+      "Punishment"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"shaping is the process of gradually changing the quality of response\" (Lecture 6: Major Theories of Learning)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 2,
+   "source": "https://www.youtube.com/watch?v=IPFWuNPI1l8",
+   "questions": [
+    {
+     "q": "___ established the first psychological laboratory at the University of Leipzig in Germany.",
+     "options": [
+      "Sigmund Freud",
+      "Albert Einstein",
+      "Wilhelm Wundt",
+      "Aristotle",
+      "Carl Jung"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Standard fact: Wundt opened the first psychology laboratory at Leipzig in 1879 (name not found in the captions).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "___ is a theory of learning that uses mind as an information processor, like a computer",
+     "options": [
+      "Behaviorism",
+      "Information Technology",
+      "Psychoanalysis",
+      "Cognitivism",
+      "Motivation"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"just like the computer mind is an information processor\" in the cognitive school (cognitivism). (Lecture 7)",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Gardner's theory of multiple intelligences, ___ intelligence is about self-knowledge and the ability to act adaptively on the basis of that knowledge",
+     "options": [
+      "Interpersonal",
+      "Spatial",
+      "Intrapersonal",
+      "Linguistic",
+      "Musical"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture: \"intrapersonal ... the self-knowledge ... ability to act adaptively\". (Lecture 8)",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the PASS theory of intelligence, PASS stands for ___",
+     "options": [
+      "Practice, Attention, Selection, Sensation",
+      "Planning, Attention-Arousal, Simultaneous and Successive",
+      "Processing, Arousal, Simultaneous Selection",
+      "Problem solving, Attention, Sensation, Substitution",
+      "Perception, Attention, Selection, Sensation"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"PASS model ... planning, attention, simultaneous and successive processing\" (Das). (Lecture 9)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Pre-assessment, group based initial instruction, regular formative assessments, corrective instruction, and parallel formative assessments are all components of ___",
+     "options": [
+      "Mastery learning",
+      "Structure of Intellect",
+      "Instructional learning",
+      "Positive learning",
+      "Intelligence"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Mastery learning: pre-assessment, instruction, formative assessment, \"corrective instruction, parallel formative assessments\" and enrichment. (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an approach to learning which suggests that reality is determined by the experiences of the learner?",
+     "options": [
+      "Constructivism",
+      "Cognitivism",
+      "Conceptualism",
+      "Instructionism",
+      "Conceptualization"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Constructivism: every learner constructs their own knowledge from experience. (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ constructivism is based on the work of Lev Vygotsky.",
+     "options": [
+      "Cognitive",
+      "Behavioral",
+      "Motivational",
+      "Positive",
+      "Social"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "\"social constructivism ... Lev Vygotsky is the propagator\". (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a stage of development as given by Piaget?",
+     "options": [
+      "Preoperational",
+      "Formal operational",
+      "Sensory-motor",
+      "Post operational",
+      "Concrete operational"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Piaget's four stages: sensory-motor, pre-operational, concrete operational, formal operational. (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Vygotsky, ___ is the gap between what a learner can do independently and what they can do with the help of a more knowledgeable other.",
+     "options": [
+      "knowledge gap",
+      "zone of proximal development",
+      "zone of intelligence",
+      "intelligence gap",
+      "zone of knowledge"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Vygotsky \"has defined ... the zone of proximal development\". (Lecture 10)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ teaching involves an interactive dialogue between a teacher and a small group of students.",
+     "options": [
+      "Reciprocal",
+      "Instructional",
+      "Reinforcing",
+      "Corrective",
+      "Restricted"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"reciprocal teaching ... having an interactive dialogue between the teacher and the small groups\" (Lecture 10)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 3,
+   "source": "https://www.youtube.com/watch?v=9qAsSFznkzs",
+   "questions": [
+    {
+     "q": "Researchers have long believed that memories form due to changes in the brain ___",
+     "options": [
+      "muscles",
+      "bones",
+      "blood",
+      "skull",
+      "neurons"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Memory forms through changes in connections between nerve cells (neurons/synapses); only \"neurons\" fits. (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to calling back the stored information in response to some cue for use in a process or activity",
+     "options": [
+      "Encoding",
+      "Storage",
+      "Registration",
+      "Retrieval",
+      "Forgetting"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"the next process is the retrieval, recall or recollection\" when information is needed in response to cues. (Lecture 11: Memory & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The duration of the sensory register is ___",
+     "options": [
+      "1-3 seconds",
+      "1-3 minutes",
+      "15-30 seconds",
+      "15-30 minutes",
+      "1 hour"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Sensory register: \"the duration is one to three seconds\". (Lecture 12)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Maintenance rehearsal in the context of short term memory is also known as ___",
+     "options": [
+      "elaborative rehearsal",
+      "rote rehearsal",
+      "elaborative encoding",
+      "dual coding",
+      "visual imagery encoding"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Maintenance rehearsal = rote repetition (lecture 12 contrasts rote rehearsal with elaborative rehearsal).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following is not a component of the working memory model?",
+     "options": [
+      "Central executive",
+      "Visuo-spatial sketchpad",
+      "Language repository",
+      "Episodic buffer",
+      "Phonological loop"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Baddeley model: central executive, phonological loop, visuo-spatial sketchpad, episodic buffer; no \"language repository\". (Lecture 13)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ describes our implicit knowledge of tasks that usually do not require conscious recall to perform them",
+     "options": [
+      "Procedural memory",
+      "Declarative memory",
+      "Semantic memory",
+      "Episodic memory",
+      "Collective memory"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Procedural knowledge/memory = know-how of performing tasks, implicit. (Lecture 14)",
+     "verified": "lecture"
+    },
+    {
+     "q": "The Levels of Processing theory in memory is given by -",
+     "options": [
+      "Atkinson & Shiffrin",
+      "Craik & Lockhart",
+      "Baddley",
+      "Piaget",
+      "Freud"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Levels of processing (shallow structural vs deep) = Craik & Lockhart. (Lecture 14)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ processing is when we encode only the physical qualities of something.",
+     "options": [
+      "Phonemic",
+      "Structural",
+      "Semantic",
+      "Deep",
+      "Elaborative"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"shallow processing is the structural encoding ... emphasizes the physical structure of the stimulus\". (Lecture 14)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to the cognitive capacity actually allocated to the task.",
+     "options": [
+      "Mental load",
+      "Mental effort",
+      "Performance",
+      "Capacity load",
+      "Task load"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"mental effort actually refers to the cognitive capacity actually allocated to the task\"; mental load is imposed by the task. (Lecture 15)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a helpful way of improving memory?",
+     "options": [
+      "Writing it down",
+      "Repetition",
+      "Taking a mental picture",
+      "Over-exerting yourself",
+      "Attaching meaning to it"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Writing down, repetition, imagery and meaning help memory; over-exertion does not.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 4,
+   "source": "https://www.youtube.com/watch?v=0ZSetTI9vQE",
+   "questions": [
+    {
+     "q": "When there are many possible answers to a solution, we rely on ___ to help us choose the best solution, like trying to answer or solve an open-ended question",
+     "options": [
+      "luck",
+      "divergent thinking",
+      "remembering",
+      "sensory memory",
+      "symbolic thinking"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"diversion [divergent] thinking ... multiple solutions to a question which is probably open-ended question\". (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ are representative items within each concept.",
+     "options": [
+      "Imaginations",
+      "Focuses",
+      "Architectures",
+      "Prototypes",
+      "Images"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Prototype = representative example of a concept (Himalayan mountains example). (Lecture 16: Thinking & Cognition)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Cognitive, affective, and psychomotor are three learning domains as given by -",
+     "options": [
+      "Cognitive architectures",
+      "Maslow's hierarchy",
+      "Bloom's Taxonomy",
+      "Propositions",
+      "Working memory theory"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Bloom's taxonomy domains: cognitive, affective, psychomotor. (Lecture 17)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ knowledge defines knowledge about own knowledge or self-knowledge",
+     "options": [
+      "Factual",
+      "Metacognitive",
+      "Cognitive",
+      "Procedural",
+      "Conceptual"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Types of knowledge: factual, conceptual, procedural, metacognitive (knowledge of one's own cognition). (Lecture 17)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is the ability to collect and analyze information to come to a conclusion.",
+     "options": [
+      "Critical thinking",
+      "Metacognition",
+      "Intuition",
+      "Affective thinking",
+      "Learning"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"critical thinking ... is the ability to collect and analyze the information to come to a conclusion\". (Lecture 18)",
+     "verified": "lecture"
+    },
+    {
+     "q": "'Think out of the box' refers to which of the following?",
+     "options": [
+      "Creative thinking",
+      "Critical thinking",
+      "Reflective thinking",
+      "Analytical thinking",
+      "Metacognition"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Creative thinking = going beyond the boundary, new ideas (\"think out of the box\"). (Lecture 19)",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a stage of the creative thinking process?",
+     "options": [
+      "Elaboration",
+      "Evaluation",
+      "Preparation",
+      "Insight",
+      "Information"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "Stages: preparation, incubation, insight, evaluation, elaboration; \"information\" is not a stage. (Lecture 19)",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ is a method of problem solving in which possible solutions are tried until one is successful.",
+     "options": [
+      "Analogy",
+      "Trial and error",
+      "Chance",
+      "Algorithm",
+      "Creativity"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Trial and error: trying again and again until success. (Lecture 19)",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the traditional approach to learning, a student's role is ___",
+     "options": [
+      "passive",
+      "active",
+      "experiential",
+      "absent",
+      "unrecognized"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Traditional (teacher-centred) approach treats the student as a passive recipient.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "___ are versatile graphic organizers that can represent many different forms of relationships between concepts.",
+     "options": [
+      "Prototypes",
+      "Concepts",
+      "Emotional maps",
+      "Cognitive aids",
+      "Cognitive maps"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "\"mental maps or versatile graphic organizers ... which can represent many different forms of relationship between the concepts\"; mental map = cognitive map. (Lecture 20)",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 5,
+   "source": "https://www.youtube.com/watch?v=SFTs_f0OhFQ",
+   "questions": [
+    {
+     "q": "Which of the following is not a major component of motivation?",
+     "options": [
+      "Activation",
+      "Confusion",
+      "Persistence",
+      "Intensity",
+      "Direction"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L21 (Motivation of Learning) lists major components as activation, persistence, intensity (and direction); confusion is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to doing something or behaving well because one feels an internal pressure to do so.",
+     "options": [
+      "Identified regulation",
+      "Amotivation",
+      "Introjected regulation",
+      "Curiosity",
+      "Motivational learning"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L21: introjected regulation = 'doing something or behave well because one feels pressure within'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ drives are often referred to as 'tertiary drives'.",
+     "options": [
+      "Biological",
+      "Psychological",
+      "Social",
+      "Hunger",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L22: 'the social drives are found as the tertiary drives'; slide 'Types of Drive' biological=primary, psychological=secondary.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Incentive theory of motivation is based on the concept of ___",
+     "options": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Memory",
+      "Forgetting",
+      "Drive theory"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L22 slide: 'Incentive theory... is based on the idea of operant conditioning'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The Yerkes Dodson law gives a relationship between ___ and ___",
+     "options": [
+      "arousal, performance",
+      "intelligence, stress",
+      "stress, happiness",
+      "learning, marks",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L22: Yerkes-Dodson law plots level of arousal (x-axis) against performance (y-axis).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The letter 'M' in the acronym 'SMART' used in the context of goal setting stands for -",
+     "options": [
+      "measurable",
+      "microscopic",
+      "maintained",
+      "motivated",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L23: SMART goals - specific, measurable ('can be measured, evaluated'), achievable/assignable, realistic, time-based.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Maslow's need hierarchy has ___ number of stages.",
+     "options": [
+      "Two",
+      "Three",
+      "Seven",
+      "Four",
+      "Five"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L24: Maslow's hierarchy 'is the five tier model... five layers'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What are the three psychological needs highlighted by the self determination theory?",
+     "options": [
+      "Autonomy, Comfort, Rationalization",
+      "Autonomy, Competence, Relatedness",
+      "Attention, Comfort, Relationship",
+      "Attention, Competence, Relationship",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L24: self-determination theory's three psychological needs are 'autonomy, competence, relatedness' (Ryan & Deci 2000).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not an example of esteem needs in the context of Maslow's hierarchy?",
+     "options": [
+      "sleep",
+      "achievement",
+      "education",
+      "respect",
+      "competence"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L24: esteem needs = prestige, accomplishment, achievement; sleep is a physiological (basic) need.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Achievement motivation stems from two needs: need to achieve and need to ___",
+     "options": [
+      "enjoy",
+      "relax",
+      "avoid failure",
+      "be respected",
+      "seek attention"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L25 slide: achievement motivation - 'motive to achieve' and 'the motive to avoid failure'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 6,
+   "source": "https://www.youtube.com/watch?v=qSC60TngbIg",
+   "questions": [
+    {
+     "q": "Who among the following is given major credit for the popularization of the term 'Emotional Intelligence'?",
+     "options": [
+      "Dr. Abraham Maslow",
+      "Dr. Carl Jung",
+      "Dr. Daniel Goleman",
+      "Dr. John Mayer",
+      "Dr. Sigmund Freud"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L26 slide: 'Psychologist Dr. Daniel Goleman popularized the term in his 1995 book'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a component of emotional intelligence?",
+     "options": [
+      "Self-awareness",
+      "Self-regulation",
+      "Knowledge",
+      "Motivation",
+      "Empathy"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L26 slide: Goleman's five areas are self-awareness, self-regulation, motivation, empathy, social skills; knowledge is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ refers to the ability of putting words to feelings.",
+     "options": [
+      "Emotional literacy",
+      "Emotional testing",
+      "Social knowledge",
+      "Emotional ability",
+      "Emotional aptitude"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L26: identifying and putting words to what we feel 'is called the emotional literacy'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following are signs of emotional intelligence, except",
+     "options": [
+      "The ability to let go of mistakes",
+      "Feelings of empathy and concern for others",
+      "An awareness of personal strengths and limitations",
+      "Self-confidence and self-acceptance",
+      "Not taking responsibility for one's mistakes"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L26/L27: EI signs include accepting responsibility for mistakes and moving on; not taking responsibility is not a sign.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Hochschild, the ___ are attempts by organizations to control employees' inner lives or thoughts and feelings; e.g. in the case of flight attendants.",
+     "options": [
+      "feeling rules",
+      "emotional syntax",
+      "emotional norms",
+      "feeling norms",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L29: 'some organizations... have the feeling rules to control the employees' inner lives and thoughts and feelings' (flight attendants example).",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ occurs when someone's emotions and related behaviors lead to similar emotions and behaviors in others.",
+     "options": [
+      "Deep acting",
+      "Emotional domino",
+      "Surface acting",
+      "Emotional contagion",
+      "Emotional norms"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L29: emotional contagion occurs when someone's emotions/behaviours lead to similar emotions/behaviours in others.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The biological explanation of emotional contagion can be through the existence of ___",
+     "options": [
+      "emotional neurons",
+      "emotional nerves",
+      "feeling neurons",
+      "heart",
+      "mirror neurons"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L29: mimicry 'comes naturally... based on the existence of mirror neurons'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not one of three main areas of general creativity?",
+     "options": [
+      "nonverbal and verbal creativity",
+      "biological creativity",
+      "creativity in problem solving",
+      "emotional creativity"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L30 slide: 'EC is considered to be one of three main areas of general creativity, together with nonverbal and verbal creativity and creativity in problem solving'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "'A breakup gives rise to song lyrics' is an example of how ___",
+     "options": [
+      "emotions can inspire creativity",
+      "heartbreak can inspire emotional intelligence",
+      "emotional intelligence is lowered",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L30 slide: 'Emotions can inspire creativity - such as when a breakup gives rise to song lyrics'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is false?",
+     "options": [
+      "Emotional intelligence can predict academic performance and workplace success",
+      "Meditation or journal keeping can be effective strategies to improve self-awareness",
+      "Emotional intelligence cannot be learnt or improved through training; it is genetic.",
+      "Improving communication skills aids in improving conflict resolution.",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L28 slide: 'EI can be developed at any stage of life through self-effort & training', so 'cannot be learnt; genetic' is false.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 7,
+   "source": "https://www.youtube.com/watch?v=kMPPcEFwH1k",
+   "questions": [
+    {
+     "q": "Which of the following is not a component of Benjamin S. Bloom's taxonomy of educational objectives?",
+     "options": [
+      "Cognitive",
+      "Affective",
+      "Psychomotor",
+      "Biological",
+      "None of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L31: Bloom's taxonomy domains are cognitive, affective, psychomotor.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not included in the major schools of learning theories?",
+     "options": [
+      "Behaviorist orientation",
+      "Cognitive orientation",
+      "Humanistic orientation",
+      "Social and social-constructivist orientations",
+      "Biological and evolutionary orientation"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L31: schools are behaviorist, cognitive, humanistic, social & situational, constructivist/social-constructivist; biological/evolutionary not listed.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following affect learning?",
+     "options": [
+      "Task variables",
+      "Environmental variables",
+      "Individual variables",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L32: factors affecting learning are individual, task and environmental variables.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a task variable?",
+     "options": [
+      "Trainer's competence",
+      "Communication gap",
+      "Rationality",
+      "Task overload",
+      "Learning capabilities"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L32: task variables = objectives, trainer's competence, variety, communication gap, rationality, task overload; learning capabilities is an individual variable.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ learning refers to learning that gets students to learn through doing; such as experimentation and play",
+     "options": [
+      "Active",
+      "Passive",
+      "Deep",
+      "Shallow",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L32: 'Active learning... directs the students to learn through doing... experimentation, learning by playing'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ learners favor educational lessons that include peer work or participation.",
+     "options": [
+      "Social/linguistic",
+      "Solitary",
+      "Kinesthetic",
+      "Auditory",
+      "Visual"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L32: 'social and linguistic learners... favor the educational lessons that include the peer work, participation, group learning'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not true for effective instruction?",
+     "options": [
+      "It is interactive",
+      "It is eclectic",
+      "It is generative and dynamic",
+      "It incorporates components of core curriculum",
+      "It is independent of the success of the learning experience"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L33: effective instruction 'is directly related to the success of the learning experiences', so 'independent of' is false.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following are principles of instruction given by Merrill, except ___",
+     "options": [
+      "Activation",
+      "Formation",
+      "Demonstration",
+      "Integration",
+      "Application"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L33: Merrill's principles - problem-centred, activation, demonstration, application, integration; no 'formation'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a principle of Instructional Systems Design (ISD)?",
+     "options": [
+      "It should move at an efficient pace",
+      "It should keep information outside of context",
+      "It should be independent of the community",
+      "It should create opportunities for learners to replicate past work and output"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L33: ISD principles - 'should be able to teach the subject matter efficiently'; other options contradict the principles.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Ausubel, ___ occurs when new information is integrated into existing knowledge structures, also known as mental schemas.",
+     "options": [
+      "structural learning",
+      "mental learning",
+      "meaningful learning",
+      "integrative learning",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L34: Ausubel - 'meaningful learning... takes place when the information is integrated into the existing knowledge structure'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 8,
+   "source": "https://www.youtube.com/watch?v=r9f2h38Pmyk",
+   "questions": [
+    {
+     "q": "Which of the following is not a pedagogical approach in teaching?",
+     "options": [
+      "Collaborative approach",
+      "Inquiry-based approach",
+      "Constructivist approach",
+      "Refractive approach",
+      "Integrative approach"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L36 slide: five pedagogical approaches - constructivist, collaborative, inquiry-based, integrative, reflective; no 'refractive'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Constructivism with respect to learning suggests that ___",
+     "options": [
+      "the role of learners is passive",
+      "learners are the makers of meaning and knowledge",
+      "facilitators are the makers of meaning and knowledge",
+      "internet is the maker of meaning and knowledge",
+      "none of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L36: constructivist approach - 'Learners are the makers of the meaning and knowledge'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is false about pedagogy in education and learning?",
+     "options": [
+      "Effective pedagogies are an amalgamation of various teaching techniques",
+      "Pedagogy is based on a facilitator-centered approach",
+      "Pedagogy allows teachers to evaluate individual students' performance regularly",
+      "Pedagogy allows students to meet like-minded people and learn from their peers",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L37 slide: 'Pedagogy is based on a student-centered approach'; the other three statements are on the same slide, so the facilitator-centred option is the false one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a major component of the experiential learning process?",
+     "options": [
+      "Generalizing",
+      "Experiencing",
+      "Analyzing",
+      "Sharing",
+      "Overthinking",
+      "Applying"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L37 slide: experiential learning cycle - experiencing, sharing, processing/analyzing, generalizing, application; no 'overthinking'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "David Kolb's experiential learning style theory typically suggests ___ number of stages in the experiential learning cycle.",
+     "options": [
+      "Four",
+      "Nine",
+      "Fifteen",
+      "Seven",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L37: Kolb's model 'has the four stage of learning cycle'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The stages of the experiential learning cycle given by Kolb are dissected by two continuums relating to perception and ___",
+     "options": [
+      "emotion",
+      "motivation",
+      "processing",
+      "perseveration",
+      "none of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L37: 'these are two continuums... how do we perceive... and how do we process' (perception and processing continuums).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ___ learning style as given by Kolb suggests that these individuals prefer technical tasks and like to be left alone to solve them.",
+     "options": [
+      "Assimilating",
+      "Accommodating",
+      "Diverging",
+      "Converging"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L37: converging style - 'prefer technical tasks... would like to be left alone to solve them'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The model of multimedia learning is based upon some primary assumptions as given by Mayer that are mentioned below. Which of the following is false?",
+     "options": [
+      "Visual and auditory experiences/information are processed through separate and distinct information processing 'channels'",
+      "Each information processing channel is limited in its ability to process experience/information",
+      "Processing experience/information in channels is an active cognitive process designed to construct coherent mental representations",
+      "None of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L38: Mayer's assumptions - two separate channels, each limited in capacity, processing is an active cognitive process; all true, so none is false.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ___ principle of multimedia learning suggests that students learn better when corresponding words and pictures are presented simultaneously rather than successively",
+     "options": [
+      "temporal contiguity",
+      "spatial contiguity",
+      "modality",
+      "coherence",
+      "redundancy"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L38: 'temporal contiguity principle says the students learn better when corresponding words and the pictures are presented simultaneously rather than successively'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Mezirow(1978) identified ___ number of steps that are required for transformative learning to occur.",
+     "options": [
+      "Four",
+      "Five",
+      "Seven",
+      "Ten",
+      "Thirteen"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L39: Mezirow 'has suggested the 10 steps for transformative learning to occur, first thing is the disorienting dilemma'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 9,
+   "source": "https://www.youtube.com/watch?v=RzmKMTcEu8Y",
+   "questions": [
+    {
+     "q": "Which of the following is not a feature of e-learning?",
+     "options": [
+      "individualization",
+      "accessibility",
+      "personalization",
+      "stereotypical",
+      "social justice"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L41 (Psychology of E-Learning) lists features: accessibility, user friendliness, social justice, personalization, individualization, learner-centredness, open/lifelong learning; 'stereotypical' is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Many students in the context of a digital classroom regard knowledge of ___ as more important than 'what'.",
+     "options": [
+      "'who'",
+      "'why not'",
+      "'where'",
+      "'how to'",
+      "none of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L41 slide: 'Many students regard knowledge of how to as more important than what'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a benefit of e-learning?",
+     "options": [
+      "It accommodates everybody's needs",
+      "It is self-paced",
+      "It is motivating and interactive",
+      "It is scalable",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Corrected after checking the lecture (was: None of the above). L41-42 slides list benefits: accommodates everyone's needs, lectures multiple times, scalability, quick delivery ('learners can determine their own speed'), consistency, reduced costs, environment-friendly; not 'motivating' - the L42 slide instead says 'Learners are required to keep themselves motivated'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "When we are learning or practicing something, our brain ___",
+     "options": [
+      "does not do anything",
+      "releases hormones",
+      "builds strong connections between the muscles and bones",
+      "builds strong connections between neurons"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L42 slide: 'When we're learning, our brain makes new connections between neurons.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ___ theory suggests that when we overload our working memory, we are unable to acquire and process new information.",
+     "options": [
+      "cognitive load",
+      "emotional labor",
+      "memory",
+      "psychological stress",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L43: overloading limited-capacity working memory during e-learning 'creates a cognitive load ... cognitive overload takes place'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The brain often benefits from physically writing in a notebook since it contributes to ___. Learners during e-learning are hence often advised to take notes.",
+     "options": [
+      "emotion",
+      "motivation",
+      "encoding",
+      "forgetting",
+      "decoding"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L43: writing notes while attending 'enhances the encoding process ... expedite our encoding processes'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of virtual learning, ___ refers to the speed and ease with which a novice user can achieve proficiency with the system.",
+     "options": [
+      "Efficiency",
+      "Memorability",
+      "Novice index",
+      "Learnability",
+      "None of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L43: 'learnability ... refers to the speed and ease with which the novice user can achieve the proficiency' with the system.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a critical factor that impacts e-learning?",
+     "options": [
+      "Motivation",
+      "Self-discipline",
+      "Stress",
+      "Social skills",
+      "Genes"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L43/L44: five critical aspects of successful e-learning are motivation, emotion, self-discipline, social skills, stress; genes are not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of instructional design, ___ refers to learners' automatic performance on specific procedures with predetermined steps to be followed.",
+     "options": [
+      "chaining",
+      "association",
+      "discrimination",
+      "none of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L44 slide: 'Chaining is referring to learners' automatic performance on specific procedures...'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "___ provides the context to learners in the form of simulated job-related situations where learners have to judge a situation, use the information they have at hand, and make the best possible choice to solve the problem.",
+     "options": [
+      "Problem-focused e-learning",
+      "Scenario-based e-learning",
+      "Guided e-learning",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L45: instructional strategies for rapid e-learning - immersive learning 'through simulation, job related situations' (scenario-based), then guided learning, exploration; definition matches scenario-based e-learning.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 10,
+   "source": "https://www.youtube.com/watch?v=Yf72mODxR2k",
+   "questions": [
+    {
+     "q": "Which of the following is not an essential skill needed for today's teacher (post pandemic era)",
+     "options": [
+      "digital skills",
+      "communication",
+      "life skills",
+      "non-inclusive education",
+      "participative education"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L46: teacher skills listed - digital skills, life skills, communication, creativity, participatory education, inclusive education; non-inclusive education is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following psychological principles about how students think and learn are true except",
+     "options": [
+      "Students' cognitive development and learning is not limited by the general stages of development",
+      "Students existing knowledge is not related to and does not impact their present learning",
+      "The beliefs or perceptions students have about their intelligence and ability affect their learning and cognitive functioning",
+      "Learning is context-based"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L46 principles: belief about intelligence affects learning; 'what students already know affect their learning'; development 'not limited by the general stages'; learning is context based.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is true regarding the social and emotional learning of students?",
+     "options": [
+      "Learning is situated in a single isolated social context",
+      "Interpersonal relationships are unimportant for development of students",
+      "Emotional well-being impacts students' educational performance",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L47 principle 15: 'emotional well-being influences the educational performance, learning and development'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Learners who have a ___ believe that intelligence is malleable and success is related to effort level",
+     "options": [
+      "communication",
+      "academic intelligence",
+      "fixed mindset",
+      "intelligent mindset",
+      "growth mindset"
+     ],
+     "answer": [
+      4
+     ],
+     "explanation": "L48: 'growth mindset ... the intelligence is malleable and success is related to effort level'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Acquiring long-term knowledge and skill is largely dependent on ___",
+     "options": [
+      "practice",
+      "good luck",
+      "genes",
+      "money",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L46: 'the acquisition of the knowledge and the skills in the long term depends largely on practice'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Use of ___ goals increase self-efficacy and competency towards larger goals.",
+     "options": [
+      "ambiguous",
+      "extremely challenging",
+      "extremely non-challenging",
+      "proximal",
+      "none of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L47 slide (Principle 12): short-term (proximal), specific, challenging objectives are more motivating; L48 links proximal goals to self-efficacy and competency.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The following are examples of formative assessment except ___",
+     "options": [
+      "anecdotal records",
+      "essays",
+      "lab reports",
+      "entrance tests"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L49 slide: types of formative evaluation - anecdotal records, quizzes, essays, lab reports, diagnostics; entrance exams are listed under summative evaluation.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Summative assessment is conducted ___",
+     "options": [
+      "during instruction",
+      "before instruction",
+      "before and during instruction",
+      "after instruction"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L49: summative assessment is at the end of the unit/semester, after instruction.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not an appropriate principle of good feedback practice?",
+     "options": [
+      "Aims to hamper self-reflection",
+      "Provides opportunities to close the gap between current and desired performance",
+      "Helps clarify what good performance is",
+      "Provides information to teachers that can be used to help shape the teaching",
+      "Encourages positive motivational beliefs and self-esteem"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L50 seven principles of good feedback practice: facilitates self-assessment/reflection, clarifies good performance, closes the gap, encourages motivational beliefs and self-esteem, informs teaching.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not one of the levels of feedback?",
+     "options": [
+      "Task-level",
+      "Process-level",
+      "Facilitator-level",
+      "Personal-level"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L50 levels of feedback: task level, process level, personal level; no facilitator level.",
+     "verified": "lecture"
+    }
+   ]
+  }
+ ]
+}

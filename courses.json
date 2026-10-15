@@ -1,0 +1,42 @@
+{
+  "courses": [
+    {
+      "slug": "iiot",
+      "name": "Industry 4.0 & IIoT",
+      "title": "IIoT Quiz Bench",
+      "meta": "NPTEL · IIT Kharagpur · Prof. Sudip Misra",
+      "heading": "Industry 4.0 <span>&amp;</span> IIoT Quiz Bench",
+      "data": "data",
+      "out": "index.html",
+      "dist": "dist/artifact.html",
+      "artifact": "https://claude.ai/artifact/Xye5UjxQAcUHhW6V2jvJiF",
+      "lskey": "iiotq",
+      "note": "Every answer was checked against the lecture transcripts (Prof. Misra’s NPTEL lectures). 1,431 are confirmed by what the lecture says, and 22 answers from answer-key sites and solution videos were corrected; the reason is shown after you answer. 139 questions aren’t covered in the lectures and were decided by reasoning. The 12 marked “Check this answer” are still uncertain. This is not NPTEL’s official key."
+    },
+    {
+      "slug": "psych",
+      "name": "Psychology of Learning",
+      "title": "Psychology of Learning Quiz",
+      "meta": "NPTEL · IIT Kharagpur · Prof. Atasi Mohanty",
+      "heading": "Psychology of <span>Learning</span> Quiz Bench",
+      "data": "data-psych",
+      "out": "psychology-of-learning.html",
+      "dist": "dist/psychology.html",
+      "artifact": "https://claude.ai/artifact/MeqQeHo1ftApoYQAiG2Ff2",
+      "lskey": "psychq",
+      "note": "Every answer was checked against Prof. Mohanty’s NPTEL lectures, using both what she says and the text on her slides. 440 are confirmed by the lecture, and 3 answers from answer-key sites and solution videos were corrected; the reason is shown after you answer. 35 questions aren’t covered in the lectures and were decided by reasoning. The 3 marked “Check this answer” are still uncertain. This is not NPTEL’s official key.",
+      "theme": {
+        "light": {
+          "--accent": "#5b3fa8",
+          "--accent-soft": "#e8e1f6",
+          "--accent-ink": "#ffffff"
+        },
+        "dark": {
+          "--accent": "#b7a1f2",
+          "--accent-soft": "#2a2140",
+          "--accent-ink": "#170f29"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,5196 @@
+{
+ "sets": [
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 1,
+   "source": "https://www.youtube.com/watch?v=9W3LLBpTd0E",
+   "questions": [
+    {
+     "q": "Fill in the blank space designated by the question mark. [Diagram: Input Signal -> Sensor -> ? -> Actuator -> Output Signal; Sensor and '?' are grouped as the transducer's input side, '?' and Actuator as the transducer's output side]",
+     "options": [
+      "Snubber",
+      "Repeater",
+      "Processor",
+      "Amplifier"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 01 (Sensing & Actuation): 'this sensor plus the processor ... this is a transducer. Similarly, actuator plus processor is also a transducer'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the maximum data rate of Z-Wave communication technology?",
+     "options": [
+      "100 kbps",
+      "250 kbps",
+      "500 kbps",
+      "1 Mbps"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): Z-wave 'data rate is up to offered is up to about 100 kbps' over ~30 m.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which device converts electromagnetic energy into electricity and vice versa?",
+     "options": [
+      "Speaker",
+      "Antenna",
+      "Microphone",
+      "Strain gauge"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 01 (Sensing & Actuation): 'antennas which will convert electromagnetic energy into electrical energy and vice versa'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does 'Range' indicate in a sensor?",
+     "options": [
+      "The correctness of the output",
+      "The smallest change in input that can be detected",
+      "The difference between the standard value and the value produced by the sensor",
+      "The highest and the lowest value of the physical quantity within which the sensor can actually sense"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 01 (Sensing & Actuation): range 'means the range of operation lowest value to highest value'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which coding scheme is used by the IEEE 802.15.4 standard for transmitting information?",
+     "options": [
+      "CSS",
+      "THSS",
+      "OFDM",
+      "DSSS"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 02 (IoT Connectivity Part I): 'DSSS, the direct sequence spread spectrum coding scheme that is used to transmit information'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the standard transmission range of IEEE 802.15.4?",
+     "options": [
+      "10 m to 75 m",
+      "1m to 9 m",
+      "15 cm to 60 cm",
+      "1 cm to 10 km"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 02 (IoT Connectivity Part I): 802.15.4 'range typically is about 10 to 75 meters'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which low-power radio communication technology was designed as a simpler and cheaper alternative to Zigbee for small to medium-range connectivity?",
+     "options": [
+      "Bluetooth",
+      "Z-Wave",
+      "RFID",
+      "NFC"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): 'unlike ZigBee this particular technology Z-wave is simpler and cheaper' for small/medium range.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which organization has developed the ISA 100.11a standard?",
+     "options": [
+      "Instrument Society of America",
+      "International Society of Automation",
+      "International Studies Association",
+      "International Solar Alliance"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): ISA 100.11a 'was developed by international society for automation the ISA'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What communication modes are supported between two NFC devices?",
+     "options": [
+      "Broadcast-Multicast",
+      "Master-Slave",
+      "Active-Active or Active-Passive",
+      "All of these"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): NFC 'two communication modes are supported ... active active and ... active passive'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is/are the drawbacks of proprietary non-IP-based solutions?",
+     "options": [
+      "Limited flexibility to end users",
+      "Interoperability",
+      "Limited last-mile connectivity",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 04 (IoT Networking Part I): drawbacks of non-IP solutions: limited flexibility to end users, interoperability, limited last mile connectivity.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which MQTT QoS Level is also known as \"at most once\" delivery?",
+     "options": [
+      "QoS 0",
+      "QoS 1",
+      "QoS 2",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 05 (IoT Networking Part II): 'QoS 0 which is about ensuring at most once delivery'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blank: In CoRE, the IoT client uses ______ for the discovery of IoT devices.",
+     "options": [
+      "Lookup interface",
+      "Resource Directory",
+      "Registration Interface",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 04 (IoT Networking Part I): 'IoT client uses the lookup interface for discovery of IoT devices'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Apart from MQTT, which IoT networking protocol supports the publish/subscribe framework?",
+     "options": [
+      "XMPP",
+      "AMQP",
+      "DDS RTPS",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 05 (IoT Networking Part II): XMPP, AMQP and DDS RTPS are all described as publish/subscribe based.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following IoT protocols is based on the session layer of the OSI model?",
+     "options": [
+      "MQTT",
+      "CoAP",
+      "AMQP",
+      "DTLS"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Corrected after checking the lecture (was: AMQP). Lecture 05 (IoT Networking Part II): the only protocol the lecture calls a session protocol is CoAP: 'CoAP is kind of an application layered protocol ... even more specifically it ensures session, so, session protocol' (Misra's slide: 'CoAP - session layer protocol designed by IETF CoRE'). MQTT/AMQP are described only as pub/sub over TCP; uploaders split AMQP vs MQTT, so moderate confidence.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a component of RFID?",
+     "options": [
+      "RFID Tag",
+      "RFID reader",
+      "Antenna",
+      "Router"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): RFID has 3 components - tag, reader, software (antenna is inside the tag); a router is not a component.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 2,
+   "source": "https://www.youtube.com/watch?v=GNoHgfrH6Lg",
+   "questions": [
+    {
+     "q": "In the context of Industry 4.0, what is the full form of CPS?",
+     "options": [
+      "Controlled Power System",
+      "Customer Provisioning Service",
+      "Cloud Processing Service",
+      "Cyber Physical Systems"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "CPS = Cyber Physical Systems (named in Lecture 06 and Lecture 11).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "State True or False: Business, providing information goods, has virtually zero transportation and replication cost.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 06 (The Fourth Revolution): 'business providing information goods has virtually zero transportation and replication cost'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following technologies is used by research scientists to selectively modify the DNA of living organisms?",
+     "options": [
+      "3D Printing",
+      "Nanomedicine",
+      "Liquid Biopsy",
+      "Genetic Engineering"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 06 (The Fourth Revolution): biological megatrends: manipulating DNA, 'advanced genetic engineering is a reality'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is true about addressing an economic crisis or recession?",
+     "options": [
+      "Observing an increase in prices of major commodities is a key indicator.",
+      "Increasing productivity and reducing costs can help recover from a recession.",
+      "The main economy of a manufacturing location should always be based on only one resource to avoid crisis.",
+      "Recovery from a depression is faster than recovery from a recession when the same solution is applied."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 07 (Sustainability Assessment of Manufacturing Industry): in crisis/recession 'reduction in prices ... important to increase the productivity and reduce the overall cost'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does ERP stand for in the context of ICT?",
+     "options": [
+      "Enterprise Resource Planning",
+      "Electronic Resource Platform",
+      "Enhanced Reporting Protocol",
+      "Economic Resource Planning"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 07 (Sustainability Assessment of Manufacturing Industry): ICT enables 'Enterprise Resource Planning ERP based systems'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How can enterprises improve sustainability with respect to energy consumption?",
+     "options": [
+      "Increasing usage of non-renewable energy sources",
+      "Reducing energy consumption from non-renewable sources and increasing use of renewable energy",
+      "Focusing solely on reducing renewable energy costs",
+      "Ignoring energy price fluctuations"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 07 (Sustainability Assessment of Manufacturing Industry): reduce energy consumption and produce energy from renewable sources like solar, wind.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary goal of \"Just-In-Time\" in a Lean Production System?",
+     "options": [
+      "Ensuring each process produces what is needed by the next process in a continuous flow",
+      "Producing in advance to meet potential future demand",
+      "Reducing production costs by purchasing cheap materials",
+      "Increasing inventory to minimize disruptions"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 08 (Lean Production System): JIT 'each process produces what is needed by the next process in a continuous flow'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a 'value stream' in a Lean Production System?",
+     "options": [
+      "A set of tools for production",
+      "All the actions required for a product from order to delivery",
+      "A method of employee training",
+      "A type of waste reduction"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 08 (Lean Production System): 'value streams are all the actions that are required for a product from order ... to the delivery'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an objective of Lean Production in Industry 4.0?",
+     "options": [
+      "Increasing waste in processes to improve flexibility",
+      "Focusing on non-value-added activities to reduce costs",
+      "Identifying waste in processes and eliminating it",
+      "Eliminating continuous improvement efforts"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 08 (Lean Production System): lean in Industry 4.0 includes 'identifying waste in the processes and eliminating them'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following technologies is a medium for achieving smart and connected systems?",
+     "options": [
+      "Embedded Systems",
+      "Traditional Mechanical Systems",
+      "Manual Control Systems",
+      "Non-Interactive Devices"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 09 (Smart and Connected Business Perspective): embedded systems are a key medium for smart and connected products.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following are key attributes of a smart business model?",
+     "options": [
+      "Manual processes, cost reduction, and labor dependency",
+      "Value proposition, revenue streams, and technologies",
+      "Traditional marketing, fixed costs, and limited innovation",
+      "Centralized control, non-digital strategies, and fixed processes"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 09 (Smart and Connected Business Perspective): key attributes are value proposition, revenue stream and technologies.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a component of a Smart Factory?",
+     "options": [
+      "Smart machines",
+      "Smart manufacturing processes",
+      "Information Technology",
+      "Physical ledgers"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 10 (Smart Factories): smart factory components are smart machines, processes, engineering, devices, IT, analytics - not physical ledgers.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the Automation Pyramid of a Smart Factory, which level is just above the Device Level?",
+     "options": [
+      "Control Level",
+      "ERP Level",
+      "Manufacturing execution system level",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 10 (Smart Factories): automation pyramid 'device level, then ... the control level, then ... manufacturing system level, and the ERP level' - Control is directly above Device (the 'ERP level' alt copy is wrong).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a prerequisite of the Industrial Internet of Things?",
+     "options": [
+      "Security",
+      "Incompatibility",
+      "Interoperability",
+      "Scalability"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Not in Weeks 1-2 transcripts; security, interoperability and scalability are IIoT requirements, incompatibility is the opposite of a prerequisite.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "In which format is healthcare data transmitted to maintain data uniformity and interoperability?",
+     "options": [
+      "HL-7",
+      "LH-5",
+      "HD-7",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Not in Weeks 1-2 transcripts; HL7 (Health Level Seven) is the healthcare data interchange standard (covered in the IIoT healthcare lecture).",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 3,
+   "source": "https://www.youtube.com/watch?v=YGdi2p8RNk8",
+   "questions": [
+    {
+     "q": "What is the main difference between Embedded Systems and Cyber-Physical Systems (CPS)?",
+     "options": [
+      "Embedded systems are standalone devices, whereas CPS are networked systems.",
+      "CPS have limited resources, while embedded systems are not resource constrained.",
+      "Main issues of Embedded Systems are timing and concurrency, while the main issues of CPS are real-time response and reliability.",
+      "CPS lack physical components, while embedded systems include them."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L11: embedded system 'confined to this particular single device'; CPS 'a network set of such kind of embedded systems'. Option C reverses the lecture's issues.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does \"reactive computation\" in CPS signify?",
+     "options": [
+      "Systems with zero response time",
+      "Interaction with the environment in an ongoing manner",
+      "Predefined computation processes",
+      "Complete isolation from physical feedback"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L11: 'reactive computation means ... interaction of the system with the environment in a continuous fashion'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. In healthcare applications, CPS is used for ______.",
+     "options": [
+      "Image-guided surgery and therapy",
+      "Manual monitoring of vitals",
+      "Static hospital management systems",
+      "Front desk management"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L11: 'robotic surgery or image-guided surgery. These are examples of cyber physical systems ... in healthcare'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which programming language developed in 1958 aided the evolution of Artificial Intelligence?",
+     "options": [
+      "Python",
+      "Lisp",
+      "Java",
+      "Prolog"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L14 mentions Lisp and PROLOG as AI languages; Lisp was created by McCarthy in 1958 (Prolog 1972).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which level in the \"5C Architecture\" ensures the gathering of precise status information of machines?",
+     "options": [
+      "Conversion",
+      "Cognition",
+      "Cyber",
+      "Configuration"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Connection is not offered; in the 5C model the Cyber level is the central hub where information from every machine is gathered to give insight into each machine's status (L11: data 'received at some kind of a hub').",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Fill in the blanks. Intelligent sensors are capable of ______.",
+     "options": [
+      "Only sensing data",
+      "Processing sensed data and managing external sensors/devices",
+      "Limited communication",
+      "Basic analog-to-digital conversion"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L11: intelligent sensors 'are capable of processing sensed data ... capable of managing and controlling external sensors and devices'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What are the five phases of the product lifecycle as per PLM in Industry 4.0?",
+     "options": [
+      "Visualize, Explain, Perceive, Support, Retire",
+      "Research, Design, Marketing, Distribution, Recycling",
+      "Ideation, Manufacturing, Expansion, Customer Feedback, Upgradation",
+      "Requirement Analysis, Development, Testing, Deployment, Maintenance"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L12: phases 'visualize, explain, perceive, use/support, and then dispose/retire'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How many steps are there in the PLM solution approach in Industry 4.0?",
+     "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L12: 'for Industry 4.0, these are the 10 step approaches that can be used for PLM'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a key component of an AR Device?",
+     "options": [
+      "Sensors",
+      "Cameras",
+      "Projection Screen",
+      "Remote Control"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L13: AR device components are 'sensors and cameras, projection screen, processing unit, reflection systems like mirrors'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is incorrect?",
+     "options": [
+      "Deep Learning is a subset of Machine Learning",
+      "Deep Learning is a subset of Artificial Intelligence",
+      "Machine Learning is a superset of Artificial Intelligence",
+      "Artificial Intelligence is a superset of Machine Learning"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L14: ML is a branch of AI, so 'Machine Learning is a superset of Artificial Intelligence' is the incorrect statement.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a challenge of AI in IIoT?",
+     "options": [
+      "Connecting devices",
+      "Understanding data",
+      "Training AI models",
+      "Lack of available data"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L14 AI: 'challenges of AI in IIoT. Connecting different devices, understanding the data, training the data, making it accessible, making ... actionable'. Lack of data is not listed; connecting devices is.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary purpose of data preprocessing in Big Data analytics?",
+     "options": [
+      "To store data without modification",
+      "To remove noises and redundancies before analysis",
+      "To generate fake data for testing purposes",
+      "To visualize trends before collection"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L15: 'The data will have to be pre-processed to remove noise redundancy, inconsistency'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What type of analytics is used to predict future trends based on historical data patterns?",
+     "options": [
+      "Descriptive Analytics",
+      "Diagnostic Analytics",
+      "Predictive Analytics",
+      "Prescriptive Analytics"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L15: 'Predictive analytics talks about what is next, what is the pattern'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not one of the primary constraints of mobile CPS?",
+     "options": [
+      "Stability of the network",
+      "Power requirement",
+      "Security",
+      "Design aesthetics"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Not in the transcripts; mobile CPS are constrained by network stability, power and security; design aesthetics is not a constraint.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "What are the components of the 5C architecture for CPS?",
+     "options": [
+      "Connection, Conversion, Cyber, Cognition, Configuration",
+      "Creation, Controlling, Continuation, Convergence, Compatibility",
+      "Calculation, Catalysis, Convergence, Convenience, Cognizance",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L11: 5C = connection, conversion, cyber, cognition, configuration.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 4,
+   "source": "https://www.youtube.com/watch?v=WjQd7tCU6K4",
+   "questions": [
+    {
+     "q": "What is the primary purpose of SCADA in industrial applications?",
+     "options": [
+      "Control and monitoring of physical processes",
+      "Designing sensors for manufacturing",
+      "Manual intervention in industrial processes",
+      "Eliminating all automation"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L19: SCADA is 'an advanced industrial control system' that processes, monitors and analyzes data collected from sites.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the function of WSANs in industrial processes?",
+     "options": [
+      "Manual sensor installation",
+      "Integration of sensors and actuators with wireless networks",
+      "Replacing traditional data systems",
+      "Eliminating automated controls"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L19: 'a wireless sensor and actuator network in the industry scale connecting different machinery'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does cybersecurity primarily aim to protect?",
+     "options": [
+      "Physical security",
+      "Internet-connected systems, including hardware, software, and data",
+      "Standalone software applications",
+      "Manual data handling systems"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L16: cybersecurity protects internet-connected systems' 'hardware, software and data'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which industrial sector benefits from advanced analytics using the Industrial Internet?",
+     "options": [
+      "Healthcare",
+      "Oil and Gas",
+      "Rail Transportation",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L18: industrial internet applications are 'commercial aviation, rail transportation, power production, oil and gas sectors, and healthcare'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Cyber Physical systems comprise which of the following layers?",
+     "options": [
+      "Control Layer, Cognitive Layer, Cyber Layer, Conversion Layer, and Connection Layer",
+      "Sensing Layer, Edge Computing Layer, Cloud Layer, Decision-Making Layer, and Execution Layer",
+      "Detection Layer, Data Processing Layer, Connectivity Layer, Automation Layer, and User Interaction Layer",
+      "Edge Computing Layer, Automation Layer, Detection Layer, Decision-Making Layer, and Device Layer"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L20: 5C layers are connection, conversion, cyber, cognitive and 'finally, the control layer'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a differentiator between IIoT and Automation?",
+     "options": [
+      "Ubiquitous sensing",
+      "Advanced analytics",
+      "IT tools and methodologies",
+      "None of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L17: ubiquitous sensing, advanced analytics and IT tools/methodologies are all differentiators, so 'None of these'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of Cybersecurity for Industry 4.0, what does SDCMA stand for?",
+     "options": [
+      "Secure Data and Cloud Management Architecture",
+      "Secure Data and Cloud Management Architecture",
+      "Software-Defined Cloud Manufacturing Architecture",
+      "Smart Digital Cloud Monitoring Algorithm"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L16: 'software defined cloud manufacturing architecture'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to GE, ____________ can be defined as \"the association of the global industrial system with low-cost sensing, interconnectivity through internet, high-level computing and analytics.\"",
+     "options": [
+      "Industrial Internet",
+      "Internet of Things",
+      "M2M Communication",
+      "SCADA"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L18: 'according to GE industrial internet can be defined as the association of the global industrial system, with low cost sensing interconnectivity through internet and high level computing and analytics'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What are the three key elements of the Industrial Internet?",
+     "options": [
+      "Connected Devices, Ubiquitous Sensing, and Cloud Computing",
+      "Intelligent Machines, Advanced Analytics, and People at work",
+      "5G Networks, Quantum Computing, and Virtual Reality",
+      "Autonomous Robots, Blockchain, and Cloud Gaming"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L18: intelligent machines, advanced analytics, people at work.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is Multisensing?",
+     "options": [
+      "Ability to sense multiple parameters at a single sensor node",
+      "Using multiple sensors to measure a single parameter",
+      "A network of distributed sensors communicating wirelessly",
+      "Ability to process sensor data using artificial intelligence"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L19: 'Multi sensing ... sensing multiple parameters ... In a single sensor node'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not an advantage of WSANs?",
+     "options": [
+      "Preinstalled infrastructure",
+      "Network self-organization",
+      "Easy sensor & Actuator deployment",
+      "Does not require any power source to operate"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L19: WSAN advantages are easy deployment, self-organization, 'pre installed infrastructure' and low cost; needing no power is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a major challenge for industrial processes in Industry 4.0?",
+     "options": [
+      "Decreasing demand for automation",
+      "Unlimited availability of skilled workers",
+      "Constrained workforce and resource utilization",
+      "Reduced need for supply chain management"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L20 challenges: dynamic market conditions, 'constrained work force', supply chain, resource utilization, product management.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a key benefit of an autonomous pull economy in Industrial Process 4.0?",
+     "options": [
+      "High waste generation",
+      "Complete manual supervision",
+      "End-to-end automation facility",
+      "Lack of updated demand information"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L20: autonomous pull economy benefit 'end-to-end automation facility'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents the basic components of a SCADA system?",
+     "options": [
+      "Programmable Logic Controllers (PLC) and Remote Terminal Units (RTU)",
+      "Supervisory System",
+      "Communication Infrastructure",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L19: SCADA components are supervisory system, HMI, RTU, communication interface, SCADA programming and PLC.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to IEEE 1451 standards, how is a smart sensor defined?",
+     "options": [
+      "Sensor with limited memory and no communication capabilities",
+      "Sensor with small memory and standardized physical connection to enable communication with the processor and data network",
+      "A basic sensor without processing or networking capabilities",
+      "Sensor that only works in standalone mode without network integration"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L19: IEEE 1451 smart sensor has 'small memory and standardized physical connection to enable communication with the processor and data network'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 5,
+   "source": "https://www.youtube.com/watch?v=nxZhlygzyhw",
+   "questions": [
+    {
+     "q": "Which of the following is NOT a key sector of Industry 4.0?",
+     "options": [
+      "Smart robotics",
+      "Smart Warehousing",
+      "Intelligent manufacturing",
+      "Paper-Based Inventory Management"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 21 (Industrial Processes - Part 2): Industry 4.0 sectors include smart robotics, intelligent manufacturing, smart warehousing; paper-based inventory is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a key advantage of the Outcome-Based Model in IoT business?",
+     "options": [
+      "Decreased profit margin",
+      "Increased negotiation cycle",
+      "Higher customer satisfaction",
+      "Increased risks"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 22 (Business Models - Part 1): outcome-based model advantages include 'increased customer satisfaction', reduced negotiation cycle, reduced risk, increased profit margin.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which layer in the Industrial Internet Reference Architecture (IIRA) implements domain-specific applications and decision support systems and provides interfaces to end-users?",
+     "options": [
+      "Edge Layer",
+      "Enterprise Layer",
+      "Platform Layer",
+      "Gateway Layer"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 24 (Reference Architecture - Part 1): 'the enterprise layer basically implements domain-specific requirements, decision support systems, and ... interfaces to end-users'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a component of IIoT business models?",
+     "options": [
+      "Value Proposition",
+      "Value Capturing Mechanism",
+      "Value Extraction Model",
+      "Value Communication"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2): IIoT business model components are 'value proposition, value capturing mechanism, value network, value communication'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary purpose of a Cloud-Based Business Model in IIoT?",
+     "options": [
+      "Selling software licenses",
+      "Leasing cloud computing resources temporarily",
+      "Manufacturing industrial equipment",
+      "Increasing industrial workforce requirements"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2): cloud services offered on demand/subscription (lease of compute, storage); temporary leasing is the fitting purpose.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Based on the leading and lagging Occupational Safety and Health (OSH) indicators, Key Performance Indicators (KPIs) are also categorized into ______ and ______.",
+     "options": [
+      "Leading KPI and Lagging KPI",
+      "Low KPI and High KPI",
+      "Level KPI and ground KPI",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 24 (Reference Architecture - Part 1): 'leading KPI and lagging KPI are the two different KPI categories for OSH'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT one of the four viewpoints in the Industrial Internet Reference Architecture (IIRA)?",
+     "options": [
+      "Business viewpoint",
+      "Usage viewpoint",
+      "Functional viewpoint",
+      "Financial viewpoint"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 25 (Reference Architecture - Part 2): the four viewpoints are business, usage, functional and implementation; no financial viewpoint.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. In the Usage Viewpoint of IIRA, \"Task\" is a basic unit of work carried out by a party assuming a role.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 25 (Reference Architecture - Part 2): 'the task is a basic unit of work, that is carried out by a party, that assumes a specific role'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a challenge uniquely associated with assetsharing IoT business models?",
+     "options": [
+      "Profit margin",
+      "Asset configuration",
+      "Scalability",
+      "Resource utilization"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 22 (Business Models - Part 1): asset-sharing challenges include security, mutual arrangements, 'asset configuration', device synchronization; resource utilization/scalability are listed as advantages.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What are the key revenue models in a Cloud-Based Business Model?",
+     "options": [
+      "Direct product sales, Leasing, Licensing",
+      "Pay-per-use, Subscription fees, Advertisement",
+      "One-time installation charges, Maintenance fees, Donations",
+      "Mass production, Bulk discounts, Customer referrals"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2): cloud-based revenue model: 'pay-per-use model ... subscription fees, advertisements'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an advantage of the subscription-based IoT business model?",
+     "options": [
+      "Reduced operational complexity",
+      "Predictable, recurring revenue streams",
+      "Lack of customer interaction",
+      "Fixed pricing for all customers"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 22 (Business Models - Part 1): subscription model is predictable and generates recurrent revenues.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is/are types of business models for IoT?",
+     "options": [
+      "Subscription Model",
+      "Outcome-Based Model",
+      "Asset-Sharing Model",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 22 (Business Models - Part 1): business models for IoT: subscription, outcome-based, asset-sharing, IoT-as-a-service.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a major benefit of the layered databus pattern in IIRA?",
+     "options": [
+      "Increased data redundancy",
+      "Rapid device-to-device integration with minimal response time",
+      "Elimination of automation in industrial systems",
+      "Decentralized data storage without communication"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 24 (Reference Architecture - Part 1): layered databus allows 'device to device integration with minimum response time'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. Lack of interoperability, data privacy, security issues, and authentication of data at the organizational level are some of the major challenges of IIoT-based business models.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2): challenges listed include security/data privacy, lack of interoperability, increased complexity/cost, lack of data governance.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a standard IIoT reference architecture?",
+     "options": [
+      "Three-tier IIoT architecture",
+      "Gateway-based IIoT architecture",
+      "Layered Databus IIoT architecture",
+      "Sixty four-tier IIoT architecture"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 24 (Reference Architecture - Part 1): patterns are three-tier, gateway-mediated edge, layered databus.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 6,
+   "source": "https://www.youtube.com/watch?v=dakMiIqeQPY",
+   "questions": [
+    {
+     "q": "Which industrial communication technology is suitable for hazardous environments?",
+     "options": [
+      "ModBus-TCP",
+      "EtherCat",
+      "Profibus PA",
+      "TSN"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 29 (Connectivity - Part 2): Profibus PA uses MBP which 'is very useful for hazardous environment'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which type of modem allows simultaneous bi-directional communication?",
+     "options": [
+      "Simplex",
+      "Half-duplex",
+      "Duplex",
+      "Synchronous"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 29 (Connectivity - Part 2): 'duplex bi-directional and at the same time; that means simultaneously'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following industrial communication protocols follow a clientserver architecture?",
+     "options": [
+      "MECHATROLINK",
+      "ModBus-TCP",
+      "Hostlink",
+      "DeviceNet"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 28 (Connectivity - Part 1): Modbus TCP 'uses client-server architecture'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What type of tasks is enabled by Smallcell Deployment in cellular networks?",
+     "options": [
+      "Increasing dead zones",
+      "Alleviating backhaul burden and reducing latency",
+      "Limiting energy efficiency",
+      "Eliminating spectrum flexibility"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 30 (Connectivity - Part 3): small cell deployment objectives include 'alleviating burden on the backhaul', energy efficiency, decreasing dead zones.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The DS1621 temperature sensor generates how many bits of temperature data?",
+     "options": [
+      "8 bits",
+      "9 bits",
+      "10 bits",
+      "12 bits"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 26 (Key Enablers: Sensing - Part 1): DS1621 'will generate 9 bits of temperature data'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following sensors is used to measure acceleration and provides 3-axis (X, Y, Z) values?",
+     "options": [
+      "TCS3200",
+      "LM35",
+      "MQ-2",
+      "ADXL335"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 26 (Key Enablers: Sensing - Part 1): ADXL335 accelerometer gives X, Y, Z values.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which sensor is used for detecting human presence based on infrared radiation?",
+     "options": [
+      "Image sensor",
+      "Ultrasonic sensor",
+      "PIR sensor",
+      "Magnetostrictive sensor"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 26 (Key Enablers: Sensing - Part 1): 'PIR sensor basically detect the infrared radiation coming from the human body'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In an MOS gas sensor, what happens to the resistance in an n-type sensor when exposed to a reducing gas?",
+     "options": [
+      "Resistance remains the same",
+      "Resistance decreases",
+      "Resistance increases",
+      "Resistance fluctuates randomly"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 27 (Key Enablers: Sensing - Part 2): 'In n-type sensors the resistance decreases ... with respect to the baseline resistance when ... exposed to a target gas'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following characteristics describes a gas sensor's ability to detect a specific gas in the presence of other gases?",
+     "options": [
+      "Sensitivity",
+      "Stability",
+      "Selectivity",
+      "Reversibility"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 27 (Key Enablers: Sensing - Part 2): 'Selectivity is the ability to detect a particular gas in a mixture of different gases'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the maximum data transmission range for EtherCat using optical waveguides?",
+     "options": [
+      "100 meters",
+      "500 meters",
+      "10 kilometers",
+      "20 kilometers"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Not spoken in Lecture 28 (slide detail); EtherCAT spans up to 20 km over optical fibre.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which communication protocol uses Common Industrial Protocol (CIP) over Ethernet?",
+     "options": [
+      "EtherNet/IP",
+      "Profinet",
+      "EtherCat",
+      "Modbus-TCP"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 28 (Connectivity - Part 1): 'Ethernet IP basically happens to be like, CIP over Ethernet'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the total bus length supported by Interbus?",
+     "options": [
+      "7 kilometers",
+      "10 kilometers",
+      "13 kilometers",
+      "24n-2 meters, where n is the number of slaves"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 29 (Connectivity - Part 2): Interbus 'total bus length is 13 kilometres'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a key requirement for Industrial communication?",
+     "options": [
+      "High latency communication",
+      "Manual device control",
+      "Single-band connectivity",
+      "Very low latency"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 28 (Connectivity - Part 1): industrial communication requires 'very low latency'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How are sensors categorized based on their power requirements?",
+     "options": [
+      "Active and Passive",
+      "Analog and Digital",
+      "Load Resistive and Load Reactive",
+      "Battery-Powered and Line-Powered"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 1 (Sensing & Actuation): sensors 'could be classified as either passive sensor or active sensor' (based on whether they need external power/excitation).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Modbus is an industrial communication protocol for Fieldbuses that follows a master-slave architecture. What is the maximum number of slave devices supported by the master node in this protocol?",
+     "options": [
+      "128",
+      "247",
+      "256",
+      "494"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Not covered in the lecture; Modbus serial addressing allows 247 slave addresses (1-247).",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 7,
+   "source": "https://www.youtube.com/watch?v=dWp8XIqdXm4",
+   "questions": [
+    {
+     "q": "Which of the following topologies is NOT supported by Zigbee?",
+     "options": [
+      "Tree",
+      "Bus",
+      "Mesh",
+      "All of these"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "lecture",
+     "explanation": "'different topologies that are supported by ZigBee, star topology, tree topology, and mesh topology' (Lecture 32: Key Enablers of IIoT: Connectivity – Part 5 (Zigbee/Xbee demo)); the 'Bus' answer in the 2025 copy is wrong."
+    },
+    {
+     "q": "What is a key benefit of Distributed Control Systems (DCS)?",
+     "options": [
+      "Increased complexity in control mechanism",
+      "Improved reliability through distributed control",
+      "Increased manual interventions",
+      "Reduced communication between devices"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "'DCs basically provides increased reliability because there is distributed control' (Lecture 35: Key Enablers of IIoT: Process Control).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In which frequency bands do LoRa operate?",
+     "options": [
+      "2.4 GHz",
+      "868 MHz (Europe), 915 MHz (North America)",
+      "5 GHz",
+      "1.8 MHz"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "LoRa bands '169, 433, 868 and 915 MHz ... depending on the territory' (Lecture 31: Key Enablers of IIoT: Connectivity – Part 4 (LoRa/SIGFOX + NodeMCU demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which library is required to work with the LoRa?",
+     "options": [
+      "Radiohead",
+      "Xbee",
+      "Zigbee",
+      "XCTU"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'Radiohead library for this LoRa module to work' (Lecture 31: Key Enablers of IIoT: Connectivity – Part 4 (LoRa/SIGFOX + NodeMCU demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. Machine-to-Machine Interface (M2MI) is one of the major components of Supervisory control and Data Acquisition that is used for enabling control and operations of the remote processes by human operators.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "SCADA components listed: sensors, relays, telemetry units, SCADA master units, HMIs (human-machine interface), communication infrastructure (Lecture 35: Key Enablers of IIoT: Process Control); no 'M2MI'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Zigbee uses the ______ standard for defining its physical and medium access control (layers 1 and 2 of the OSI stack).",
+     "options": [
+      "IEEE 802.16.6",
+      "IEEE 802.15.4",
+      "IEEE 502.15.4",
+      "IEEE 502.16.6"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "IEEE 802.15.4 (Lecture 32: Key Enablers of IIoT: Connectivity – Part 5 (Zigbee/Xbee demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "State True or False. The SIGFOX network can transmit up to 140 messages per day with a payload of 12 bytes per message.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'up to 140 messages per day, with a payload of 12 bytes per message' (Lecture 31: Key Enablers of IIoT: Connectivity – Part 4 (LoRa/SIGFOX + NodeMCU demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is/are false about the rule-based engine?",
+     "options": [
+      "Extract causal and temporal patterns using predefined rules",
+      "Handles multiple data streams and correlates them to provide meaningful output",
+      "Cannot process data in near real-time",
+      "All of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture stresses CEP must 'process the data in real near real-time' (Lecture 33: Key Enablers of IIoT: Processing – Part 1), so 'cannot process data in near real-time' is the false one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a Zigbee device type?",
+     "options": [
+      "Coordinator",
+      "Router",
+      "End device",
+      "Hub"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "'A ZigBee module basically can be of 3 types ... coordinator, a router, and an end device' (Lecture 32: Key Enablers of IIoT: Connectivity – Part 5 (Zigbee/Xbee demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the role of message brokers like MQTT and Apache Kafka in real-time IoT processing systems?",
+     "options": [
+      "They store IoT data permanently",
+      "They transfer data to analytical pipelines",
+      "They eliminate the need for data analysis",
+      "They reduce data complexity by deleting unnecessary events"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "'message broker such as MQTT ... or apache Kafka ... used to transfer the data to different analytic pipelines' (Lecture 33: Key Enablers of IIoT: Processing – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which type of analytics in IIoT focuses on forecasting future conditions?",
+     "options": [
+      "Descriptive Analytics",
+      "Predictive Analytics",
+      "Prescriptive Analytics",
+      "Business Processing Analytics"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Predictive analytics outcome: 'forecasting for future conditions' (Lecture 33: Key Enablers of IIoT: Processing – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a key component of the Smart Water Management Platform (SWAMP)?",
+     "options": [
+      "Sensors",
+      "Virtual entity",
+      "ERP",
+      "Data management"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "SWAMP components (sensors, virtual entities, data management, analytics) per Lecture 34: Key Enablers of IIoT: Processing – Part 2; ERP is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a phase of Industrial Manufacturing workflow?",
+     "options": [
+      "Collection of service offerings and infrastructure",
+      "Virtualization, allocation, and management of services",
+      "On-demand service provisioning",
+      "Reallocation of deployed infrastructure"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Industrial manufacturing workflow phases: collection of service offers & infrastructure; virtualization, allocation & management; on-demand service provisioning (Lecture 34: Key Enablers of IIoT: Processing – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a key component of SCADA?",
+     "options": [
+      "Sensors and Control Relays",
+      "Remote Telemetry Units (RTUs)",
+      "Inventory Databases",
+      "Human-Machine Interface (HMI)"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "SCADA components: 'sensors, relays, telemetry units, SCADA master units, HMIs ... communication infrastructure' (Lecture 35: Key Enablers of IIoT: Process Control).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a major component of an Industrial Control System?",
+     "options": [
+      "Process Variables",
+      "Set Points",
+      "Industrial Internet",
+      "Manipulating Variables"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Four ICS components: process variable, set points, controller, manipulating variables (Lecture 35: Key Enablers of IIoT: Process Control).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 8,
+   "source": "https://www.youtube.com/watch?v=D3uY38RBelg",
+   "questions": [
+    {
+     "q": "Which of the following is NOT a key characteristic of Big Data Analytics in IIoT?",
+     "options": [
+      "Volume",
+      "Velocity",
+      "Veracity",
+      "Validation"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Volume, velocity, variability, veracity, variety (Lecture 36: IIoT Analytics and Data Management: Introduction).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which software is commonly used for batch-oriented analytics?",
+     "options": [
+      "C++ and Java",
+      "Apache Hadoop and Apache Spark",
+      "Pandas and Numpy",
+      "MongoDB and MySQL"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Apache Hadoop, Apache Spark (Lecture 36: IIoT Analytics and Data Management: Introduction).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a fundamental type of IIoT Analytics?",
+     "options": [
+      "Descriptive Analytics",
+      "Predictive Analytics",
+      "Prescriptive Analytics",
+      "Structural Analytics"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Descriptive, predictive, prescriptive (Lecture 36: IIoT Analytics and Data Management: Introduction).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which machine learning algorithm enables machines to improve their performance by automatically learning the ideal behaviors for a specific environment?",
+     "options": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Regression"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "RL 'enables machines to improve its performance by automatically learning the ideal behaviors for a specific environment' (Lecture 37: Machine Learning and Data Science – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents a key feature of Fuzzy c-Means clustering?",
+     "options": [
+      "A data point can belong to more than one cluster",
+      "A data point belongs strictly to only one cluster",
+      "Extremely slower than K-Means",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "FCM point may belong to multiple clusters, and is faster (not slower) than K-means (Lecture 37: Machine Learning and Data Science – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is TRUE about the ThingWorx platform?",
+     "options": [
+      "Perform complex analytical process",
+      "Deliver real-time perception",
+      "Has the ability to monitor the condition",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "ThingWorx 'performs complex analytical processes, deliver real-time perception, offers the ability of condition monitoring' (Lecture 37: Machine Learning and Data Science – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "State True or False. Deep learning is an \"end-to-end learning\", which extracts features on its own. On the contrary, in machine learning, features are to be explicitly mentioned.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'Deep learning is an end-to-end learning which extracts features on its own ... in machine learning features are to be explicitly manually mentioned' (Lecture 38: Machine Learning and Data Science – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is TRUE about machine learning (ML)?",
+     "options": [
+      "ML is the subset of AI that can learn automatically from the object features",
+      "ML is the subset of DL which can learn automatically by finding the features of the object on its own",
+      "ML always performs better than Deep Learning models",
+      "ML can only be used for image recognition tasks"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'machine learning focuses on learning automatically from certain object features'; ML is a subset of AI (Lecture 38: Machine Learning and Data Science – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements about MindSphere is incorrect?",
+     "options": [
+      "Cloud-based operating system platform for IoT",
+      "Open safety-as-a-service",
+      "Bring together IoT data from products, factories, machines, and systems to exploit its prosperity",
+      "Enterprise oriented solutions"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "MindSphere 'is an open Platform-as-a-Service' (not safety-as-a-service), cloud-based OS for IoT, enterprise oriented (Lecture 39: Cloud Computing in IIoT – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is/are key characteristic(s) of a Consumer IoT cloud platform?",
+     "options": [
+      "Provide very specific applications for end users",
+      "Provide modest security",
+      "Generally cost-sensitive",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Consumer IoT clouds: 'very specific applications ... modest levels of security ... very cost sensitive' (Lecture 39: Cloud Computing in IIoT – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a fundamental cloud computing service?",
+     "options": [
+      "Software-as-a-Service",
+      "Platform-as-a-Service",
+      "ERP-as-a-Service",
+      "Infrastructure-as-a-Service"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Three fundamental services: SaaS, PaaS, IaaS (Lecture 39: Cloud Computing in IIoT – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following services is NOT provided by C3 IoT?",
+     "options": [
+      "Predictive Maintenance",
+      "Inventory Optimization",
+      "IoT Hardware Analysis",
+      "Fraud Detection"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "C3 SaaS tools: predictive maintenance, inventory optimisation, supply network, energy management, fraud detection, sensor health monitoring (Lecture 40: Cloud Computing in IIoT – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following cloud platform providers does not offer IIoT device management services?",
+     "options": [
+      "Bosch IoT Remote Manager",
+      "Facebook Cloud Services",
+      "AWS's IoT Device Management",
+      "ICP DAS's IoTstar"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Device management providers: Bosch IoT Remote Manager, AWS IoT Device Management, Verismic, ICP IoTstar, Cumulocity (Lecture 40: Cloud Computing in IIoT – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does \"Variety\" refer to in the context of data generation?",
+     "options": [
+      "The speed at which data is generated",
+      "The amount of data generated",
+      "The format of data generated, such as structured, semi-structured, or unstructured",
+      "The accuracy and reliability of data generated"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Variety = different forms/formats of data (structured, semi-structured, unstructured); the other options are velocity, volume, veracity.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "What does the 'K' in K-means clustering represent?",
+     "options": [
+      "Number of features in the dataset",
+      "Number of clusters to be identified",
+      "Maximum iterations allowed in the process",
+      "Number of data points in each cluster"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "'2-means would mean that we are talking about two clusters, two centroids' (Lecture 37: Machine Learning and Data Science – Part 1).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 9,
+   "source": "https://www.youtube.com/watch?v=DYGCwdq5dlg",
+   "questions": [
+    {
+     "q": "Which of the following can be rendered by the fog-enabled IIoT?",
+     "options": [
+      "Real-time monitoring and visualization",
+      "End-to-end security",
+      "Scalability and flexibility",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 41 (Fog Computing in IIoT): fog-enabled IIoT offers 'real-time monitoring and visualization, end-to-end security, scalability ... flexible, reducing cost'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a Fog Computing platform provider?",
+     "options": [
+      "Netflix",
+      "FogHorn",
+      "Google Search",
+      "Twitter Analytics"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 41 (Fog Computing in IIoT): fog platform providers FogHorn, Nebbiolo, Crosser, Sonm.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary use of the R programming language?",
+     "options": [
+      "ERP data handling",
+      "Statistical analysis and data visualization",
+      "SDN security provisioning",
+      "Mobile application development"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): R offers 'statistical analysis platform ... graphical representation, data visualization'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which operator in R is used to obtain the remainder of a division?",
+     "options": [
+      "/",
+      "%/%",
+      "%%",
+      "^"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): 'double percentage which is basically the remainder of a division'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a data type in R?",
+     "options": [
+      "Logical",
+      "Integer",
+      "Binary",
+      "Complex"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): R data types 'logical numeric integer complex character raw'; no binary.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the function of the 'caret' package in R?",
+     "options": [
+      "Provides functions for network security",
+      "Provides functions for creating predictive models",
+      "Manages file system operations",
+      "Helps in game development"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): 'caret for having different functions for creating predictive models'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Julia programming language, which of the following is used for string interpolation?",
+     "options": [
+      "&",
+      "%",
+      "$",
+      "@"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): 'dollar sign is used for string interpolation' in Julia.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a basic service model of cloud computing?",
+     "options": [
+      "Infrastructure-as-a-Service (IaaS)",
+      "Platform-as-a-Service (PaaS)",
+      "Software-as-a-Service (SaaS)",
+      "Analytics-as-a-Service (AaaS)"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 43 (Data Management with Hadoop)/Lecture 39 (Cloud Computing in IIoT Part 1): cloud service models IaaS, PaaS, SaaS.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary purpose of data pre-processing in IIoT?",
+     "options": [
+      "To always append 50% randomly generated data with the existing dataset",
+      "To clean, integrate, and filter data before analysis",
+      "To always delete 50% of the existing data randomly",
+      "To transfer data directly to users without modification"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 43 (Data Management with Hadoop): pre-processing = integration, cleaning and redundancy mitigation before storage/analysis.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. Hadoop Distributed File System (HDFS) and Kosmosfs are notable file systems derived from the open source codes of Google File System (GFS).",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 43 (Data Management with Hadoop): GFS is the notable DFS; HDFS and Kosmosfs listed as file systems (both are open-source GFS derivatives per the slides/textbook).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a key requirement for a Data Center Network?",
+     "options": [
+      "VM migration without changing IP addresses",
+      "Fast detection of failure",
+      "In-house power plant",
+      "Efficient repair of failure"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 44 (Data Center Networks): DCN requirements - VM migration without changing IP, no switch config before deployment, paths among end hosts, failure detection, efficient repair. No power plant.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Edge, Aggregation, and Core are the components of which Data Center Network topology?",
+     "options": [
+      "DCell",
+      "Fat-Tree DCN",
+      "BCube",
+      "Hybrid Cloud Network"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 44 (Data Center Networks): fat-tree DCN 'there are 3 tiers ... the edge tier, the aggregation tier and the core tier'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements about the Data Center Network topology- BCube is incorrect?",
+     "options": [
+      "Server-centric approach, rather than the switch-oriented practice",
+      "Places intelligence on modular data center (MDC) servers",
+      "Provides single serial short paths between any pair of servers",
+      "Runs a source routing protocol called BSR (Bcube Source Routing)"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 44 (Data Center Networks): BCube 'provides multiple parallel short paths between any pair of servers', so 'single serial' is incorrect.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the role of the SDN controller in a network?",
+     "options": [
+      "It modifies data packets before forwarding to end users",
+      "It defines and manages flow rules for forwarding devices",
+      "It directly replaces physical network switches",
+      "It completely eliminates the need for network security"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 45 (SDN in IIoT Part 1): forwarding devices forward traffic 'based on certain control logic ... defined by the SDN controller' placed as flow rules.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is FALSE about fog computing?",
+     "options": [
+      "The fog layer analyzes a huge volume of real-time data generated from industrial devices and machines.",
+      "The fog layer simultaneously collects data from various interconnected industrial machines, smart sensors, devices, and robots.",
+      "The fog layer generates the decisions from the sensed data and delivers them to the actuators with minimum latency.",
+      "The fog layer increases unnecessary data transmission to the cloud and server by bypassing data filtering and restructuring."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 41 (Fog Computing in IIoT): fog filters data to 'prevent ... unnecessary noisy data' reaching the cloud; the statement says the opposite.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 10,
+   "source": "https://www.youtube.com/watch?v=O0Hh2D0euBE",
+   "questions": [
+    {
+     "q": "Which of the following is NOT a component of the SDIIoT architecture?",
+     "options": [
+      "SDIIoT - WSN",
+      "SDIIoT - Industrial Bus & Network",
+      "SDIIoT - ERP Framework",
+      "SDIIoT - Industrial Cloud"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 46 (SDN in IIoT Part 2): SDIIoT - sensor network, public network, industrial cloud, industrial bus network; no ERP framework.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a component of SD-Edge IIoT Architecture?",
+     "options": [
+      "Cluster Head",
+      "Industrial Cloud",
+      "Edge Network",
+      "Standalone Firewall"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "lecture",
+     "explanation": "Lecture 46 (SDN in IIoT Part 2): SD-edge IIoT components 'cluster head, industrial cloud, edge network, SDN controller, devices and equipments'."
+    },
+    {
+     "q": "Which of the following is NOT a key attribute of trustworthy IIoT?",
+     "options": [
+      "Reliability",
+      "Security",
+      "Unlimited network access",
+      "Privacy"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 47 (Security in IIoT Part 1): trustworthiness - security, privacy, reliability, resilience, safety.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an example of an IIoT attack at the physical layer?",
+     "options": [
+      "SQL injection",
+      "Device tampering",
+      "Traffic flooding",
+      "Man-in-the-middle attack"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 47 (Security in IIoT Part 1): physical layer - impersonation, jamming, device tampering.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does the STRIDE threat model in IIoT security stand for?",
+     "options": [
+      "Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege",
+      "Secure Transmission, Reliable Data, Industrial Deployment, Encryption",
+      "Software, Tracking, Response, Integration, Data, Encryption",
+      "Security Threats, Risk Identification, Detection, Evaluation"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 47 (Security in IIoT Part 1): spoofing, tampering, repudiation, information disclosure, DoS, elevation of privilege.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an attack vector in the network layer of IIoT?",
+     "options": [
+      "SQL injection",
+      "Traffic flooding",
+      "Jamming attack",
+      "Data spoofing"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 47 (Security in IIoT Part 1): network layer - traffic flooding, MITM, misrouting, packet sniffing.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a building block of IIoT security?",
+     "options": [
+      "Cloud security",
+      "Data protection",
+      "Physical network topologies",
+      "Communication Protection"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 48 (Security in IIoT Part 2): building blocks end devices, fog devices, cloud security, data protection, communication protection, security management.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following standards is related to Industrial automation and control systems security?",
+     "options": [
+      "ISO/IEC 154083",
+      "IEC 62443",
+      "ISO 27017",
+      "NIST SP 800-144"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 48 (Security in IIoT Part 2): 'IEC 62443 which is an industrial automation and control system security standard'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a key principle of data protection in IIoT?",
+     "options": [
+      "Confidentiality",
+      "Integrity",
+      "Availability",
+      "Unrestricted access"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 48 (Security in IIoT Part 2): data protection = confidentiality, integrity, availability.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. Caterpillar's AR app generates an end-to-end view of the factory floor, enabling machine operators to detect tool replacement needs and send instructions for replacement.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 49 (Factories and Assembly Line): Caterpillar AR app 'generates end to end view of the factory floor ... operators can detect the need for tool replacement'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a key feature of a Smart Factory?",
+     "options": [
+      "Continuous real-time data",
+      "Prediction of future outcomes for taking preventive actions",
+      "High manual operation",
+      "Flexibility and adaptability"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 49 (Factories and Assembly Line): smart factory optimized 'without any human intervention or with minimal human intervention'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is INCORRECT about Fanuc - Zero Downtime System?",
+     "options": [
+      "Is a robot maker",
+      "Uses predictive maintenance to reduce downtime",
+      "Does not predict component failure",
+      "Performs cloud-based analytics with the help of in-built sensors"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 49 (Factories and Assembly Line): Fanuc zero downtime 'predicts component failure'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the purpose of SmartLabel in the food industry?",
+     "options": [
+      "To provide consumers with product-related information via QR codes",
+      "To remove ingredient details from food packaging",
+      "To eliminate allergen warnings for consumers",
+      "To prevent transparency in the food supply chain"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 50 (Food Industry): SmartLabel 'uses QR code to provide product related information to the consumers'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following devices is primarily used to detect the presence of microbial disease in food?",
+     "options": [
+      "Diagenetix-BioRanger",
+      "Eskesso-The Cooking Sorcery",
+      "Intellicup-Smart Cups",
+      "Intellicup-The Cooking Sorcery"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 50 (Food Industry): 'Diagenetix ... bio ranger which can help in detecting the presence of microbial diseases in the food'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the unique feature of Spinn Inc.'s smart coffee machines?",
+     "options": [
+      "They connect with Amazon Echo and have an auto-order feature",
+      "They remove automation from coffee brewing",
+      "They require manual input for all brewing processes",
+      "They prevent connectivity with IoT platforms"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 50 (Food Industry) only names Spinn for smart coffee brewing; Spinn machines integrate with Amazon Alexa/Echo and auto-reorder beans; other options are negations.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 11,
+   "source": "https://www.youtube.com/watch?v=RJXW0SV_rCk",
+   "questions": [
+    {
+     "q": "What is one of the primary benefits of IIoT in healthcare?",
+     "options": [
+      "Increasing the number of hospital visits",
+      "Remote monitoring of patient health conditions",
+      "Limiting the use of wearable healthcare devices",
+      "Reducing the need for medical data storage"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare' slide 'Benefits of IIoT in Healthcare': 'Monitor patient's health condition remotely'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which IoT-enabled device is used for continuous glucose level monitoring?",
+     "options": [
+      "QardioCore",
+      "Dexcom Glucose Sensor",
+      "iHealth BP5",
+      "Kinsa Smart Thermometer"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare': 'Dexcom develops continuous glucose monitoring devices.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which IIoT device monitors body temperature using wearable sensors?",
+     "options": [
+      "Kinsa Smart Thermometer",
+      "Dexcom Glucose Sensor",
+      "iHealth BP5",
+      "ADAMM Intelligent Asthma Monitor"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare': 'Kinsa smart thermometer is IoT based body temperature monitoring device' (wearable sensor).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following ensures that medical data is not accessible by unauthorized users?",
+     "options": [
+      "Integrity",
+      "Authentication",
+      "Confidentiality",
+      "Availability"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare' slide: 'Confidentiality: It ensures medical data is not accessible by unauthorized users.'",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a major benefit of smart metering in IIoT?",
+     "options": [
+      "Reduces operational costs by enabling remote management",
+      "Increases the chance of energy loss",
+      "Eliminates the need for grid optimization",
+      "Limits data collection from power systems"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L52 'IIoT Applications: Power Plants': smart metering - 'IoT is used to reduce the operational cost as the operations are remotely managed'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a key advantage of Advanced Metering Infrastructure (AMI)?",
+     "options": [
+      "Prevents broadband and radio frequency communications",
+      "Enables smart meters to collect and transmit energy consumption data",
+      "Eliminates the need for automated power distribution",
+      "Reduces the effectiveness of metering data management"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L52 'IIoT Applications: Power Plants': AMI comprises smart meters, communication networks; smart meters collect energy data, MDAS gathers, MDMS analyzes.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does IIoT benefit the wind energy sector?",
+     "options": [
+      "Predicts turbine issues before large-scale damage occurs",
+      "Prevents automation in remote power plants",
+      "Increases the difficulty of maintaining remote turbines",
+      "Disables predictive maintenance in wind farms"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L52 'IIoT Applications: Power Plants': wind sector - IIoT improves efficiency and remote monitoring/control of turbines; only the predictive option is a benefit.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a key function of Inventory Management?",
+     "options": [
+      "Decouple components of the production-distribution system",
+      "Hedge against price increases or take advantage of quantity discounts",
+      "Eliminating stock monitoring",
+      "Smoothen the flow of operations"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L53 'Inventory Management & Quality Control' functions: meet anticipated demand, decoupling, protect against stock-outs, hedge against price increases, smoothen flow; 'eliminating stock monitoring' is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What type of RFID tag has an onboard battery but no active transmitter?",
+     "options": [
+      "Active RFID Tag",
+      "Passive RFID Tag",
+      "Semi-Passive RFID Tag",
+      "Dynamic RFID Tag"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L53 'Inventory Management & Quality Control': semi-passive tags have 'an onboard battery to power the IC ... no active transmitter'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT true about RFID tags?",
+     "options": [
+      "RFID tags can store additional information like temperature and damage status.",
+      "RFID tags require a line-of-sight for data reading.",
+      "RFID tags are used for product identification and visibility.",
+      "RFID tags have better security compared to barcodes."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L53 'Inventory Management & Quality Control': it is barcodes that 'need to be on Line of Sight of the readers'; RFID does not.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which network security measure is used to detect and prevent malware?",
+     "options": [
+      "Access control",
+      "Antivirus and antimalware software",
+      "Virtual Private Network",
+      "Data encryption"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L54 'Plant Security and Safety' slide: 'Antivirus and antimalware software - Scan for malware detection and prevention'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a key feature of AR?",
+     "options": [
+      "AR creates the perception of a mixed reality spectrum.",
+      "AR produces an enhanced view of the real world using multiple sensory modalities - auditory, haptic, somatosensory, olfactory, and visual.",
+      "AR completely replaces the real-world environment with a fully virtual space.",
+      "AR utilizes the existing physical environment and overlays additional useful information on top of it."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L13 'Augmented Reality and Virtual Reality': AR overlays digital elements on the real environment (middle of mixed reality spectrum); fully replacing reality is VR.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does IoT enhance security in facility management?",
+     "options": [
+      "By monitoring alarms, smoke detectors, and life safety systems remotely",
+      "By disconnecting emergency response systems",
+      "By preventing real-time access to security alerts",
+      "By limiting surveillance capabilities in buildings"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L55 'Facility Management' slide: 'Security and Safety Alarms - Monitor alarms, smoke detector, other life safety systems remotely'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a type of network security?",
+     "options": [
+      "Intrusion prevention systems",
+      "Firewalls",
+      "Mobile device security",
+      "Manual error tracking"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L54 'Plant Security and Safety' types of network security: firewalls, IPS, mobile device security, etc.; 'manual error tracking' is not listed.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a component of an RFID system?",
+     "options": [
+      "RFID reader",
+      "Antenna",
+      "Integrated Circuit Card (ICC)",
+      "RFID tag or smart label"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L53 'Inventory Management & Quality Control': RFID system = tag, reader (read/write device with antenna), host system; an Integrated Circuit Card is not a component.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jan-Apr 2025",
+   "week": 12,
+   "source": "https://www.youtube.com/watch?v=kqvD0ZeMCXs",
+   "questions": [
+    {
+     "q": "Which of the following is NOT a benefit of IoT in the oil and gas industry?",
+     "options": [
+      "Improving work safety",
+      "Enhancing production efficiency",
+      "Eliminating equipment maintenance",
+      "Saving cost and time"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' benefits: production efficiency, save cost and time, improve asset maintenance, work safety; eliminating maintenance is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a key application of IoT sensors in the pharmaceutical industry?",
+     "options": [
+      "Detecting adverse drug reactions (ADR)",
+      "Eliminate utilization of equipment",
+      "Increasing production costs intentionally",
+      "Avoiding remote control of equipment"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry': IoT examines drugs to detect Adverse Drug Reactions.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following cannot be achieved by performing condition-based monitoring using IoT?",
+     "options": [
+      "Predicting quality through continuous monitoring",
+      "Analytics-based weather prediction and its impact on farming",
+      "Adjust the amount of required material",
+      "Eliminating pricing models entirely"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide 'Condition-based monitoring': predict quality, water/nutrients/pesticides analysis, weather prediction, adjust material, 'Pricing model with the profit margin'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does IoT improve logistics for industries?",
+     "options": [
+      "Preventing product location tracking with sensors or RFID tags",
+      "Ensuring contamination detection and alert notifications",
+      "Avoiding warehouse monitoring altogether",
+      "Ignoring asset tracking to prevent loss"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide 'Improve Logistics': 'Detection of contamination or attacks', 'Alert notification'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does IoT contribute to reducing energy expenses in industries?",
+     "options": [
+      "By analyzing real-time data to identify inefficiencies",
+      "By increasing regulatory control burdens",
+      "By avoiding usage pattern analysis",
+      "By ignoring energy usage optimization"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide 'Reduce Energy Expenses': analyze real time data, improve usage pattern, inefficiency.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following can be achieved by using IoT in the chemical industry?",
+     "options": [
+      "Reduction in Energy Expenses",
+      "Predictive Maintenance",
+      "Improve Logistics",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry': chemical industry benefits include reduced energy expenses, predictive maintenance, improved logistics.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which generation of UAVs introduced transformable designs, 1080 HD video, and three-axis gimbals?",
+     "options": [
+      "Second Generation",
+      "Fourth Generation",
+      "Fifth Generation",
+      "Sixth Generation"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L57 'UAVs in Industries' generations slide: Fourth - 'Transformable designs, 1080 HD video or higher value instrumentation, three-axis gimbals'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How do UAVs help in the mining industry?",
+     "options": [
+      "Digging entire tunnels",
+      "Managing stockpiles and grading control",
+      "Operating drilling machinery",
+      "Refining extracted minerals"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L57 'UAVs in Industries' mining slide: 'Manage stockpiles', 'Helps in grading control'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How do UAVs help in agriculture?",
+     "options": [
+      "Monitor crop stress factors like over-fertilization or drought",
+      "Reduce human labor completely",
+      "Eliminate the need for fertilizers",
+      "Increase soil erosion"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L57 'UAVs in Industries' agriculture slide: 'Monitoring crop stress factors (like over fertilization or drought)'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a major advantage(s) of UAVs in telecommunication?",
+     "options": [
+      "Monitor towers from any angle and height",
+      "Covers wide areas with less cost",
+      "Broadcasting live events",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L57 'UAVs in Industries' telecom slide: monitor towers from any angle and height; covers wide areas with less cost (broadcasting live events not on the original slide but 'All of these' is the only option covering the listed advantages).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is most suitable for scanning a huge number of items in a warehouse, checking the missing items, and monitoring full inventory?",
+     "options": [
+      "Unmanned Aerial Vehicle (UAV)",
+      "Automated Guided Vehicle (AGV)",
+      "Autonomous Underwater Vehicle (AUV)",
+      "Segway"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L57 'UAVs in Industries' slide 'Warehousing and Inventory': UAVs scan a huge number of items, check missing items, monitor full inventory in a day.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which generation of UAVs introduced transformable designs with 360° gimbals and high-quality video instrumentation?",
+     "options": [
+      "Third Generation",
+      "Fourth Generation",
+      "Fifth Generation",
+      "Sixth Generation"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L57 'UAVs in Industries' generations slide: Fifth - 'Transformable designs with 360° gimbals, high quality video or higher-value instrumentation'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT an application of UAVs in forestry?",
+     "options": [
+      "Conducting forestry surveys to show information about forest species, including the humans around the forest",
+      "Precision forestry and canopy mapping for measuring canopy height, density, and volume estimation",
+      "Tracking wildland fires",
+      "Eradicating endangered species"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L57 'UAVs in Industries' forestry slide: forestry survey, precision forestry & canopy mapping, wildland fires tracking, 'Protecting endangered species'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is one of the primary applications of UAVs in construction sites?",
+     "options": [
+      "Painting buildings",
+      "Monitoring job sites",
+      "Replacing construction workers",
+      "Manufacturing construction materials"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L57 'UAVs in Industries' construction slide: 'Monitoring job sites: Monitor progress, works, and safety standards'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is/are FALSE about the necessity of case studies?",
+     "options": [
+      "The case study investigates real-life phenomena through a detailed analysis of related events.",
+      "The case study generally selects a vast geographical area or a large number of individuals as the subject matter.",
+      "Both (a) and (b)",
+      "Neither (a) nor (b)"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L58 'Case Studies for Industry 4.0 & IIoT' slide: case study selects 'a small geographical area or a very limited number of individuals', so (b) is false; (a) is stated as true.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 1,
+   "source": "https://www.youtube.com/watch?v=4es0cfNyxzU",
+   "questions": [
+    {
+     "q": "Which sensor system type is characterized by an output that oscillates before reaching steady state?",
+     "options": [
+      "Zero order system",
+      "First order system",
+      "Second order system",
+      "Linear system"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 01 (Sensing & Actuation): second order systems' output 'will typically oscillate before the steady state'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a correct example of a transducer?",
+     "options": [
+      "Microphone",
+      "Wire",
+      "Speaker",
+      "Antenna"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 01 (Sensing & Actuation): microphone, speaker, antenna are transducers; a wire is not.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The response of which of the following sensors depends on the magnitude of the direction and orientation of input parameter?",
+     "options": [
+      "Scalar sensor",
+      "Passive sensor",
+      "Analog sensor",
+      "Vector sensor"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 01 (Sensing & Actuation): vector sensors depend on magnitude, direction and orientation.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which type of Zigbee node is responsible for network initialization and maintenance?",
+     "options": [
+      "Router",
+      "End Device",
+      "Coordinator",
+      "Sensor"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 02 (IoT Connectivity Part I): coordinator 'takes care of issues of initialization, maintaining, and controlling of the network'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which two layers does IEEE 802.15.4 provide a framework for?",
+     "options": [
+      "MAC and PHY",
+      "IP and TCP",
+      "HTTP and SSL",
+      "FTP and DNS"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 02 (IoT Connectivity Part I): 802.15.4 defines 'the physical layer and the MAC layer'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How often are time slots allocated in Wireless HART?",
+     "options": [
+      "1 per second",
+      "10ms per slot",
+      "100ms per slot",
+      "1 second per device"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 02 (IoT Connectivity Part I): WirelessHART groups '100 consecutive time slots per second' into a superframe, i.e. 10 ms per slot.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How do passive RFID tags operate?",
+     "options": [
+      "Use an internal battery",
+      "Use an external solar panel",
+      "Are powered by the reader inductively",
+      "Are manually activated"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): passive tags 'will have to be powered inductively'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Bluetooth technology is based on which type of networking?",
+     "options": [
+      "Mesh",
+      "Piconet (Ad-hoc)",
+      "Star",
+      "Bus"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): Bluetooth forms ad-hoc networks organised as Piconets.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What process is used by Z-wave to bypass radio dead spots?",
+     "options": [
+      "Network Slicing",
+      "Subnetting",
+      "Healing",
+      "Network Partitioning"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 03 (IoT Connectivity Part II): dead spots 'can be bypassed ... known as healing'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following best represents the 'trunk' in the IoT analogy?",
+     "options": [
+      "ARM (Architectural Reference Model)",
+      "IoT applications",
+      "Communication protocols",
+      "End-user interfaces"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 04 (IoT Networking Part I): 'this trunk is basically the architectural reference model of IoT'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the function of the Registration Interface (RI) in CoRE?",
+     "options": [
+      "Processes user login",
+      "Assigns MAC addresses",
+      "Encrypts transmitted data",
+      "Registers IoT resources to the directory"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 04 (IoT Networking Part I): devices 'register their resources to the resource directory' through the registration interface.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a message type in CoAP?",
+     "options": [
+      "CON",
+      "NON",
+      "RST",
+      "ECHO"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 05 (IoT Networking Part II): CoAP message types are confirmable, non-confirmable, reset (RST) and acknowledgement - no ECHO.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an IP-based solution proposed by IETF for IoT?",
+     "options": [
+      "Zigbee Alliance",
+      "Bluetooth SIG",
+      "CoRE",
+      "Wi-Fi Alliance"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 04 (IoT Networking Part I): IETF IP-based solutions are 6LoWPAN, ROLL and CoRE.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. Sensor calibration is typically used for weeding-out repeatable errors in sensor readings.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Not in the lecture; calibration removes systematic (repeatable) errors, random errors cannot be calibrated out - True.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following is NOT true about WirelessHART?",
+     "options": [
+      "It is a license-free protocol",
+      "It is not compatible with any legacy devices",
+      "WirelessHART uses the IEEE 802.15.4 standard for its protocols designing",
+      "WirelessHART makes device placements more accessible and cheaper"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "WirelessHART is backward compatible with existing HART devices, so 'not compatible with any legacy devices' is the false statement; lecture confirms it is 802.15.4-based.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 2,
+   "source": "https://www.youtube.com/watch?v=rWFea39oqME",
+   "questions": [
+    {
+     "q": "Which technological innovation drove the First Industrial Revolution?",
+     "options": [
+      "Electricity and the assembly line",
+      "Invention of steam engine and construction of railways",
+      "Semiconductor fabrication techniques",
+      "Artificial Intelligence and Cyber-Physical Systems"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 06 (The Fourth Revolution): first revolution 'started with the invention of steam engine ... construction of railways'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following sectors is considered as the conventional application area for robots?",
+     "options": [
+      "Automotive industry",
+      "Precision agriculture",
+      "Nursing",
+      "Space exploration"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 06 (The Fourth Revolution): 'connected robotic equipments are being used in the automotive industries' (the conventional domain).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. A depression, compared to a recession, is characterized by ________________________.",
+     "options": [
+      "Increased investment in manufacturing",
+      "Shorter duration of economic hardship",
+      "Lower unemployment rates",
+      "Higher levels of economic damage and longer duration"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 07 (Sustainability Assessment of Manufacturing Industry): depression 'is the extremity of recession ... duration is more than two years'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In a manufacturing industry, which system is described as the \"main nervous system\"?",
+     "options": [
+      "Supply-Chain Management (SCM)",
+      "Information and Communication Technology (ICT)",
+      "Energy-price monitoring",
+      "Human-resources planning"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 07 (Sustainability Assessment of Manufacturing Industry): ICT is the backbone/main nervous system of manufacturing.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Emerging markets are expected to be found primarily in ______.",
+     "options": [
+      "Developed countries",
+      "Developing countries",
+      "Polar regions",
+      "Nations with zero population growth"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 07 (Sustainability Assessment of Manufacturing Industry): emerging markets consideration 'is very important, particularly for developing countries'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a key feature of Lean production approach?",
+     "options": [
+      "It emphasizes automation over manual labor",
+      "It focuses solely on financial outcomes",
+      "It considers the customer's perspective",
+      "It aims to increase inventory levels"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 08 (Lean Production System): 'lean approach is basically look from the customers' perspective'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Alongside Jidoka, Lean production is founded on which second pillar?",
+     "options": [
+      "Kaizen",
+      "Just-in-Time",
+      "Kanban",
+      "Total Productive Maintenance"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 08 (Lean Production System): lean's two pillars are JIDOKA and just-in-time.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the first step in the \"5 steps of walking a value stream\"?",
+     "options": [
+      "Build a leadership team",
+      "Walk it – discuss value and list ideas",
+      "Focus on a single value stream",
+      "Schedule follow-up"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 08 (Lean Production System): five steps start with 'Focusing on a single value stream'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is included among the fundamental building blocks of a smart business model?",
+     "options": [
+      "Marketing campaigns",
+      "Customer values and key processes",
+      "Warehouse locations",
+      "Stock exchange metrics"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 09 (Smart and Connected Business Perspective): building blocks: customer values, blueprint of profits, key resources and key processes.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents the key attributes of a smart business model?",
+     "options": [
+      "Value proposition",
+      "Revenue streams",
+      "Technologies",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 09 (Smart and Connected Business Perspective): key attributes: value proposition, revenue stream, technologies.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Big Data analytics in smart factories can help with_________________.",
+     "options": [
+      "Generating knowledge",
+      "Reducing data storage",
+      "Eliminating sensors",
+      "Increasing manual paperwork"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 10 (Smart Factories): big data analytics is about 'generating knowledge out of the information'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Why are smart factories increasingly necessary in today's industry?",
+     "options": [
+      "They reduce the number of products needed",
+      "They support rigid, static manufacturing systems",
+      "They help achieve high production in less time with reduced risks of failure",
+      "They operate only in low-demand markets"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 10 (Smart Factories): smart factories needed for competitiveness, 'high amount of production within minimum timeline', 'reducing the risk of failure'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State True or False. Smart Grid is considered as a supporting technology for Smart Factories.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 10 (Smart Factories): 'smart grid is also a very important supporting technologies for building smart factories'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Timely delivery and reliability are highlighted within sustainability under which supply-related concept?",
+     "options": [
+      "Supply-Chain Management loop",
+      "Single-sourcing",
+      "Random demand generation",
+      "Personal mail delivery"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 07 (Sustainability Assessment of Manufacturing Industry) covers SCM as the strategic globalization element for sustainability; timely delivery/reliability belong to the SCM loop - other options are distractors.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "State True or False. Industry 4.0 is commonly referred to as the fourth industrial revolution pertaining to digitization in the manufacturing industry.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 06 (The Fourth Revolution): Industry 4.0 is the synonym of the fourth industrial revolution, digitizing/connecting manufacturing.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 3,
+   "source": "https://www.youtube.com/watch?v=tayDassOJdM",
+   "questions": [
+    {
+     "q": "What distinguishes CPS from traditional embedded systems?",
+     "options": [
+      "CPS are always smaller in size",
+      "CPS have limited computational power",
+      "CPS are networked set of embedded systems and not resource-constrained",
+      "CPS rely solely on manual controls"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L11: CPS is a networked set of embedded systems and 'may not be resource constrained'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Reactive Computation, as a feature of Cyber-Physical Systems, primarily involves ______.",
+     "options": [
+      "Performing computations only when explicitly commanded by a user.",
+      "Interacting with the environment in an ongoing manner through observed inputs and outputs.",
+      "Executing a fixed set of operations without external influence.",
+      "Storing large amounts of data for later analysis."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L11: reactive computation is interaction with the environment continuously, 'a sequence of observed inputs and outputs'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "A smart traffic management system that monitors traffic signals and cameras in real-time to optimize traffic flow and provide transit signal priority for emergency vehicles is an example of CPS application in which domain?",
+     "options": [
+      "Healthcare",
+      "Smart Grid",
+      "Transportation",
+      "Industry"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L11: transportation CPS for 'real time monitoring of traffic ... signals, cameras ... transit signal priority ... for ambulances'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following are the four key parts that enable collaboration productivity in Industry 4.0?",
+     "options": [
+      "IT Proliferation, Single Source of Truth, Industrialization, Coordination",
+      "Hardware, Software, Networks, People",
+      "Planning, Execution, Monitoring, Control",
+      "Design, Development, Testing, Deployment"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L12: IT proliferation, single source of truth, industrialization, coordination.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is identified as a major challenge for PLM in Industry 4.0?",
+     "options": [
+      "Lack of skilled workers",
+      "High energy consumption",
+      "Short product lifecycle and increasing outsourcing",
+      "Limited internet connectivity"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L12: business challenges for PLM are a 'shortened product lifecycle' and 'increased outsourcing'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does Augmented Reality (AR) function in a user's environment?",
+     "options": [
+      "Replaces the real world with a fictional setting",
+      "Adds digital elements into the actual environment",
+      "Creates a full simulation with no real-world connection",
+      "Only uses audio input"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L13: 'digital elements are added to the actual environment'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which sensor modalities are supported by Augmented Reality?",
+     "options": [
+      "Auditory only",
+      "Tactile only",
+      "Visual, auditory, and haptic",
+      "Taste and smell"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L13: AR 'provides multiple sensor modalities, which can be visual, auditory or, haptic'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Patterson, what is Artificial Intelligence (AI)?",
+     "options": [
+      "Deals with studying and creation of computer systems exhibiting some form of intelligent behavior",
+      "A method of transmitting wireless data",
+      "A system that replicates human hardware",
+      "A mechanical replacement for programming languages"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L14: per Patterson, AI 'deals with the study and the creation of computer systems that exhibit some form of intelligence'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT listed as a scope of AI?",
+     "options": [
+      "Games",
+      "Data Entry",
+      "Natural Language Processing (NLP)",
+      "Robotics"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L14 scope of AI: games, NLP, vision, speech, robotics, expert systems; data entry is not listed.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is listed as a challenge of AI in IIoT?",
+     "options": [
+      "Increasing efficiency",
+      "Saving costs",
+      "Understanding data",
+      "Boosting resources"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L14: challenges include 'understanding the data'. Efficiency, cost and resources are listed as advantages.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The statement \"Data whose meaning is constantly changing\" best describes which characteristic of Big Data?",
+     "options": [
+      "Variety",
+      "Veracity",
+      "Variability",
+      "Visualization"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L15: variability is 'the data whose meaning is constantly changing'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a notable distributed file system derived from the open-source codes of GFS, mentioned in the context of Big Data storage?",
+     "options": [
+      "HDFS",
+      "NoSOL",
+      "SOL",
+      "RDBMS"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L15: 'HDFS file system is a notable file system derived from the open source codes of GFS'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Why are traditional Data Warehouse (DW) architectures generally not suitable for Big Data applications?",
+     "options": [
+      "They are designed for unstructured data.",
+      "They lack the ability to perform parallel processing.",
+      "They cannot handle the characteristics that Big Data possess, requiring distributed, parallel performing, scale-out frameworks",
+      "They are too expensive for Big Data."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L15: 'big data applications cannot be fit in traditional data warehouse architectures' due to large volumes; they need distributed scale-out tools.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. ________ acts as the interface for the different applications during the entire lifecycle management of the product.",
+     "options": [
+      "Product Lifecycle Management",
+      "Customer Relationship Management",
+      "Enterprise Resource Planning",
+      "Manufacturing Execution System"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L12 presents PLM as the management system spanning the product's entire lifecycle, so PLM is the interface across lifecycle applications.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following statements is incorrect about Big Data?",
+     "options": [
+      "Big data analytics can process real-time data from IoT devices and store them using various storage schemes.",
+      "Big data consists only of structured datasets generated by IoT applications.",
+      "The classification of data as big data depends on characteristics such as volume, variety, value, velocity, and veracity.",
+      "Big data can be used to analyze patterns in network behavior, customer experiences, and connectivity issues."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L15: big data includes structured and non-structured data, so 'only structured' is incorrect.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 4,
+   "source": "https://www.youtube.com/watch?v=NI8PviQZ3bQ",
+   "questions": [
+    {
+     "q": "Which of the following components of cybersecurity focuses on maintaining the availability, integrity, and confidentiality of business data?",
+     "options": [
+      "Network Security",
+      "Operational Security",
+      "Information Security",
+      "End-user Education"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L16: information security maintains 'the availability, the integrity, and the confidentiality of the data'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Network security combines multiple layers of defenses at which locations?",
+     "options": [
+      "At the edge and in the network",
+      "Only within the network's core",
+      "Only at the edge of the network",
+      "At individual user devices only"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L16 calls network security a protective platform over the network; the standard definition is multiple layers of defenses 'at the edge and in the network'.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Why are IIoT Security Standards required, especially when diverse systems and equipment are integrated on a smart factory floor?",
+     "options": [
+      "To reduce the cost of implementing IIoT",
+      "Because leaving security to individual IIoT implementers is dangerous and every weak line puts the whole factory at risk",
+      "To ensure that only new systems are implemented, not legacy ones",
+      "To increase the complexity of the smart factory floor"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L16: 'every weak line in the production system ... puts the whole factory at risk. So, leaving security at the hands of the individual IIoT implementers is ... dangerous'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In IIoT, where are sensors and actuators primarily used compared to traditional automation?",
+     "options": [
+      "Only for critical elements",
+      "Almost everywhere to control, enhance, and optimize various functions",
+      "Exclusively for emergency systems",
+      "To replace human operators entirely"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L17: in IIoT, sensors and actuators are 'used everywhere to control, enhance, and optimize various functions'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the mining industry, how do sensor networks with gas sensors, strata monitoring devices, and RFID tags contribute to safety and efficiency?",
+     "options": [
+      "They only help in tracking miners' locations",
+      "They are primarily used for communication between miners",
+      "They replace the need for human inspection",
+      "They provide early disaster warning, monitor working conditions, and help locate miners"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L17: mining benefits are 'early disaster warning, working condition of the miners can be monitored ... Locating and monitoring the miners'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Who coined the term \"Industrial Internet\"?",
+     "options": [
+      "IBM",
+      "General Electric (GE)",
+      "Intel",
+      "Siemens"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L18: General Electric coined 'industrial internet'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What are the three key elements of the Industrial Internet?",
+     "options": [
+      "Big Data, Cloud, and AI",
+      "Intelligent Machines, Advanced Analytics, People at Work",
+      "Sensors, Processors, and Actuators",
+      "Software, Hardware, and Middleware"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L18: intelligent machines, advanced analytics, people at work.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In a milk packaging unit, how is flow measured?",
+     "options": [
+      "Using a thermometer",
+      "Via a spinning impeller that sends signals when milk flows",
+      "With a smart camera",
+      "Using a GPS module"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L19: 'impeller spins when the milk moves and sends the electrical signal to the control unit'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which component is responsible for converting analog data to digital data in a smart sensor node?",
+     "options": [
+      "Processor",
+      "Memory",
+      "ADC",
+      "DAC"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L19: smart sensor node has 'the ADC, the analog to digital converter'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of the agriculture industry, what is the primary use of smart sensors like soil and water sensors?",
+     "options": [
+      "To track real-time objects",
+      "To predict driver destinations",
+      "To prevent patient falls in hospitals",
+      "For accurate use of fertilizers and determining crop health"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L19: agriculture smart sensors monitor soil moisture, water level, fertilizer and nutrition content.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Thames Water's smart water management system, as an example of Industrial Process 4.0 operation efficiency, primarily benefits from _________________.",
+     "options": [
+      "Data monetization and pay-per-use models",
+      "Sensor-based equipment status monitoring and failure detection",
+      "Augmented Reality-based problem diagnosis",
+      "Controlled power generation using weather forecasts"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L20: Thames Water example: 'sensor based equipment monitoring the status monitoring, detection of failures'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Interoperability in the design philosophy of IIoT for Industrial Processes refers to _________________.",
+     "options": [
+      "Empowering smart objects to reduce human intervention",
+      "Facilitating communication between heterogeneous objects",
+      "Virtualization of objects and digital models",
+      "Enabling smart objects to take independent decisions"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L20: 'Interoperability is about facilitating communication between heterogeneous objects'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the 5C architecture of Cyber-Physical Systems, what does the \"Conversion Layer\" do?",
+     "options": [
+      "Interprets sensors data for information",
+      "Stores backup data",
+      "Converts analog signal to mechanical action",
+      "Synchronizes robotic arms"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L20: conversion layer covers 'the conversion of the data into information, and its interpretation'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. In the case of spear phishing, the attackers send thousands of deceitful emails that resemble actual emails from credible sources while email phishing attacks are targeted to a specific person or organization to obtain sensitive information.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "The roles are swapped: spear phishing targets a specific person or organization, while email phishing sends mass deceptive emails. So False.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following statements is incorrect about the CIA triad in network and computer system security?",
+     "options": [
+      "Confidentiality ensures that information is concealed and protected from unauthorized access",
+      "Integrity refers to maintaining the accuracy and consistency of data, and can always be violated by intentional attacks",
+      "Availability is compromised when authorized users are denied access to information due to network attacks like DDoS",
+      "None of these"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L16: integrity ensures data cannot be changed in an unauthorized manner. Saying it 'can always be violated by intentional attacks' is the incorrect statement; A and C are correct.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 5,
+   "source": "https://www.youtube.com/watch?v=g97T1sbD5L0",
+   "questions": [
+    {
+     "q": "According to the ICP DAS framework for Industry 4.0, under which category does \"System health diagnosis\" fall?",
+     "options": [
+      "Energy",
+      "Safety",
+      "M2M",
+      "Manufacturing"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Corrected after checking the lecture (was: Safety). Lecture 21 (Industrial Processes - Part 2): ICP DAS 'In the context of manufacturing, machine internetworking, system health diagnostics, system health monitoring, production efficiency'; safety covers plant safety, surveillance, info security.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Kaeser Kompressoren coined a new term for their service-based business model, in which users pay per cubic meter of compressed air used. What is this model called?",
+     "options": [
+      "Renting Model",
+      "Selling Model",
+      "Subscription Model",
+      "Air-as-a-Service"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 21 (Industrial Processes - Part 2): air-as-a-service, 'pay per cubic meter of air'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which company is highlighted for its use of smart glasses for fault detection in its manufacturing process?",
+     "options": [
+      "KUKA",
+      "Maersk",
+      "Boeing",
+      "Cisco"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 21 (Industrial Processes - Part 2) credits Boeing's smart manufacturing with 'reduced errors in the manufacturing process' (the smart-glasses detail is on the slide, not spoken); Boeing is the known smart-glasses user.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "What is a business model as defined by the \"Business Model Generation\" book?",
+     "options": [
+      "The organizational and financial architecture of a business",
+      "The rationale of how an organization creates, delivers, and captures value",
+      "A description of how a business intends to earn profits",
+      "The network of suppliers and partners that optimize a business"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 22 (Business Models - Part 1): business model 'captures ... the rationale behind how the organization ... deliver value ... capturing the value' (Osterwalder's Business Model Generation definition).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which IoT business model relieves the customer from the responsibilities of ownership and maintenance, focusing on a \"Pay-per-outcome\" approach?",
+     "options": [
+      "Subscription Model",
+      "Asset-Sharing Model",
+      "Outcome-Based Model",
+      "IoT-as-a-Service"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 22 (Business Models - Part 1): outcome-based = 'pay-per-outcome ... customer is basically relieved from the responsibility of ownership, and maintenance'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In a Cloud-Based Business Model, how do customers typically access services?",
+     "options": [
+      "By outright purchase",
+      "By manual installation",
+      "Via government funding",
+      "Through temporary leasing of resources"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2): cloud resources offered on demand/subscription, i.e. temporarily leased.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary purpose of the revenue model in Service-Oriented Business Models in IIoT?",
+     "options": [
+      "Only subscription fees",
+      "Physical sales",
+      "Monetization of collected data",
+      "Rental income"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2): service-oriented revenue model: 'collecting and monetizing from the collected data directly or indirectly'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which type of Cloud-Based Business Model aims at providing the required hardware and software online in the cloud?",
+     "options": [
+      "Software-as-a-Service (SaaS)",
+      "Platform-as-a-Service (PaaS)",
+      "Infrastructure-as-a-Service (IaaS)",
+      "Business-as-a-Service (BaaS)"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2): IaaS - hardware/computing infrastructure as a service.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the purpose of the Industrial Internet Reference Architecture (IIRA)?",
+     "options": [
+      "Allowing interoperability and guiding IIoT technologies",
+      "Reducing network speed",
+      "Designing personal computer systems",
+      "Building only mobile applications"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 24 (Reference Architecture - Part 1): IIRA applies 'to allow interoperability, mapping application technologies, and in guiding the use of these technologies'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "An IIoT product is being tested in different continents for performance, standardization, and interoperability before its release. Which organization is most likely facilitating this?",
+     "options": [
+      "IEEE",
+      "Industrial Internet Consortium (IIC)",
+      "ISO",
+      "NIST"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 24 (Reference Architecture - Part 1): IIC testbeds, where innovations are 'rigorously tested ... before they are actually launched in the market'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an example of a Lagging KPI for OSH?",
+     "options": [
+      "Frequency of observed unsafe behaviour",
+      "Number of OSH audits",
+      "Number of lost-time incident frequency rate",
+      "Percentage of managers with adequate OSH training"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 24 (Reference Architecture - Part 1): lagging KPIs: 'number of lost-time incident frequency rate ... number of fatalities'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the usage Viewpoint, which element of an Activity defines the conditions under which the activity is initiated?",
+     "options": [
+      "Workflow",
+      "Effects",
+      "Constraints",
+      "Trigger"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 25 (Reference Architecture - Part 2): 'Trigger basically are the conditions under which the activity is initiated'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of the Usage Viewpoint of the Industrial Internet Reference Architecture (IIRA), what is considered the basic unit of work?",
+     "options": [
+      "System",
+      "Network",
+      "Component",
+      "Task"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 25 (Reference Architecture - Part 2): task is the basic unit of work.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents key feature(s) of the process-oriented business model?",
+     "options": [
+      "Execution of various business processes within the organization",
+      "Presence of process owners to supervise the processes",
+      "Evaluation of process performance",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 23 (Business Models - Part 2) describes process optimization within/across companies; executing processes, process owners and process performance evaluation are all standard features, so 'All of these'.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Fill in the blanks. __________________ is an electrical framework that provides two-way communication between the consumers and suppliers. With the help of smart meters, smart appliances, and energy-efficient resources, it efficiently delivers electricity to the consumers.",
+     "options": [
+      "Smart grid",
+      "Load Balancer",
+      "Railway Signaling System",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Definition of smart grid (two-way communication, smart meters); Lecture 26 lists smart grid among IIoT applications.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 6,
+   "source": "https://www.youtube.com/watch?v=iRSUQw4WusM",
+   "questions": [
+    {
+     "q": "In the diagram for the manufacturing process, which unit comes immediately after the \"Quality Testing Unit\"?",
+     "options": [
+      "Packaging Unit",
+      "Production Unit",
+      "Product Counting Unit",
+      "Transporting Unit"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 26 (Key Enablers: Sensing - Part 1): after quality testing 'we are going to have the counting of these different units of product', then packaging.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The analog temperature sensor LM35 generates an output voltage that is linearly proportional to what temperature scale?",
+     "options": [
+      "Fahrenheit",
+      "Kelvin",
+      "Celsius",
+      "Rankine"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 26 (Key Enablers: Sensing - Part 1): proportional to Celsius.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The MQ-2 gas sensor is specifically mentioned to detect the concentration of which gases?",
+     "options": [
+      "Oxygen, Nitrogen, and Carbon Dioxide",
+      "LPG, propane, and hydrogen",
+      "Methane, Ammonia, and Carbon Monoxide",
+      "Ozone, Sulfur Dioxide, and Nitrous Oxide"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 26 (Key Enablers: Sensing - Part 1): MQ-2 detects LPG, propane, hydrogen.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What happens to the resistance of an n-type MOS sensor when it is exposed to a reducing gas?",
+     "options": [
+      "It increases with respect to the Baseline resistance",
+      "It decreases with respect to the Baseline resistance",
+      "It remains unchanged",
+      "It fluctuates randomly"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "lecture",
+     "explanation": "Lecture 27 (Key Enablers: Sensing - Part 2): 'In n-type sensors the resistance decreases ... with respect to the baseline resistance when ... exposed to a target gas'."
+    },
+    {
+     "q": "According to the working principle of MOS gas sensors, what is the \"Optimum Temperature\"?",
+     "options": [
+      "The maximum temperature the sensor can withstand",
+      "The minimum temperature required for operation",
+      "The particular temperature at which the sensor gives the best response",
+      "The temperature of the surrounding environment"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 27 (Key Enablers: Sensing - Part 2): optimum temperature definition.",
+     "verified": "lecture"
+    },
+    {
+     "q": "ModBus-TCP uses which protocol suite for data transmission?",
+     "options": [
+      "RS-232",
+      "TCP/IP & Ethernet",
+      "CAN",
+      "IEEE 802.15.4"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 28 (Connectivity - Part 1): Modbus TCP uses TCP/IP and Ethernet.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does the acronym EtherCAT stand for?",
+     "options": [
+      "Ethernet Control and Transmission",
+      "Ethernet Common Automation Technology",
+      "Ethernet Control Automation Technology",
+      "Ethernet Communication and Telemetry"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 28 (Connectivity - Part 1): 'the full form of CAT is Control Automation Technology'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the ModBus-TCP data frame, what is the name of the 7-byte header that identifies the Application Data Unit (ADU)?",
+     "options": [
+      "TCP Header",
+      "PDU Header",
+      "MBAP (MODBUS Application Protocol) header",
+      "Ethernet Header"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 28 (Connectivity - Part 1): 'MBAP stands for Modbus application protocol header, which is of length 7 bytes'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which variant of CC-Link offers the highest transmission rate of 1 Gbps?",
+     "options": [
+      "Standard CC-Link",
+      "CC-Link LT",
+      "CC-Link Safety",
+      "CC-Link IE (Industrial Ethernet)"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 29 (Connectivity - Part 2): 'industrial Ethernet is 1 Gbps'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Profibus is based on which international standard?",
+     "options": [
+      "IEC 61158",
+      "IEEE 802.3",
+      "ISO 9001",
+      "IEC 61850"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 29 (Connectivity - Part 2): Profibus 'is based on ... IEC 61158'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the Availability requirement for uRLLC?",
+     "options": [
+      "90% availability",
+      "99% availability",
+      "99.9999% availability (6-nines)",
+      "50% availability"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 30 (Connectivity - Part 3): URLLC 'availability in the order of 99.9999 percent'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the end-to-end round trip latency supported by the Tactile Internet?",
+     "options": [
+      "< 10 ms",
+      "< 1 ms",
+      "< 100 ms",
+      "< 250 ms"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 30 (Connectivity - Part 3): tactile internet < 1 ms RTT.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which frequency bands are used by 5G NR?",
+     "options": [
+      "Only below 1 GHZ",
+      "Low band (< 1 GHz), middle band (1-6 GHz), and high band (>24 GHz) millimeter wave",
+      "Only Wi-Fi bands",
+      "Satellite communication bands"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 30 (Connectivity - Part 3): 5G NR bands with high band > 24 GHz (mmWave); low < 1 GHz and mid 1-6 GHz.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. The PROFINet protocol handles data transmission of large packets between PLCs and PCs, as well as enable integration with the Internet and Intranet through Ethernet.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 28 (Connectivity - Part 1) says Profinet is an Industrial Ethernet standard connecting controllers and field devices; Ethernet-based large-packet PLC-PC transfer with Internet/intranet integration fits, so True.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Fill in the blanks. DeviceNet was designed by Rockwell Automation to enable communications between ______ and ______.",
+     "options": [
+      "PLCs, field devices",
+      "PLCs, human-machine interfaces (HMIs)",
+      "Routers, enterprise servers",
+      "SCADA systems, cloud platforms"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 29 (Connectivity - Part 2): DeviceNet 'links different sensors actuators with PLCs' (designed by Allen-Bradley/Rockwell).",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 7,
+   "source": "https://www.youtube.com/watch?v=s6P5CMg3deY",
+   "questions": [
+    {
+     "q": "Which modulation technique does LoRa use?",
+     "options": [
+      "Amplitude Modulation",
+      "Frequency Modulation",
+      "Chirp Spread Spectrum",
+      "Time Division Multiplexing"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Chirp Spread Spectrum (Lecture 31: Key Enablers of IIoT: Connectivity – Part 4 (LoRa/SIGFOX + NodeMCU demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. SIGFOX network give a performance of upto ______ messages per day with a payload of ______ bytes per message.",
+     "options": [
+      "140, 12",
+      "50, 2",
+      "60, 3",
+      "100, 10"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'up to 140 messages per day, with a payload of 12 bytes' (Lecture 31: Key Enablers of IIoT: Connectivity – Part 4 (LoRa/SIGFOX + NodeMCU demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the key difference between a Zigbee Router and a Zigbee End Device?",
+     "options": [
+      "A router can relay information to other nodes, while an end device cannot.",
+      "An end device is the root of the network, while a router is not.",
+      "A router can only connect to a coordinator, while an end device can connect to any node.",
+      "There is no functional difference between them."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'The router basically relays the information ... end devices ... no relaying' (Lecture 32: Key Enablers of IIoT: Connectivity – Part 5 (Zigbee/Xbee demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What software tool is used to configure Xbee modules before communication?",
+     "options": [
+      "Arduino IDE",
+      "Python",
+      "XCTU",
+      "Wireshark"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "XCTU (Lecture 32: Key Enablers of IIoT: Connectivity – Part 5 (Zigbee/Xbee demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which characteristic of IIoT data refers to the fact that it comes from heterogeneous sensors with different metrics, precision, and formats?",
+     "options": [
+      "Real-time",
+      "Dynamic heterogeneity",
+      "Polymorphism",
+      "Correlation"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'massive polymorphism ... heterogeneous data ... different formats, precision levels ... metrics' (Lecture 33: Key Enablers of IIoT: Processing – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the role of middleware in an IIoT system?",
+     "options": [
+      "It is the physical hardware layer of sensors and actuators.",
+      "It is the final user-facing application.",
+      "It is the communication protocol for data transfer.",
+      "It is a software layer between the infrastructure and application layers that provides services and supports heterogeneity."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Middleware definition (Lecture 33: Key Enablers of IIoT: Processing – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which type of analytics answers the question, \"What will happen and why?\"",
+     "options": [
+      "Predictive",
+      "Descriptive",
+      "Diagnostic",
+      "Prescriptive"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Predictive analytics: 'what will happen and why' (Lecture 33: Key Enablers of IIoT: Processing – Part 1, slide label; narration slips the name).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which type of analytics aims to determine the best possible business decision?",
+     "options": [
+      "Predictive",
+      "Descriptive",
+      "Diagnostic",
+      "Prescriptive"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Prescriptive: 'the outcome is the best possible business decision' (Lecture 33: Key Enablers of IIoT: Processing – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary goal of the FarmBeats platform?",
+     "options": [
+      "To manage smart city infrastructure",
+      "To enable data-driven precision agriculture",
+      "To automate cognitive manufacturing",
+      "To monitor the health of vineyards"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "FarmBeats: data-driven precision agriculture (Lecture 34: Key Enablers of IIoT: Processing – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the iRobot-Factory architecture, which component is responsible for cloud-based, high-performance, long-term data analytics using AI?",
+     "options": [
+      "Intelligent Terminal",
+      "Cognitive Engine",
+      "Edge Computing Node",
+      "Intelligent Device Unit"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "All iRobot-Factory components 'interacting with this cloud based cognitive engine' (Lecture 34: Key Enablers of IIoT: Processing – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In an Industrial Control System, what are the \"Set Points\"?",
+     "options": [
+      "The standard values of process parameters for controlled operation",
+      "The values of process parameters measured by sensors",
+      "The process variables that are modified by the controller",
+      "The final output of the industrial process"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'set points are basically the standard values of the process parameters for controlled operation' (Lecture 35: Key Enablers of IIoT: Process Control).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following best describes a Closed Loop (Feedback) Control system?",
+     "options": [
+      "The control decision is made without considering the process variable",
+      "It operates independently of the measured output",
+      "The control decision depends on the measured value of the process variable",
+      "It is not used in industrial automation"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'in the closed loop mechanism the control decision basically depends on the measured value of the process variable' (Lecture 35: Key Enablers of IIoT: Process Control).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. Programmable Logic Controllers (PLCs) comprises of ______.",
+     "options": [
+      "Processor unit, memory unit, power supply and communication modules",
+      "Sensor array, signal generator, analog filter, and PLC terminal",
+      "Actuator controller, logic gate module, and cooling system",
+      "Voltage regulator, touchscreen unit, hard disk, and keyboard interface"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "PLC 'comprises of a processor unit a memory unit power supply and communication modules' (Lecture 35: Key Enablers of IIoT: Process Control).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements about the DHT sensor in IoT applications is correct?",
+     "options": [
+      "It measures only temperature and requires no external library.",
+      "It measures both humidity and temperature, and Adafruit provides a dedicated library for its use.",
+      "It measures pressure and temperature using built-in Python functions.",
+      "It measures humidity only and is used exclusively for industrial automation and does not need external support."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "DHT = digital humidity and temperature sensor; 'adafruit library ... will make this DHT 22 sensor to work' (Lecture 31: Key Enablers of IIoT: Connectivity – Part 4 (LoRa/SIGFOX + NodeMCU demo)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following best describes the role of a SCADA system in industrial processes?",
+     "options": [
+      "It is only a hardware-based system for controlling pumps and valves locally.",
+      "It enables real-time remote monitoring and control of industrial processes using sensors and actuators, with data visualization through HMI.",
+      "It is a vendor-specific communication protocol designed only for power plants.",
+      "It functions as a replacement for PLCs without data logging or visualization features."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "SCADA used for supervisory remote monitoring/control with HMI, sensors, actuators (Lecture 35: Key Enablers of IIoT: Process Control).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 8,
+   "source": "https://www.youtube.com/watch?v=uINuCD_3E0A",
+   "questions": [
+    {
+     "q": "What is the goal of prognostic analytics in IIoT?",
+     "options": [
+      "Identify root cause of an anomaly",
+      "Inform about remaining useful life of an asset",
+      "Detect real-time behavior",
+      "Filter low-quality data"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "'prognostic analytics basically inform about the remaining useful life of an asset' (Lecture 36: IIoT Analytics and Data Management: Introduction).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What are the three types of IIoT Analytics?",
+     "options": [
+      "Logical, Statistical, and Neural",
+      "Predictive, Adaptive, and Reactive",
+      "Descriptive, Predictive, and Prescriptive",
+      "Linear, Non-linear, and Mixed"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Descriptive, predictive, prescriptive (Lecture 36: IIoT Analytics and Data Management: Introduction).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a key difference between the process of Machine Learning and Deep Learning?.",
+     "options": [
+      "Machine Learning uses neural networks, while Deep Learning does not.",
+      "Deep Learning requires the \"Feature extraction\" step, while Machine Learning does not.",
+      "Machine Learning requires manual feature extraction, while Deep Learning learns features automatically.",
+      "Deep Learning is a type of unsupervised learning only"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "ML needs feature extraction; DL learns features automatically (Lecture 36: IIoT Analytics and Data Management: Introduction, Lecture 38: Machine Learning and Data Science – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the Venn diagram, Data Science is the intersection of Computer Science, Domain Expertise, and what other field?",
+     "options": [
+      "Mathematics and Statistical Research",
+      "Mechanical Engineering",
+      "Business Management",
+      "Psychology"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Data science = intersection of mathematics, computer science, domain expertise (Lecture 37: Machine Learning and Data Science – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Supervised learning is divided into two main types of problems. What are they?",
+     "options": [
+      "Clustering and Association",
+      "K-Means and Fuzzy c-Means",
+      "State and Action",
+      "Regression and Classification"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "'supervised learning ... one technique is to basically classify the other one is to do regression' (Lecture 37: Machine Learning and Data Science – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Reinforcement Learning, what does an \"agent\" learn from?",
+     "options": [
+      "An environment by taking actions and receiving rewards or penalties",
+      "An unlabeled dataset with hidden patterns",
+      "A labeled dataset provided by a supervisor",
+      "A set of predefined rules"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Agent learns by interacting with environment, which rewards or penalizes actions (Lecture 37: Machine Learning and Data Science – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does the performance of Deep Learning typically compare to traditional Machine Learning as the amount of data increases?",
+     "options": [
+      "The performance of both levels off at the same point.",
+      "Traditional ML performance continues to improve, while DL performance levels off",
+      "DL performance often continues to improve with more data, while traditional ML performance may level off.",
+      "Both show decreased performance with more data"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'DL ... performance improves whereas ML ... will gradually come to a stagnation' (Lecture 38: Machine Learning and Data Science – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The deep learning concept of breaking a complex task into simpler tasks follows what principle?",
+     "options": [
+      "A nested hierarchy of concepts",
+      "A linear regression model",
+      "Random decision making",
+      "A last-in, first-out stack"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'deep learning also follows the concept of nested hierarchy. And it makes the complex tasks into simpler tasks' (Lecture 38: Machine Learning and Data Science – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements about MindSphere is false?",
+     "options": [
+      "It is a cloud-based operating system platform for IoT.",
+      "It offers enterprise-oriented solutions.",
+      "It is an open platform-as-a-service that integrates with AWS.",
+      "It is a mobile app used only for home automation."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "MindSphere: cloud-based OS for IoT, open PaaS with AWS, enterprise oriented (Lecture 39: Cloud Computing in IIoT – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a major reason for needing cloud computing in IIoT?",
+     "options": [
+      "To decrease the number of connected devices.",
+      "To handle the huge amount of unorganized and heterogeneous data, including data from M2M sensors.",
+      "To ensure all data has the same quality.",
+      "To reduce the need for networking"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "IIoT data is unstructured, heterogeneous machine/sensor data in huge volumes (Lecture 39: Cloud Computing in IIoT – Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which IIoT platform, offered by a software firm, provides a storage service called C3 Data Lake for unstructured data?",
+     "options": [
+      "GE Predix",
+      "Siemens MindSphere",
+      "C3 IoT",
+      "Uptake"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'stored in something called the C3 Data Lake' (Lecture 40: Cloud Computing in IIoT – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a characteristic of a good SLA?",
+     "options": [
+      "Vague and unmeasurable",
+      "Unachievable",
+      "Uncontrollable",
+      "Quantifiable and Mutually Acceptable"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Good SLA: quantifiable, mutually acceptable ... (Lecture 40: Cloud Computing in IIoT – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents the characteristics of a good SLA?",
+     "options": [
+      "Affordable",
+      "Achievable",
+      "Quantifiable",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Achievable, meaningful, quantifiable, controllable, mutually acceptable, affordable (Lecture 40: Cloud Computing in IIoT – Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. Based on the application type, two popular types of deep learning methods are convolutional neural networks (CNNs) and recurrent neural networks (RNNs).",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Not in the original lectures; CNNs (spatial/image) and RNNs (sequential) are the two standard DL families by application type.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following are the key characteristics that classify data as Big Data in IoT applications?",
+     "options": [
+      "Accuracy, redundancy, scalability, latency, security",
+      "Volume, variety, value, velocity, veracity",
+      "Throughput, delay, integrity, topology, clustering",
+      "Capacity, compatibility, complexity, connectivity, coverage"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 36: IIoT Analytics and Data Management: Introduction lists volume, velocity, variability, veracity, variety; (b) is the only option made of big-data V's.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 9,
+   "source": "https://www.youtube.com/watch?v=RwU9s_EEW2g",
+   "questions": [
+    {
+     "q": "In the Fog Computing architecture for IIoT, where are the Fog Devices located?",
+     "options": [
+      "Above the Cloud layer.",
+      "Between the Cloud and the Industrial End Devices.",
+      "As part of the Industrial End Devices.",
+      "Inside the Cloud."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 41 (Fog Computing in IIoT): fog layer sits between the edge devices and the cloud.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a fog platform provider?",
+     "options": [
+      "FogHorn",
+      "Nebbiolo Technologies",
+      "Crosser",
+      "Sony"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 41 (Fog Computing in IIoT): providers FogHorn, Nebbiolo, Crosser, Sonm - not Sony.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which command in R programming is used to see the list of reserved words like \"if\", \"else\", \"TRUE\", and \"NULL\"?",
+     "options": [
+      "?reserved",
+      "list.reserved()",
+      "show.words()",
+      "getKeywords()"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): 'if you type in question mark reserved or help reserved ... you are going to get these reserved words'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the result of the following expression in R programming, if N is a vector containing integers from 1 to 10? 15 %in% N",
+     "options": [
+      "TRUE",
+      "1",
+      "FALSE",
+      "An error"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): %in% checks whether an element belongs to a vector; 15 is not in 1:10 so FALSE.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a data structure in Julia programming?",
+     "options": [
+      "Tuples",
+      "Dictionary",
+      "Coroutine",
+      "Arrays"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 42 (Tutorial for R & Julia): Julia data structures shown: tuples, dictionaries, arrays.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following does NOT fall under the essential characteristics of cloud computing according to NIST?",
+     "options": [
+      "On-demand self-service",
+      "Broad network access",
+      "Resource pooling",
+      "Manual server configuration"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 43 (Data Management with Hadoop): NIST characteristics on-demand self-service, broad network access, resource pooling, rapid elasticity, measured service.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following does NOT represent a NoSQL database?",
+     "options": [
+      "Key-value databases",
+      "Column-oriented databases",
+      "Document-oriented databases",
+      "Relational databases"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 43 (Data Management with Hadoop): NoSQL = key-value, column-oriented, document-oriented; relational tables use SQL.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. In Hadoop Distributed File System (HDFS), the Namenode stores the actual data blocks, while Datanodes maintain the metadata information about the files.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 43 (Data Management with Hadoop): 'name node ... maintains all this meta data ... data nodes ... store the actual data' - reversed, so False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which property of a DCN refers to its ability to support any service on any server at any time?",
+     "options": [
+      "Security",
+      "Reliability",
+      "Scalability",
+      "Agility"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 44 (Data Center Networks): 'agility property means that a data centre network should be able to provide any kind of service on any server at any time'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the main architectural difference between the DCell/BCube topologies and the traditional Three-Tier topology?",
+     "options": [
+      "DCell and BCube are server-centric, providing better scalability and fault tolerance.",
+      "DCell and BCube are switch-centric, while the Three-Tier topology is servercentric.",
+      "DCell and BCube use a single core switch, creating a single point of failure.",
+      "The Three-Tier topology provides better server-to-server bandwidth."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 44 (Data Center Networks): BCube is 'a server centric approach rather than a switch centric'; DCell recursively interconnects servers, fault tolerant, no single point of failure.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the core principle of a Software-Defined Data Center (SDDC)?",
+     "options": [
+      "All hardware must be from a single vendor.",
+      "The data center infrastructure is virtualized and abstracted from the underlying hardware.",
+      "The control and data planes are tightly coupled within the hardware.",
+      "It relies on manual configuration for all provisioning and operations."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 44 (Data Center Networks): SDDC = virtualized data centres, logical instances beyond the physical ones.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the SDN architecture, which plane contains the physical forwarding devices (switches and routers)?",
+     "options": [
+      "Data Plane",
+      "Control Plane",
+      "Application Plane",
+      "Management Plane"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 45 (SDN in IIoT Part 1): 'layer 1 devices are like forwarding devices like your routers' (data layer).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which protocol is commonly used to facilitate communication between the SDN controller and the forwarding devices?",
+     "options": [
+      "OpenFlow",
+      "BGP",
+      "TCP/IP",
+      "HTTP"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 45 (SDN in IIoT Part 1): OpenFlow is the southbound protocol supporting SDN.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following software platforms is commonly required to perform executions on semi- structured data such as JSON or NoSQL?",
+     "options": [
+      "Oracle RDBMS",
+      "Microsoft Excel",
+      "Apache Hadoop",
+      "PowerPoint"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 43 (Data Management with Hadoop): Hadoop/MapReduce with NoSQL handles unstructured/semi-structured big data.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Industry 4.0, why is Big Data analytics essential for handling the huge amount of data generated by IoT devices and sensors?",
+     "options": [
+      "To eliminate the use of IoT devices in operation",
+      "To store data only in traditional relational databases",
+      "To extract actionable insights for predictive maintenance, process optimization, and quality control",
+      "To eliminate the need for cloud and fog computing in smart factories"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Big data analytics extracts actionable insights (predictive maintenance, optimization, quality control) - the only sensible option.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 10,
+   "source": "https://www.youtube.com/watch?v=Ad2155oC6qE",
+   "questions": [
+    {
+     "q": "State true or false. The main role of uSDN in the SD-6TISCH protocol stack is to minimize control overhead.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 46 (SDN in IIoT Part 2): micro-SDN 'capable of reducing the control plane overhead'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In SD-IIoT (Software Defined Industrial IoT) Architecture, network monitoring is performed by which of the following component?",
+     "options": [
+      "Application",
+      "Data Plane",
+      "Control Plane",
+      "All of these"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 46 (SDN in IIoT Part 2): control plane includes 'network monitoring, ... data transmission service and management and optimization'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What are the basic goals of information security?",
+     "options": [
+      "Facilitate Availability, Integrity, and Confidentiality",
+      "Increase production cost, and promote manual operations only",
+      "Decrease scalability, interoperability, and real-time performance",
+      "Increase latency, and minimize throughput"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 47 (Security in IIoT Part 1): 'basic security goals ... availability ... integrity ... confidentiality'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents the \"Resilience\" aspect of a Trustworthy IIoT system?",
+     "options": [
+      "Safe operations of devices and people without risks and injury",
+      "Protecting the system from unauthorized access, modification, and destruction",
+      "Ability of the system to function correctly under dynamic adversarial conditions",
+      "Restriction on data access - who can access and by whom it can be disclosed"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 47 (Security in IIoT Part 1): 'Resilience ... system is able to function correctly on ... dynamic adversarial conditions'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a security requirement for Cloud Complied IIoT?",
+     "options": [
+      "OT infrastructure is controlled and managed at external networked cloud",
+      "Data from thousands of devices stored in the cloud",
+      "Third-party services with trust-boundaries for security and privacy",
+      "Completely eliminating the need to safeguard control systems from incoming cloud information flow"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 47 (Security in IIoT Part 1): cloud is third party - extend trust boundaries and 'safeguard the control systems ... from the incoming cloud information flow'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following statements is incorrect about the protection of fog devices in IIoT?",
+     "options": [
+      "Fog devices require the same security measures as end devices.",
+      "Standard cryptographic protocols are used for authentication between fog devices and the cloud.",
+      "Lightweight cryptography is recommended for authenticating end devices.",
+      "Fog devices serve only as storage units without computing capability."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 48 (Security in IIoT Part 2): fog devices are semi-constrained with computing/storage and need crypto for authentication; not mere storage units.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following standards is specifically associated with industrial automation and control systems security (OT security)?",
+     "options": [
+      "ISO/IEC 15408",
+      "NIST SP 800-144",
+      "IEC 62443",
+      "ISO 27017"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 48 (Security in IIoT Part 2): 'IEC 62443 which is an industrial automation and control system security standard'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is incorrect about the security requirements in Healthcare IoT?",
+     "options": [
+      "Device data protection can involve passwords, signatures, and digital certificates.",
+      "Communication data is secured using techniques like ciphering and hashing.",
+      "Data stored in the cloud may be protected with access control lists, signatures, and digital certificates.",
+      "Security management in Healthcare IoT completely avoids cloud involvement to minimize risks."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Lecture 48 (Security in IIoT Part 2): healthcare security management includes 'global security handling at the cloud'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which company launched Construction Internet of Things to monitor large sites?",
+     "options": [
+      "Kuka",
+      "DeWalt",
+      "Maersk",
+      "ABB"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 49 (Factories and Assembly Line): 'construction internet of things ... by the company DeWalt'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is NOT a feature of a Smart Factory?",
+     "options": [
+      "Continuous real-time data",
+      "Maximize manual intervention",
+      "Prediction of future outcomes for taking preventive actions",
+      "Flexibility and adaptability"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "lecture",
+     "explanation": "Lecture 49 (Factories and Assembly Line): smart factory optimized 'without any human intervention or with minimal human intervention'."
+    },
+    {
+     "q": "Fill in the blanks. The YuMi initiative by ABB focuses on ______.",
+     "options": [
+      "Smart packaging with only Bluetooth-enabled systems",
+      "Human-robot collaboration",
+      "Maximize human involvement",
+      "Robotic shelves for warehouses"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 49 (Factories and Assembly Line): ABB YuMi 'initiative for collaboration between ... robots and the humans'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary purpose of the SmartLabel initiative by the Grocery Manufacturers Association (GMA)?",
+     "options": [
+      "To provide consumers with detailed product information such as ingredients and nutrition through QR codes",
+      "To control temperature settings of smart refrigerators remotely",
+      "To enable drone delivery of grocery items",
+      "To print manufacturing dates on food packaging"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 50 (Food Industry): SmartLabel by GMA uses QR code for ingredients, allergens, nutrition.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the impact of IoT in food industry?",
+     "options": [
+      "Increased wastage of food",
+      "Longer production cycles",
+      "Transparency of the supply chain",
+      "Complete elimination of temperature monitoring"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Lecture 50 (Food Industry): 'We are going to have transparency of the supply chain'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. The BioRanger device developed by Diagenetix is primarily used for ______.",
+     "options": [
+      "Monitoring livestock health",
+      "Detecting microbial diseases in food",
+      "Monitoring soil moisture",
+      "Infusing flavors into beverages"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture 50 (Food Industry): BioRanger detects microbial diseases/pathogens in food.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. SCADA is a system of hardware and software components, which enable remote control, monitoring, and maintenance of local and remote industrial processes in real-time.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Lecture 45 (SDN in IIoT Part 1) places SCADA at supervisory control level; standard definition of SCADA matches the statement.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 11,
+   "source": "https://www.youtube.com/watch?v=3X1n2cr16Ko",
+   "questions": [
+    {
+     "q": "What is the utility of Dexcom?",
+     "options": [
+      "To monitor oxygen saturation in patients",
+      "To measure and track blood pressure remotely",
+      "To monitor glucose levels continuously and notify abnormalities",
+      "To detect asthma symptoms using inhalers"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare' slide: Dexcom continuous glucose monitoring; 'It notifies the doctors and patients if any abnormal situation occur'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents an IoT-based blood pressure monitoring system?",
+     "options": [
+      "iHealth BP5",
+      "Manual mercury sphygmomanometer",
+      "Analog wrist blood pressure cuff",
+      "Traditional glass thermometer"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare' slide: 'iHealth BP5 is IoT based blood [pressure] monitoring system'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a key security requirement in IIoT healthcare?",
+     "options": [
+      "Confidentiality, Integrity, Authentication, Availability",
+      "Scalability, Flexibility, Latency, Mobility",
+      "Cloud storage, Big Data, Sensors, Networks",
+      "None of these"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare' slide 'IIoT Healthcare Security Requirement': Confidentiality, Integrity, Authentication, Availability.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a major benefit of a digital power plant using IIoT?",
+     "options": [
+      "More human supervision",
+      "Higher energy cost",
+      "Turbine's performance improvement and remote monitoring",
+      "Manual performance tracking"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L52 'IIoT Applications: Power Plants' slide benefits of digital power plant: 'Turbine's performance improvement, remote monitoring'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which network is primarily used for in-home IoT devices in a smart grid?",
+     "options": [
+      "Wide Area Network (WAN)",
+      "Home Area Network (HAN)",
+      "Field Area Network (FAN)",
+      "Neighborhood Area Network (NAN)"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L52 'IIoT Applications: Power Plants' slide: 'Home area network - Covers in-home IoT devices. Wireless: Zigbee, 6LowPan'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which component of the Advanced Metering Infrastructure (AMI) is responsible for analyzing the collected data?",
+     "options": [
+      "Smart meters",
+      "Meter data management system",
+      "Programmable logic controllers",
+      "Remote terminal units"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L52 'IIoT Applications: Power Plants': 'the meter data management system (MDMS) ... helps in analyzing the data that are collected from these smart meters'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What type of RFID tag has an onboard battery but no active transmitter?",
+     "options": [
+      "Passive",
+      "Active",
+      "Semi-passive",
+      "Beacon-based"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L53 'Inventory Management & Quality Control': semi-passive tag has an onboard battery to power the IC but no active transmitter.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a key requirement for effective inventory management?",
+     "options": [
+      "Meet anticipated demand",
+      "Hedge against price increases",
+      "Increase inventory management cost",
+      "Smoothen the flow of operations"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L53 'Inventory Management & Quality Control': requirements for effective inventory management: meet demand, hedge against price increases, smoothen operations; increasing cost is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a major limitation of barcodes compared to RFID tags?",
+     "options": [
+      "Vulnerable to forgery",
+      "Require line of sight",
+      "Only one can be read at a time",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L53 'Inventory Management & Quality Control' slide 'RFID tags over Barcodes': barcodes need line of sight, only one read at a time, less security and hence can be forged.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following does NOT represent a type of network security?",
+     "options": [
+      "Detection of abnormal behavior by the network",
+      "Prevention of unauthorized sharing of sensitive data",
+      "Protection against phishing attack",
+      "Predictive maintenance of HVAC systems"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L54 'Plant Security and Safety' network security types include behavioral analytics, data loss prevention, email security (phishing); HVAC maintenance is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does \"Integrity\" in software security ensure?",
+     "options": [
+      "Assurance of data accuracy and consistency throughout its lifecycle",
+      "Verification of user credentials before granting access",
+      "Extent to which software remains available during component failures",
+      "Prevention of phishing attacks via email"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L54 'Plant Security and Safety' slide 'Integrity': assurance of uncorrupted data; maintain consistency, accuracy and trustworthiness of data over its entire life cycle.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a major risk associated with AR/VR in industrial applications?",
+     "options": [
+      "Privacy and security issues",
+      "Compromised content on the screen by hackers",
+      "Intellectual property concerns",
+      "Reduced risk of accidents and improved worker safety"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L54 'Plant Security and Safety' slide 'Risks (AR/VR)': attacks by hackers, compromised content on screen, IP rights, privacy and security; reduced accident risk is a benefit, not a risk.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following does not represent a typical application of analytics in facility management?",
+     "options": [
+      "Managing energy consumption",
+      "Determining exact square-foot utilization of office space",
+      "Enhancing real-time gameplay in virtual environments",
+      "Operational cost-optimization"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L55 'Facility Management' analytics slide: energy consumption, data-driven decisions, cost optimization, remote monitoring, exact square-foot utilization; gameplay is unrelated.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which is a key benefit of IoT-based facility management?",
+     "options": [
+      "Increase unauthorized access",
+      "Real-time tracking and better customer experience",
+      "Increase all maintenance costs",
+      "Make manual monitoring mandatory"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L55 'Facility Management' benefits slide: improve customer experience, prevent unauthorized access, real-time tracking.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Fill in the blanks. ______ is one of the examples of the IoT-based body temperature monitoring device that takes into account the age, temperature, and symptoms of the patient to provide suggestions for the appropriate medicines or alert doctors.",
+     "options": [
+      "Kinsa",
+      "Dexcom",
+      "iHealth",
+      "QardioCore"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L51 'IIoT Applications: Healthcare': Kinsa smart thermometer is the IoT body-temperature monitoring device (others are glucose, BP, ECG devices).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 12,
+   "source": "https://www.youtube.com/watch?v=NsUxE_5J-Ms",
+   "questions": [
+    {
+     "q": "Which of the following is not a benefit of using IoT in the oil and gas industry?",
+     "options": [
+      "Increase production efficiency",
+      "Save cost and time",
+      "Improve asset maintenance",
+      "Guarantee unlimited oil reserves"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' benefits: production efficiency, save cost and time, improve asset maintenance; unlimited oil reserves is not a benefit.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a direct benefit of predictive maintenance using IoT in chemical industries?",
+     "options": [
+      "Increase in energy prices",
+      "Reduced equipment breakdown",
+      "Improve quality by efficient IoT analytics programs",
+      "Efficient and effective maintenance"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide 'Predictive maintenance': reduce breakdown, efficient maintenance, improve quality by IoT analytics; increased energy prices is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not a feature of IoT-enabled logistics improvement in the chemical industry?",
+     "options": [
+      "Ensuring product location using sensors or RFID tags",
+      "Tracking assets to prevent loss",
+      "Detecting contamination or possible attacks",
+      "Random manual checks without sensor support"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide 'Improve Logistics': product location via sensors/RFID, track assets, detect contamination, alerts, warehouse monitoring.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following best describes condition-based monitoring in IoT-based chemical industries?",
+     "options": [
+      "Predicting quality by continuous monitoring and analyzing factors such as water, nutrients, and pesticides.",
+      "Running manual quality inspections once a year.",
+      "Ignoring environmental factors like weather and focusing only on sales data.",
+      "Setting random pricing models without data-driven insights."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide 'Condition-based monitoring': 'Predict quality by continuous monitoring; Water, nutrients, and pesticides analysis'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a way IoT helps minimize supply chain risks in the chemical industry?",
+     "options": [
+      "Conducting only annual manual audits of warehouses",
+      "Real-time monitoring of equipment, materials, processes, environment, and workers",
+      "Ignoring process data and focusing only on final product delivery",
+      "Depending solely on human inspections without sensors"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide 'Minimize Supply Chain Risk': real-time monitor of equipment, material, environment, process, workers.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What function does the IoT play in the pharmaceutical industry related to drug safety?",
+     "options": [
+      "Automated surgery",
+      "Developing vaccines",
+      "Detecting adverse drug reactions and allergens",
+      "Building hospital infrastructure"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L56 'Oil, Chemical and Pharmaceutical Industry' slide: detect ADR, excipient effects, allergies.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following represents the key features of sixth-generation drone technology?",
+     "options": [
+      "Platform and payload adaptability, automated safety modes, intelligent piloting models and full autonomy, airspace awareness",
+      "Manual flight control with static camera mount and basic video recording",
+      "Single-axis gimbal with limited flight time and analog signal transmission",
+      "Pre-programmed routes with no adaptability and no safety protocols"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L57 'UAVs in Industries' generations slide: Sixth - 'Improved safety and regulatory, platform and payload adaptability, automated safety modes, intelligent piloting models and full autonomy, airspace awareness'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false - UAV-based light displays are generally more expensive than traditional firework displays and cannot be reused.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L57 'UAVs in Industries' entertainment slide: UAV light displays are 'cheaper and more exciting than traditional firework display'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How are UAVs primarily used in precision forestry applications?",
+     "options": [
+      "To increase lumber pricing",
+      "To measure canopy height, density and volume estimation",
+      "To stop monitoring wild life",
+      "To increase cost of forest maintanace"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "L57 'UAVs in Industries' forestry slide: 'Measurement of canopy height, density and volume estimation'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. One of the applications of UAVs in telecommunication is to perform tower inspection.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L57 'UAVs in Industries' telecom slide: 'Tower inspection by UAVs'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an application of UAVs in delivery and healthcare?",
+     "options": [
+      "Transporting blood samples to laboratories",
+      "Conducting remote surgeries inside hospitals",
+      "Manufacturing medical syringes",
+      "Hiring doctors for clinics"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "L57 'UAVs in Industries' slide 'Delivery and Healthcare': 'Transport blood samples to laboratories for testing crucial diseases'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following activities can be performed by using UAVs in the mining?",
+     "options": [
+      "Regular surface survey for optimized blast design",
+      "Manage stockpiles",
+      "Site exploration",
+      "All of these"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "lecture",
+     "explanation": "L57 'UAVs in Industries' slide 'Application in Mining': regular surface survey for optimized blast design, manage stockpiles, site exploration."
+    },
+    {
+     "q": "Which of the following is not a reason why case studies are necessary?",
+     "options": [
+      "Provide in-depth knowledge and clarity",
+      "Explore real-life phenomena",
+      "Enable detailed quantitative and qualitative analysis",
+      "Guarantee faster industrial automation by themselves"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "L58 'Case Studies for Industry 4.0 & IIoT' slide lists in-depth knowledge/clarity, real-life phenomenon, quantitative & qualitative analysis; 'guarantee faster automation' is not listed.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is not typically part of a case study subject matter?",
+     "options": [
+      "A small geographical area",
+      "A limited number of individuals",
+      "National-level government policies",
+      "Real-life related events"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "L58 'Case Studies for Industry 4.0 & IIoT' slide: subject is 'a small geographical area or a very limited number of individuals'; national policies are not.",
+     "verified": "lecture"
+    },
+    {
+     "q": "State true or false. Almost all mining industries rely on conveyer-belt based systems for loading/unloading of mined materials.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Corrected after checking the lecture (was: False). Not covered by the original lectures (L58 case studies have no mining case); appears to come from a newer mining/conveyor-belt case study (Transco/LoRaWAN). The sentence reads like a verbatim lecture premise, so True is more likely than the uploader's unconfirmed False.",
+     "verified": "unsure"
+    }
+   ]
+  }
+ ]
+}
