@@ -31,7 +31,7 @@ def load_sets(data_dir):
                 opts = [clean(o) for o in q.get("options", []) if clean(o)]
                 ans = sorted({a for a in q.get("answer", []) if isinstance(a, int) and 0 <= a < len(opts)})
                 where = f"{os.path.basename(path)} {s.get('session')} w{s.get('week')} q{i + 1}"
-                if not text or len(opts) < 2 or not ans:
+                if not text or not opts or not ans:
                     problems.append(f"dropped {where}: missing text/options/answer")
                     continue
                 item = {"q": text, "options": opts, "answer": ans}

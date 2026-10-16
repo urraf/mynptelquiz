@@ -132,6 +132,11 @@ aside{display:grid;gap:16px}
 .opt.ok .k{background:var(--ok);border-color:var(--ok);color:var(--panel)}
 .opt.bad{border-color:var(--bad);background:var(--bad-soft);box-shadow:inset 0 0 0 1px var(--bad)}
 .opt.bad .k{background:var(--bad);border-color:var(--bad);color:var(--panel)}
+.numrow{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:14px}
+.numin{font:600 18px var(--f-mono);padding:10px 12px;border:1px solid var(--line);border-radius:var(--r);background:var(--bg);width:min(240px,100%)}
+.numin:focus{outline:2px solid var(--accent);outline-offset:1px}
+.numin.ok{border-color:var(--ok);background:var(--ok-soft)}
+.numin.bad{border-color:var(--bad);background:var(--bad-soft)}
 .feedback{margin-top:16px;padding:12px 14px;border-radius:var(--r);border:1px solid var(--line);font-size:15px}
 .feedback.ok{border-color:var(--ok);background:var(--ok-soft)}
 .feedback.bad{border-color:var(--bad);background:var(--bad-soft)}
@@ -242,7 +247,7 @@ function setMistake(key, wrong){
   LS.set('miss', m.slice(0, 1000));
 }
 function lampLevel(r){ if (!r) return ''; const p = r.s / r.n; return p >= .8 ? 'g' : p >= .5 ? 'a' : 'r'; }
-const flag = q => q.verified === 'lecture' ? '<span class="ok-chip" title="This answer was checked against what the lecture says.">Checked against lecture</span>' : q.unsure ? '<span class="flag" title="No official key found for this one. Check it against the lecture slides.">Check this answer</span>' : '';
+const flag = q => q.verified === 'official' ? '<span class="ok-chip" title="NPTEL showed this as the accepted answer after the deadline.">NPTEL accepted answer</span>' : q.verified === 'lecture' ? '<span class="ok-chip" title="This answer was checked against what the lecture says.">Checked against lecture</span>' : q.unsure ? '<span class="flag" title="No official key found for this one. Check it against the lecture slides.">Check this answer</span>' : '';
 const imp = q => q.tier === 2 ? `<span class="imp t2" title="Same question or topic asked in ${q.runs} course runs">Must know · ${q.runs} runs</span>`
   : q.tier === 1 ? '<span class="imp t1" title="Same question or topic asked in 2 course runs">Repeated</span>' : '';
 const relHTML = q => q.rel.length ? `<div class="relq">Also asked in: ${q.rel.map(r => esc(r[0]) + ' W' + r[1] + (r[2] ? '' : ' (reworded)')).join(' · ')}</div>` : '';
@@ -253,6 +258,8 @@ function toast(msg){ const t = document.getElementById('toast'); t.textContent =
 
 // ---- quiz construction
 function buildItem(q){
+  // a single "option" is a typed answer (numeric fill-in)
+  if (q.options.length === 1) return {q, opts: [{t: q.options[0], c: true}], numeric: true, value: '', multi: false, chosen: [], checked: false};
   let opts = q.options.map((t, i) => ({t, c: q.answer.includes(i)}));
   const fixed = opts.some(o => /(all|none|both|neither) of (the )?(the )?(above|these)|^both|^none|^all of/i.test(o.t));
   if (S.shuf && !fixed) opts = shuffle(opts);
@@ -301,7 +308,13 @@ function compactWeeks(w){
   for (let i = 1; i <= w.length; i++) { if (w[i] === p + 1) { p = w[i]; continue; } out.push(s === p ? s : s + '–' + p); s = p = w[i]; }
   return out.join(', ');
 }
-const isRight = it => { const want = it.opts.map((o, i) => o.c ? i : -1).filter(i => i >= 0); return want.length === it.chosen.length && want.every(i => it.chosen.includes(i)); };
+const toNum = v => parseFloat(String(v).replace(/,/g, '').trim());
+function sameAnswer(v, t){
+  const a = toNum(v), b = toNum(t);
+  if (isFinite(a) && isFinite(b)) return Math.abs(a - b) <= Math.max(1e-6, Math.abs(b) * 0.01);
+  return norm(v) !== '' && norm(v) === norm(t);
+}
+const isRight = it => { if (it.numeric) return sameAnswer(it.value, it.opts[0].t); const want = it.opts.map((o, i) => o.c ? i : -1).filter(i => i >= 0); return want.length === it.chosen.length && want.every(i => it.chosen.includes(i)); };
 
 function choose(idx){
   const Q = S.quiz, it = Q.items[Q.i];
@@ -429,12 +442,12 @@ function question(){
   const reveal = Q.mode === 'practice' && it.checked;
   const last = Q.i === n - 1;
   const right = reveal && isRight(it);
-  const correctLetters = it.opts.map((o, i) => o.c ? LETTERS[i] : '').filter(Boolean).join(', ');
+  const correctLetters = it.numeric ? it.opts[0].t : it.opts.map((o, i) => o.c ? LETTERS[i] : '').filter(Boolean).join(', ');
   const done = Q.items.filter(x => Q.mode === 'practice' ? x.checked : x.chosen.length).length;
   const score = Q.items.filter(x => x.checked && isRight(x)).length;
   let actions = `<button class="btn" data-act="prev" ${Q.i ? '' : 'disabled'}>Prev</button><span class="sp"></span>`;
   if (Q.mode === 'practice') {
-    if (!it.checked && it.multi) actions += `<button class="btn primary" data-act="check" ${it.chosen.length ? '' : 'disabled'}>Check answer</button>`;
+    if (!it.checked && (it.multi || it.numeric)) actions += `<button class="btn primary" data-act="check" ${it.chosen.length ? '' : 'disabled'}>Check answer</button>`;
     if (it.checked) actions += last ? `<button class="btn primary" data-act="finish">See results</button>` : `<button class="btn primary" data-act="next">Next</button>`;
     else if (!last) actions += `<button class="btn" data-act="next">Skip</button>`;
   } else {
@@ -451,19 +464,23 @@ function question(){
     <article class="qcard">
       <div class="qhead"><span class="mono">Q ${pad(Q.i + 1)} / ${pad(n)}${imp(it.q)}${reveal ? flag(it.q) : ''}</span>${Q.mode === 'practice' ? `<span class="mono">score ${score}/${Q.items.filter(x => x.checked).length}</span>` : ''}</div>
       <h2 class="qtext">${esc(it.q.q)}</h2>
-      ${it.multi ? '<span class="multi">Select all that apply</span>' : ''}
-      <div class="opts">${it.opts.map((o, i) => optHTML(it, o, i, reveal)).join('')}</div>
+      ${it.multi ? '<span class="multi">Select all that apply</span>' : it.numeric ? '<span class="multi">Type your answer</span>' : ''}
+      ${it.numeric ? `<div class="numrow"><label for="num-ans" class="label">Your answer</label><input id="num-ans" class="numin ${reveal ? (right ? 'ok' : 'bad') : ''}" inputmode="decimal" autocomplete="off" value="${esc(it.value)}" ${reveal ? 'disabled' : ''}></div>`
+        : `<div class="opts">${it.opts.map((o, i) => optHTML(it, o, i, reveal)).join('')}</div>`}
       ${reveal ? `<div class="feedback ${right ? 'ok' : 'bad'}"><strong>${right ? 'Correct.' : 'Not quite.'}</strong> ${right ? '' : 'Answer: ' + correctLetters + '.'}
         ${it.q.explanation ? `<div style="margin-top:6px">${esc(it.q.explanation)}</div>` : ''}${relHTML(it.q)}${srcHTML(it.q)}</div>` : ''}
       <div class="qactions">${actions}</div>
     </article>
     <nav class="dots" aria-label="Jump to question">${dots}</nav>
     <p class="keys"><kbd>A</kbd>–<kbd>D</kbd> or <kbd>1</kbd>–<kbd>4</kbd> pick · <kbd>Enter</kbd> check / next · <kbd>←</kbd> <kbd>→</kbd> move</p>`;
+  const inp = it.numeric && !reveal && document.getElementById('num-ans');
+  if (inp && inp.focus) inp.focus();
 }
 function itemHTML(it, idx, showPick){
   return `<div class="item"><div class="qhead"><span class="mono">Q ${pad(idx + 1)}${imp(it.q)}${flag(it.q)}</span><span>${esc(it.q.origin)}</span></div>
     <div class="qtext">${esc(it.q.q)}</div>
-    <ul>${it.opts.map((o, i) => `<li class="${o.c ? 'right' : (showPick && it.chosen.includes(i) ? 'wrong' : '')}"><span class="k">${LETTERS[i]}</span><span>${esc(o.t)}</span></li>`).join('')}</ul>
+    <ul>${it.numeric ? `<li class="right"><span class="k">=</span><span>${esc(it.opts[0].t)}</span></li>${showPick && it.value && !isRight(it) ? `<li class="wrong"><span class="k">×</span><span>${esc(it.value)}</span></li>` : ''}`
+      : it.opts.map((o, i) => `<li class="${o.c ? 'right' : (showPick && it.chosen.includes(i) ? 'wrong' : '')}"><span class="k">${LETTERS[i]}</span><span>${esc(o.t)}</span></li>`).join('')}</ul>
     ${it.q.explanation ? `<div class="exp">${esc(it.q.explanation)}</div>` : ''}
     ${relHTML(it.q)}
     ${it.q.source ? `<div class="src"><a href="${esc(it.q.source)}" target="_blank" rel="noopener">source</a></div>` : ''}</div>`;
@@ -528,6 +545,14 @@ app.addEventListener('click', e => {
     case 'practiceThis': S.mode = 'practice'; LS.set('mode', 'practice'); return startQuiz(Q.title, Q.items.map(it => it.q), {setId: Q.setId});
   }
 });
+app.addEventListener('input', e => {
+  if (e.target.id !== 'num-ans' || !S.quiz) return;
+  const it = S.quiz.items[S.quiz.i];
+  it.value = e.target.value;
+  it.chosen = it.value.trim() ? [0] : [];
+  const b = app.querySelector('[data-act="check"]');
+  if (b) b.disabled = !it.chosen.length;
+});
 app.addEventListener('change', e => {
   const t = e.target;
   if (t.id === 'opt-shuf') { S.shuf = t.checked; LS.set('shuf', S.shuf); }
@@ -547,6 +572,12 @@ app.addEventListener('change', e => {
 });
 document.addEventListener('keydown', e => {
   if (S.view !== 'quiz' || !S.quiz || S.quiz.finished || S.quiz.mode === 'study') return;
+  if (e.target.id === 'num-ans' && e.key === 'Enter') {
+    e.preventDefault();
+    const Q = S.quiz, it = Q.items[Q.i];
+    if (Q.mode === 'practice' && !it.checked) return check();
+    return Q.i === Q.items.length - 1 ? finish() : go(Q.i + 1);
+  }
   if (e.metaKey || e.ctrlKey || e.altKey || /input|select|textarea/i.test(e.target.tagName)) return;
   const Q = S.quiz, it = Q.items[Q.i], k = e.key.toLowerCase();
   let idx = '1234'.indexOf(k); if (idx < 0) idx = 'abcd'.indexOf(k);

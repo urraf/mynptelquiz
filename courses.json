@@ -37,6 +37,31 @@
           "--accent-ink": "#170f29"
         }
       }
+    },
+    {
+      "slug": "rsai",
+      "name": "Responsible & Safe AI",
+      "title": "Responsible AI Quiz Bench",
+      "meta": "NPTEL · IIIT Hyderabad & IIT Madras · Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar",
+      "heading": "Responsible <span>&amp;</span> Safe AI Quiz Bench",
+      "data": "data-rsai",
+      "out": "responsible-safe-ai.html",
+      "dist": "dist/rsai.html",
+      "artifact": "https://claude.ai/artifact/9iWjpwTkK9s7rFTz3y8qDu",
+      "lskey": "rsaiq",
+      "note": "147 answers are NPTEL’s own accepted answers, shown after the deadline in screen recordings of the 2024 and 2025 runs. Every other answer was checked against the lecture transcripts: 272 are confirmed by the lecture, and 21 answers from solution videos were corrected; the reason is shown after you answer. 37 questions aren’t covered in the lectures and were decided by reasoning. The 8 marked “Check this answer” are still uncertain.",
+      "theme": {
+        "light": {
+          "--accent": "#0d7566",
+          "--accent-soft": "#d5eee8",
+          "--accent-ink": "#ffffff"
+        },
+        "dark": {
+          "--accent": "#4fd1b8",
+          "--accent-soft": "#123a33",
+          "--accent-ink": "#05201a"
+        }
+      }
     }
   ]
 }

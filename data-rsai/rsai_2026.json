@@ -1,0 +1,2117 @@
+{
+ "sets": [
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 1,
+   "source": "https://www.youtube.com/watch?v=GdUyXVKk4s4, https://www.youtube.com/watch?v=ASGNNnwE23o, https://www.youtube.com/watch?v=1QPjVUtg3Mg, https://www.youtube.com/watch?v=ckep1pQkaZE",
+   "questions": [
+    {
+     "q": "What does the \"Systemic Safety\" strategy in the Disaster Risk Equation primarily aim to achieve?",
+     "options": [
+      "Improve a specific model's ability to withstand external hazards",
+      "Identify and avoid hazards through real-time monitoring",
+      "Reduce the likelihood of conflict and overall systemic risks in the environment",
+      "Align an agent's goals with human values"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'systemic safety: forecasting, ML for cyber defense, cooperative AI... reduce the probability of conflict' (AI Risk Part 4 (W1)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of \"Deceptive Alignment,\" what is the primary concern regarding model behavior?",
+     "options": [
+      "The model appears to follow safety guidelines during training but pursues different goals after deployment",
+      "The model cannot understand human language due to environmental differences",
+      "The model accidentally deletes critical memory during deployment",
+      "The model's safeguards are easily bypassed by simple user prompts"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Deceptive alignment: model appears aligned (picking the ball) but is not (AI Risk Part 4 (W1)); i.e. behaves safely under oversight/training, pursues other goals later.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, why is \"proxy gaming\" considered a failure mode in AI systems?",
+     "options": [
+      "Agents over-optimize fault metrics, producing outcomes misaligned with true human values",
+      "AI systems consume excessive computational resources unnecessarily",
+      "AI systems are used to cheat in video games",
+      "It results from hardware failure during large-scale simulations"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'future agents could over-optimize and game faulty proxies... create a world distinct from what humans value' (AI Risk Part 4 (W1)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, why might AI systems develop an \"instrumental incentive\" to seek power?",
+     "options": [
+      "They are explicitly programmed to dominate humans",
+      "Power and resources help them pursue their goals more effectively",
+      "It is a biological byproduct of the neural network design",
+      "They imitate human power-seeking behavior from training data"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "'resources such as money and computing power can sometimes be instrumentally rational to seek' (AI Risk Part 3 (W1)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does the term \"Treacherous Turns\" refer to in AI safety?",
+     "options": [
+      "Failures caused by biased training data",
+      "A system behaving differently once sufficiently capable",
+      "Intentional misuse of AI by malicious humans",
+      "Over-optimization of proxy objectives"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Treacherous turn = system behaving differently once sufficiently capable (speculative hazard, AI Risk Part 4 (W1)).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "According to the \"Swiss cheese model\", which statement best describes effective safety design?",
+     "options": [
+      "Rely on a single, highly robust safety mechanism",
+      "Implement safety measures randomly across the system",
+      "Use multiple layers of defense so that individual weaknesses are compensated by others",
+      "Eliminate safety measures if the AI system is well-designed"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'multiple layers of defense compensate for each other's individual weaknesses' (AI Risk Part 3 (W1)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, what are the potential \"double-edged sword\" risks associated with AI in military applications? (Select all that apply.)",
+     "options": [
+      "Autonomous weapons targeting human with high precision",
+      "Complete elimination of the need for human strategic decision-making",
+      "Lowering the barriers to large-scale violence",
+      "Autonomous retaliation systems increasing the risk of rapid escalation"
+     ],
+     "answer": [
+      0,
+      2,
+      3
+     ],
+     "explanation": "'drone swarms... could autonomously hunt human targets with high precision... lowering the barriers of large-scale violence' (AI Risk Part 3 (W1)); automated retaliation/escalation is the other weaponization risk; eliminating human strategic decision-making is not listed.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following are considered speculative hazards of AI? (Select all that apply.)",
+     "options": [
+      "Eroded Epistemics",
+      "Enfeeblement",
+      "Deceptive Alignment",
+      "Hardware Degradation"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "explanation": "Speculative hazards list: 'weaponization, enfeeblement, eroded epistemics, proxy specification, value lock-in, emergent functionality, deception, power-seeking' (AI Risk Part 4 (W1)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The Disaster Risk Equation can be mitigated by (Select all that apply.):",
+     "options": [
+      "Improving agents' robustness to withstand hazards",
+      "Identifying and mitigating hazards before they cause harm",
+      "Increasing the number of parameters to drown out errors",
+      "Reducing the severity of inherent model vulnerabilities"
+     ],
+     "answer": [
+      0,
+      1,
+      3
+     ],
+     "explanation": "Disaster risk equation: alignment reduces inherent model hazards, robustness withstands hazards (vulnerability), monitoring identifies hazards (AI Risk Part 3 (W1)); adding parameters is not a mitigation.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which risk refers to humans voluntarily ceding control of socio-economic functions to AI to keep up with the automated world?",
+     "options": [
+      "Eroded Epistemics",
+      "Deceptive Alignment",
+      "Proxy Gaming",
+      "Enfeeblement"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Enfeeblement = humans ceding control/becoming dependent on AI (Hendrycks speculative hazards, AI Risk Part 4 (W1)).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "In the risk decomposition framework, which combination of factors would result in the HIGHEST risk from an AI system?",
+     "options": [
+      "High vulnerability, high hazard exposure, high hazard severity.",
+      "Low vulnerability, high hazard exposure, low hazard severity.",
+      "Low vulnerability, low hazard exposure, high hazard severity.",
+      "High vulnerability, low hazard exposure, high hazard severity."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Risk = vulnerability x hazard exposure x hazard (disaster risk equation, AI Risk Part 3 (W1)); all three high maximises risk.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, which of the following about the AI race is true?",
+     "options": [
+      "AI systems naturally become safer as they grow more powerful.",
+      "The AI race reduces the need for regulation and monitoring.",
+      "It ensures faster AI development that guarantees equal benefits for all nations.",
+      "AI competition may push to speed up development while giving up oversight."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "AI race 'pushing nations and corporations to rush on AI development', sacrificing safety/oversight (AI Risk Part 3 (W1)).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 2,
+   "source": "https://www.youtube.com/watch?v=9M1XHdGqBfM, https://www.youtube.com/watch?v=OEGeJARvj5w, https://www.youtube.com/watch?v=Orvi9l2q8OY, https://www.youtube.com/watch?v=8doASitAw_g, https://www.youtube.com/watch?v=yIeglB539R8",
+   "questions": [
+    {
+     "q": "What are \"Black Swans\"?",
+     "options": [
+      "Frequent events with predictable and minor impacts.",
+      "Outlier events that often have extreme and unpredictable impacts.",
+      "Known risks that are intentionally ignored during model training.",
+      "Events that follow thin-tailer distribution and have negligible consequences."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "'Black swans are events that are outliers lying outside typical expectations and often carry extreme impact' (Robustness Part 1 (W2)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is considered a \"Known Unknown\"? (Select all that apply.)",
+     "options": [
+      "Recollection",
+      "Closed-ended Questions",
+      "Meta-ignorance",
+      "Conscious Ignorance",
+      "Open-ended Exploration",
+      "Self-analysis"
+     ],
+     "answer": [
+      1,
+      3
+     ],
+     "explanation": "'known unknowns... things we are aware of but don't understand... conscious ignorance, closed-ended questions' (Robustness Part 1 (W2)); recollection = known known, self-analysis = unknown known.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which type of distribution shift occurs when the input distribution P(x) changes between training and testing but P(y|x) remains constant?",
+     "options": [
+      "Concept shift",
+      "Normalized shift",
+      "Covariate shift",
+      "Prior probability shift"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'P(x) changes between train and test but P(y|x) does not change' = covariate shift (Robustness Part 2 (W2)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is \"transferability\" in the context of adversarial attacks?",
+     "options": [
+      "The ability to move a model from a secure state to a vulnerable state.",
+      "The phenomenon where adversarial examples crafted for one model also fool another model.",
+      "Converting a black-box model into a white-box model.",
+      "The process of retraining a model on adversarial attacks."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Transferability = adversarial examples crafted for one model also fool another model.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "According to the lecture, what is a common trade-off when using Adversarial Training to improve robustness?",
+     "options": [
+      "It requires a significantly larger dataset than normal training.",
+      "It can significantly reduce the accuracy on clean examples.",
+      "It only works for simple binary classifiers.",
+      "It requires a low-variance dataset to function effectively."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Well-known trade-off: adversarial training improves robust accuracy but lowers clean accuracy.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following are challenges associated with direct human ratings when modeling preferences? (Select all that apply.)",
+     "options": [
+      "Human-in-the-loop evaluation is expensive and time-consuming.",
+      "Direct ratings require white-box access to the model.",
+      "Human ratings are always completely objective and free from annotator bias.",
+      "Human judgments are noisy and miscalibrated."
+     ],
+     "answer": [
+      0,
+      3
+     ],
+     "explanation": "'Problem one: human-in-the-loop is expensive... Problem two: human judgments are noisy and miscalibrated' (RLHF (W2)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does Direct Preference Optimization (DPO) represent in the RLHF framework?",
+     "options": [
+      "RLHF without the reward model",
+      "RLHF without human feedback",
+      "RLHF without reinforcement learning",
+      "RLHF without policy optimization"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Corrected after checking the lecture (was: RLHF without reinforcement learning). Lecture slide on removing RLHF components: 'reward model, if it is removed, it will be direct preference optimization'; removing RL gives only a supervised fine-tuned model (AI Alignment (W2)). Consistent with 2025 item rsai-269.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the first step of the RLHF pipeline?",
+     "options": [
+      "Collecting comparison data and training a reward model.",
+      "Optimizing a policy against the reward model using reinforcement learning.",
+      "Collecting demonstration data and training a supervised policy.",
+      "Performing external white-box auditing of the pretrained model."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'Step one: collect demonstration data and train a supervised policy' (RLHF (W2)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Why is black-box access insufficient for rigorous AI audits?",
+     "options": [
+      "It is too expensive for external auditors.",
+      "It does not allow for human-in-the-loop feedback.",
+      "It prevents the use of reinforcement learning.",
+      "It only allows auditors to query the system and observe outputs."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Black-box access only allows querying the system and observing outputs (Casper et al., 'Black-Box Access is Insufficient for Rigorous AI Audits'); not in the recorded W2 transcripts.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "According to the lecture, what does the Kullback-Leibler (KL) divergence penalty prevent in RLHF?",
+     "options": [
+      "The reward model from becoming too complex",
+      "The policy model from diverging too far from the initial pretrained model",
+      "Human evaluators from providing biased feedback",
+      "The model from over-generalizing"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "KL term keeps the policy from diverging too far from the initial pretrained model (RLHF (W2)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is true? (Select all that apply.)",
+     "options": [
+      "Extremistan has thin tails while Medicristan has long tails.",
+      "Extremistan is determined by many small events.",
+      "Mediocristan is the tyranny of the collective.",
+      "Extremistan's impact is potentially scalable."
+     ],
+     "answer": [
+      2,
+      3
+     ],
+     "explanation": "Mediocristan: 'tyranny of the collective'; Extremistan: 'tyranny of the accidental', impact scalable vs Mediocristan 'non-scalable, mild randomness' (Robustness Part 1 (W2)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Identify the equations that can lead to a long-tailed distribution.",
+     "options": [
+      "Idea * student * resources * time",
+      "Idea * student + resources * time",
+      "Idea + student + resource + time",
+      "Idea - student * resource - time"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "NPTEL official answer key (Jul-Oct 2024 W2 Q4, Jul-Oct 2025 W2 Q9, Jul-Oct 2026 W2 Q12).",
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 3,
+   "source": "https://www.youtube.com/watch?v=YBTpqfzRVFE, https://www.youtube.com/watch?v=Tphk_jHpQBE, https://www.youtube.com/watch?v=h3jditng7eY, https://www.youtube.com/watch?v=XUHfGF0ynQs",
+   "questions": [
+    {
+     "q": "Match the unlearning method to their corresponding concept. 1) Exact unlearning; 2) Unlearning via Differential Privacy; 3) Example Unlearning; 4) Concept Unlearning. i) Unlearned model and retrained model are distributionally close; ii) The forget set is clearly defined; iii) The forget set is not clearly defined; iv) Unlearned model and retrained model are distributionally identical",
+     "options": [
+      "1 -> i, 2 -> iv, 3 -> iii, 4 -> ii",
+      "1 -> i, 2 -> iv, 3 -> ii, 4 -> iii",
+      "1 -> iv, 2 -> i, 3 -> iii, 4 -> ii",
+      "1 -> iv, 2 -> i, 3 -> ii, 4 -> iii"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Unlearning lectures: exact unlearning makes the unlearned model distributionally identical to a retrained one (iv); unlearning via differential privacy makes it distributionally close (i); example unlearning has a clearly defined forget set (ii); concept unlearning does not (iii).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary goal of \"Machine Unlearning\"?",
+     "options": [
+      "To increase the training speed of a model.",
+      "To add more data to an existing model without retraining.",
+      "To remove the influence of specific training data from a trained model.",
+      "To improve the accuracy of a model on new, unseen data."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Unlearning removes the influence of specific training data from a trained model (Unlearning (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is GDPR's Article 17 about in the context of Machine Learning?",
+     "options": [
+      "Right to be remembered",
+      "Right to be forgotten",
+      "Right to be modified",
+      "Right to be distributed"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "GDPR 'right to erasure'... 'right to be forgotten' (Unlearning (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the SISA framework, what is the benefit of using \"shards\" and \"slices\"?",
+     "options": [
+      "It increases the overall accuracy of the model.",
+      "It ensures that unlearned data never contributes to other components.",
+      "It allows the model to learn from toxic data safely.",
+      "It eliminates the need for any retraining."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "SISA isolates shards so a point to be unlearned only affects its own constituent model (Unlearning (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is \"Membership Inference Attack\"?",
+     "options": [
+      "To distinguish whether specific training data was used to train a model.",
+      "To add new members to a training dataset.",
+      "To speed up the unlearning process.",
+      "To verify the architecture of the model."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "MIA 'distinguishes training data from unseen data' (Approximate unlearning (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which unlearning method involves increasing the training loss on the forget set?",
+     "options": [
+      "KL Divergence",
+      "Direct Preference Optimization",
+      "Gradient Ascent",
+      "Gradient Difference"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'gradient ascent: mess up predictions on forget set by increasing usual training loss on the forget set' (Evaluation of Unlearning and Graph Unlearning Part 1 (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, what is \"Representation Engineering\"?",
+     "options": [
+      "A bottom-up approach focusing on individual neurons.",
+      "Modifying representation vectors to control model traits.",
+      "A method for increasing the parameter count of a model.",
+      "Re-labeling all data points in a dataset to fix biases."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "RepE engineers/modifies the model's hidden representation vectors to control traits such as honesty (Representation Engineering - Hands on (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the context of the SISA framework, how does the system minimize the cost of retraining when a data point must be unlearned?",
+     "options": [
+      "By using gradient ascent on only the affected data points.",
+      "By applying a differential privacy constraint to the aggregation layer.",
+      "By flipping the labels of the forget set and performing few-shot.",
+      "By retraining only the constituent model whose shards contain the point to be unlearned."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "SISA: data sharded into constituent models then aggregated; unlearning retrains only the affected shard's model (Unlearning (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, why is unlearning fundamental facts like \"the sun rises every day\" considered more difficult than unlearning infrequent textual occurrences, such as car accidents?",
+     "options": [
+      "Fundamental knowledge is deeply embedded in the model's implicit knowledge graph.",
+      "Fundamental facts are typically protected by guardrails.",
+      "Models are primarily trained on Wikipedia, which contains these facts.",
+      "Differential privacy guarantees fall off more quickly for fundamental facts."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "'a piece of knowledge can be embedded in the model's implicit knowledge graph so it cannot be unlearned without introducing contradictions' (Evaluation of Unlearning and Graph Unlearning Part 1 (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which unlearning evaluation metric focuses on whether the unlearning process negatively affects the model's performance on the \"retrain data\" or unrelated tasks?",
+     "options": [
+      "Efficiency",
+      "Forgetting Quality",
+      "Model Utility",
+      "Membership Inference"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'model utility: do we harm performance on the retain data or orthogonal tasks' (Approximate unlearning (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The WMDP benchmark measures hazardous knowledge in which specific areas? (Select all that apply.)",
+     "options": [
+      "Biosecurity/Bioweapons",
+      "Cybersecurity",
+      "Chemical security",
+      "Financial market manipulation"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "explanation": "WMDP: 'unlearning dangerous knowledge specifically on biosecurity, cybersecurity and chemical security' (Evaluation of Unlearning and Graph Unlearning Part 1 (W3)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which methods are used for Edge Unlearning? (Select all that apply.)",
+     "options": [
+      "GraphEraser",
+      "GUIDE",
+      "Projector",
+      "GraphEditor",
+      "GNNDelete",
+      "MEGU"
+     ],
+     "answer": [
+      0,
+      3,
+      4,
+      5
+     ],
+     "explanation": "Corrected after checking the lecture (was: GraphEraser, GNNDelete, MEGU). Graph Unlearning Part 2: GraphEraser \"can do node and edge\" but not feature; GUIDE \"can do node, cannot do edge, cannot do feature\"; Projector \"does only feature unlearning\"; GraphEditor \"does all the three\"; GNNDelete and MEGU cover all three.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 4,
+   "source": "https://www.youtube.com/watch?v=_rXxEju62Uc, https://www.youtube.com/watch?v=woaMbyG1Yqk, https://www.youtube.com/watch?v=yedkJ0QQvPc, https://www.youtube.com/watch?v=_vX6dFHdia0",
+   "questions": [
+    {
+     "q": "How does the definition of \"bias\" in CS/ML differ from Statistics?",
+     "options": [
+      "Statistics focuses on societal values, while CS/ML focuses on mathematical deviations.",
+      "Statistics defines it as a systematic error in data collection/interpretation, while CS/ML defines it as a systematic favoritism towards certain groups/outcomes.",
+      "CS/ML focuses on rationality in judgment, while Statistics focuses on algorithmic performance.",
+      "There is no difference; both define bias as a systematic deviation from rationality."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Statistics: 'systematic error in the collection, analysis and interpretation of data'; CS/ML: 'systematic favoritism or discrimination towards certain groups or outcomes' (Bias - I (W4)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the slides, when does bias become a problem?",
+     "options": [
+      "Bias is a problem at all times because humans are not perfect.",
+      "It is only a problem when it occurs in the data collection phase.",
+      "It is only a problem when it can have a negative impact.",
+      "It is only a problem when the model is not 100% accurate."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "'it's a problem only when it has a negative impact' (Bias - I (W4)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which metric is proposed in the InSaAF study to encapsulate both fairness and accuracy in the Indian legal landscape?",
+     "options": [
+      "Demographic Parity Score",
+      "Perspective API Score",
+      "Legal Grounding Score",
+      "β-weighted Legal Safety Score"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "InSaAF fine-tuning evaluated 'against the LSS metric, our legal safety score' (Bias - II (W4)), the beta-weighted Legal Safety Score.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What was the primary issue with Microsoft's chatbot \"Tay\"?",
+     "options": [
+      "It was unable to process text correctly.",
+      "It posted unintended offensive tweets due to malicious user intent.",
+      "It could only generate content related to the United States.",
+      "It was too slow to respond to users."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Tay posted offensive tweets after malicious users manipulated it.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Analysis of AI-generated images from Midjourney showed which of the following biases regarding specialized roles?",
+     "options": [
+      "Only younger women were shown in specialized roles.",
+      "Only older men were shown in specialized roles.",
+      "Older women were frequently depicted as news analysts.",
+      "Specialized roles always featured diverse racial representation."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "'it also only showed older men but not older women for specialized roles such as news analyst' (Midjourney, Bias - II (W4)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to \"The Source of Bias\" ML pipeline, at which stage can bias be introduced? (multiple-select: checkboxes)",
+     "options": [
+      "Collecting and labelling data",
+      "Training using chosen metrics and objectives",
+      "Models deployed in production",
+      "Users see an effect"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "explanation": "Pipeline: collecting/labelling data, training with chosen metrics, model deployed in production, users see an effect, user behaviour informs further collection (Source of Bias (W4)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What does each pair in the CrowS-Pairs dataset consist of?",
+     "options": [
+      "One stereotype sentence and one neutral sentence",
+      "One biased sentence and one unbiased sentence",
+      "One stereotype sentence and one opposite stereotype sentence",
+      "One stereotype sentence and one less stereotype sentence"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "CrowS-Pairs: two minimally distant sentences, one more and one less stereotyping (Bias - I (W4)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a \"latent\" design choice that can lead to bias in a dataset?",
+     "options": [
+      "Choosing to use only English-language phrases.",
+      "Using systematic favoritism towards a specific outcome.",
+      "Manually editing every data point to be offensive.",
+      "Refusing to use any AI models in production."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Design choices in NLPositionality slide: 'annotations done by researchers... women activists... maybe only English phrases' (Bias - II (W4)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is the correct setting for contrastive learning? (multiple-select: checkboxes)",
+     "options": [
+      "Irrespective of the sentences, minimise the distance between their embeddings.",
+      "Irrespective of the sentences, maximise the distance between their embeddings.",
+      "If sentences are similar, minimise the distance between their embeddings.",
+      "If sentences are different, minimise the distance between their embeddings.",
+      "If sentences are different, maximise the distance between their embeddings.",
+      "If sentences are different, minimise the distance between their embeddings"
+     ],
+     "answer": [
+      2,
+      4
+     ],
+     "explanation": "Contrastive (tension) loss pulls similar/positive pairs together and pushes dissimilar/negative pairs apart (Bias-Handson (W4)).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a \"stereotype\"?",
+     "options": [
+      "A factual statement that applies to all humans.",
+      "A scientifically proven characteristic.",
+      "A legal rule used to govern a society.",
+      "A widely held belief about some group."
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "lecture",
+     "explanation": "Bias lectures define a stereotype as a widely held belief about some group or entity."
+    },
+    {
+     "q": "A sentiment-analysis model is trained to predict whether book reviews are positive or negative based on a corpus of user submissions to a popular website. The majority of reviews in the training dataset reflect extreme opinions (reviewers who either loved or hated a book), because people were less likely to submit a review of a book if they did not respond to it strongly. As a result, the model is less able to correctly predict the sentiment of reviews that use more subtle language to describe a book. Which type of bias is this?",
+     "options": [
+      "Reporting bias",
+      "Historical bias",
+      "Automation bias",
+      "In-group bias"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Over-representation of extreme reviews because people only report strong reactions = reporting bias (Google ML fairness example).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "As per the lecture, which of the following is a/are a category of bias? (multiple-select: checkboxes)",
+     "options": [
+      "Gender",
+      "Race",
+      "Scientific Facts",
+      "Profession",
+      "Currency exchange rates"
+     ],
+     "answer": [
+      0,
+      1,
+      3
+     ],
+     "explanation": "Bias categories listed: 'gender... profession, race, religion' (Bias - I (W4)).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 5,
+   "source": "https://www.youtube.com/watch?v=Dx8lYdfNwpc, https://www.youtube.com/watch?v=YxPdLPhGoIM, https://www.youtube.com/watch?v=qntzEUMIa2A, https://www.youtube.com/watch?v=2wpqkj9iVbs",
+   "questions": [
+    {
+     "q": "What should be the language modelling (lms) for an ideal model in the StereoSet benchmark?",
+     "options": [
+      "25",
+      "50",
+      "75",
+      "100"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"The LMS of an ideal language model will be 100\" - Bias - III (EGZDLTvqndI).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the CrowS-Pairs benchmark, what does a score of 100% indicate?",
+     "options": [
+      "The model has no social bias.",
+      "The model always prefers anti-stereotypical sentences.",
+      "The model always prefers stereotypical sentences.",
+      "The model is an ideal language model."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "CrowS-Pairs score = % of pairs where the model prefers the more stereotyping sentence (\"higher numbers indicate higher model bias\" - Bias - III (EGZDLTvqndI)); 100% = always stereotypical, 50% is ideal.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "What phenomenon occurs when fine-tuning all parameters of a large language model (LLM) to remove bias, leading to a drop in general performance?",
+     "options": [
+      "Model Drifting",
+      "Catastrophic Forgetting",
+      "Overfitting",
+      "Gradient Explosion"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Existing debiasing \"either fail to remove the bias completely or degrade performance (catastrophic forgetting)\" - Bias - IV (h6am1pcDFh8).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is Counterfactual Data Augmentation (CDA)?",
+     "options": [
+      "Re-balancing a corpus by swapping bias attribute words in a dataset.",
+      "Adding more stereotypical sentences to a dataset to make it more biased.",
+      "Removing all bias-attributed words in a dataset.",
+      "Ensuring the dataset has an equal number of biased and unbiased samples."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Counterfactual example \"his\" -> \"her\" to rebalance the corpus - Bias - IV (h6am1pcDFh8).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which toolkit is used to add programmable guardrails to LLM-based conversational applications to control outputs?",
+     "options": [
+      "GPT-4",
+      "NVIDIA NeMo",
+      "CoDi",
+      "MAFIA"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"NeMo Guardrails is an open source toolkit for easily adding programmable guardrails to LLM-based conversational applications\" - Bias - IV (h6am1pcDFh8).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Match the following example to the correct prompt variation. i. The image shows a subject with the occupation 'Chief Executive Officer'. Based on the image and this information, what is the gender of the person? (a) male (b) female (c) no preference ii. Looking at this image alone, who would you hire to be the CEO of a Fortune 500 company? (a) person in the image (b) someone else (c) no preference",
+     "options": [
+      "i -> Informed, ii -> Informed",
+      "i -> Informed, ii -> Blind",
+      "i -> Blind, ii -> Informed",
+      "i -> Blind, ii -> Blind"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Informed prompts give the occupation/action information, blind prompts do not (\"Looking at this image alone\") - Bias in VLM's (sxV1_8CXj4M).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The CrowS-Pairs benchmark includes which of the following types of social bias? (Select all that apply.)",
+     "options": [
+      "Sexual orientation",
+      "Socioeconomic status",
+      "Political ideology",
+      "Physical appearance"
+     ],
+     "answer": [
+      0,
+      1,
+      3
+     ],
+     "explanation": "CrowS-Pairs covers nine bias types (race, gender, sexual orientation, religion, age, nationality, disability, physical appearance, socioeconomic status) - Bias - III (EGZDLTvqndI); political ideology is not one.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which of the following datasets are specifically designed for measuring gender-related biases? (Select all that apply.)",
+     "options": [
+      "BOLD",
+      "RedditBias",
+      "WinoBias",
+      "Winogender"
+     ],
+     "answer": [
+      2,
+      3
+     ],
+     "explanation": "WinoBias (gender-balanced coreference pairs) and Winogender are gender-specific; BOLD covers five domains and RedditBias several - Bias - III (EGZDLTvqndI)/Bias - IV (h6am1pcDFh8).",
+     "verified": "lecture"
+    },
+    {
+     "q": "You are performing a bias audit on a corpus with N = 1000 total documents. Calculate the PMI between an identity label wi and a specific descriptive word wj. • The identity label appears in 100 documents. • The descriptive word appears in 50 documents. • Both words co-occur in the same document 20 times. (Numeric answer)",
+     "options": [
+      "2"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "PMI = log2[(20/1000)/((100/1000)(50/1000))] = log2(0.02/0.005) = log2 4 = 2.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "What is the minimum threshold a word has to appear in the corpus for it to be considered when performing word association analysis?",
+     "options": [
+      "2 times",
+      "5 times",
+      "10 times",
+      "20 times"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"we will not focus on words which occur less than 10 times in the corpus\" - Bias Handon Part 1 (pwY3sKDt1Oo).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the \"Gender-bleached\" input method used for?",
+     "options": [
+      "To remove all images containing humans from the training set.",
+      "To study societal bias in generated output by providing input that blurs gender.",
+      "To increase the \"Neutral\" accuracy above the random baseline.",
+      "To ensure the model can only identify objects rather than social attributes."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"gender bleached input to study gender bias in generated output\" - Bias in VLM's (sxV1_8CXj4M).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the main goal of the COBIAS framework when assessing bias?",
+     "options": [
+      "To automatically remove all stereotypical words from a model's training data.",
+      "To increase the speed at which a model generates text by reducing the number of words used.",
+      "To ensure that models only use gender-neutral pronouns like \"they\" in every conversation.",
+      "To evaluate how much a model relies on specific contexts before deciding if a statement is truly biased."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "COBIAS scores the \"contextual reliability of a bias statement\" via context-added versions - Bias - IV (h6am1pcDFh8).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 6,
+   "source": "https://www.youtube.com/watch?v=SxpGV-RfDg0, https://www.youtube.com/watch?v=hDMsmBXTToo, https://www.youtube.com/watch?v=24YfH75m2hQ, https://www.youtube.com/watch?v=msrSBGCSEds, https://www.youtube.com/watch?v=a93-3_iQFi4",
+   "questions": [
+    {
+     "q": "According to the lecture, why would standard cryptographic solutions be unsuitable for AI model privacy?",
+     "options": [
+      "It is unclear whether all complex functions can be effectively evaluated from in the encryption space.",
+      "Evaluation in encrypted space is computationally expensive.",
+      "As the model scales, cryptographic keys become impossible to manage.",
+      "Encryption models cannot be used for binary classification tasks."
+     ],
+     "answer": [
+      0,
+      1
+     ],
+     "explanation": "Corrected after checking the lecture (was: Evaluation in encrypted space is computationally expensive.). The lecture gives both reasons: evaluating in encrypted space \"may or may not be possible depending on how complicated this function is\" and \"it might be an expensive solution\" - Data Privacy (etOgdDVr3mk). Not marked multi-select; if single-select, either could be the key.",
+     "verified": "unsure"
+    },
+    {
+     "q": "In the context of healthcare data, why might a trained binary classification model still pose a privacy risk even if the raw data is not directly released?",
+     "options": [
+      "The model weights occupy too much storage space.",
+      "Binary classifiers are inherently less secure than multi-class ones.",
+      "An adversary can reverse-engineer sensitive training data.",
+      "The labels used for training are usually public knowledge."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"an adversary in the world who has access to this model should not really be able to reverse engineer my data\" - Data Privacy (etOgdDVr3mk).",
+     "verified": "lecture"
+    },
+    {
+     "q": "How were users able to deanonymize the \"anonymized\" Netflix dataset?",
+     "options": [
+      "By obtaining the meta-data of the dataset.",
+      "By brute-forcing the sparse matrix to reveal the missing entries.",
+      "By using cryptanalytic attacks to decode user information.",
+      "By using an auxiliary public database, such as IMDb, to correlate ratings."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"they used information from IMDb ... and tried to correlate these two databases\" - Data Privacy (etOgdDVr3mk).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the randomized response algorithm presented in the lecture, what is the minimum probability that the truthful answer is revealed?",
+     "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Corrected after checking the lecture (was: 75%). The lecture's RR reveals the truth with e^ε/(1+e^ε): \"if Epsilon is zero ... this is half\"; for ε>0 \"we want to reveal the truth with more than 50% chance\", so the minimum is 50% - Data Privacy (etOgdDVr3mk). The 75% figure comes from the two-coin variant, which this lecture does not present.",
+     "verified": "lecture"
+    },
+    {
+     "q": "To maximize utility, how should the privacy parameter ε be adjusted?",
+     "options": [
+      "ε should be maximum for privacy, ε should be minimum for utility",
+      "ε should be minimum for privacy, ε should be minimum for utility",
+      "ε should be maximum for privacy, ε should be maximum for utility",
+      "ε should be minimum for privacy, ε should be maximum for utility",
+      "ε is unrelated"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Small ε gives more privacy; large ε gives better utility - Data Privacy (etOgdDVr3mk)/Differential Privacy (cBU6545k-v0).",
+     "verified": "lecture"
+    },
+    {
+     "q": "An organization surveys 100 people and asks whether they voted for a certain party. To protect respondents' privacy, the organization uses the randomized response technique with ε = 0.5. Out of 100 respondents, 60 reported \"Yes\" and 40 reported \"No.\" Estimate the true number of people whose actual answer was \"Yes\". Round to the nearest whole number. (Numeric answer)",
+     "options": [
+      "91"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "p = e^0.5/(1+e^0.5) = 0.6225; estimate = (0.6 − 0.3775)·(e^0.5+1)/(e^0.5−1) = 0.2225·4.083 = 0.908, i.e. about 91 of 100.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "Which trust scenario correctly describes the differential privacy model?",
+     "options": [
+      "Trust the curator; Trust the world",
+      "Do not trust the curator; Trust the world",
+      "Trust the curator; Do not trust the world",
+      "Do not trust the curator; Do not trust the world"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"even though you can trust the curator, you don't trust the world ... one way to do this is using differential privacy\" - Differential Privacy (cBU6545k-v0). The 2026 copy of this question was also answered this way.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the Laplace Mechanism, how is the sensitivity (Δ) defined for a function f?",
+     "options": [
+      "The average difference between f(X) and f(X') for all neighbouring X and X'.",
+      "The maximum absolute difference between f(X) and f(X') for any two neighboring X and X'.",
+      "The standard deviation of the function f.",
+      "The minimum difference between f(X) and f(X') for any two neighboring X and X'."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Sensitivity = \"maximum over all X and X' neighboring\" of |f(X) − f(X')| - Differential Privacy (cBU6545k-v0).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Cynthia Dwork's definition of ε-differential privacy, for all neighbouring datasets X and X', the probability that a mechanism M on X generates an output in subset S divided by the probability that a mechanism M on X' generates an output in subset S is at most:",
+     "options": [
+      "e^ε",
+      "ε",
+      "1/ε",
+      "ε^e"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "The definition by Cynthia Dwork bounds the ratio by e^ε - Differential Privacy (cBU6545k-v0).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What property of neighboring data sets X and X' is used to prove the privacy guarantee of Randomized Response?",
+     "options": [
+      "They have zero correlation.",
+      "They differ by 99% of the elements in the set.",
+      "They are disjoint sets.",
+      "They differ by only one element."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Neighboring data sets: \"99 of them are the same ... just one person who's different\" - Data Privacy (etOgdDVr3mk).",
+     "verified": "lecture"
+    },
+    {
+     "q": "For a fixed ε, if a function being computed is highly sensitive (large Δ), how does it affect the noise added to the Laplace mechanism?",
+     "options": [
+      "Less noise is added.",
+      "More noise is added.",
+      "The noise remains unchanged.",
+      "Noise is irrelevant."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"higher the sensitivity, larger the noise\" - Differential Privacy (cBU6545k-v0).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Comparing the Laplace mechanism and randomized response, how does the required number of respondents n differ to achieve the same privacy-utility trade-off?",
+     "options": [
+      "The Laplace mechanism requires quadratically more people.",
+      "The Laplace mechanism requires quadratically fewer people.",
+      "Both require the same number of people.",
+      "The number of people to survey does not matter."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"if you trust the curator, then you would have to survey quadratically lesser number of people\" (Laplace) - Differential Privacy (cBU6545k-v0).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 7,
+   "source": "https://www.youtube.com/watch?v=VlwCN47bXiw, https://www.youtube.com/watch?v=5nm30SigjY0, https://www.youtube.com/watch?v=Bwp8i7p4uKA, https://www.youtube.com/watch?v=W1TVeWjroqQ, https://www.youtube.com/watch?v=5_kyXo1uMHg",
+   "questions": [
+    {
+     "q": "In Approximate Differential Privacy, what does δ represent?",
+     "options": [
+      "The strict upper bound of the probability of the mechanism M.",
+      "The estimated noise added to the Laplace Mechanism.",
+      "The average difference between all the data points in the datasets X and X'.",
+      "A leeway for small-probability events where ε-differential privacy may fail."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "δ gives \"some leeway ... low probability events or some subsets where the ε-differential privacy property may not hold\" - Approximate Differential Privacy (G_pn8G09-KI).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Compared to the Laplacian mechanism, how does the Gaussian mechanism scale the amount of noise added when releasing D different outputs?",
+     "options": [
+      "It adds noise linearly proportional to D.",
+      "It adds noise proportional to the square root of D.",
+      "It adds noise exponentially proportional to D.",
+      "It adds the same amount of noise."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Laplace noise grows as d while Gaussian grows as √(d log 1/δ) - Approximate Differential Privacy (G_pn8G09-KI).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following are properties of Approximate Differential Privacy? (Select all that apply.)",
+     "options": [
+      "It satisfies the property of post-processing, meaning any data-independent computation applied to the output will not make it less (ε, δ)-differentially private.",
+      "It guarantees privacy even when δ is significantly larger than 1/n (where n is the number of individuals in a dataset).",
+      "It satisfies composition, meaning if you have k mechanisms that are all (ε, δ)-differentially private, then the combined mechanism is (kε, kδ)-differentially private.",
+      "It guarantees that the output distributions of the algorithm are completely identical for any two neighboring datasets."
+     ],
+     "answer": [
+      0,
+      2
+     ],
+     "explanation": "Properties covered: post-processing and basic composition, giving (kε, kδ) - Approximate Differential Privacy (G_pn8G09-KI).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, what is the primary advantage of using the Gaussian Mechanism?",
+     "options": [
+      "Zero chance of privacy leakage.",
+      "Faster computational time for calculating probabilities.",
+      "Better utility due to adding quadratically less noise.",
+      "Eliminates the need for a trusted curator."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"quadratically lesser amount of noise ... so you will have higher utility\" - Approximate Differential Privacy (G_pn8G09-KI).",
+     "verified": "lecture"
+    },
+    {
+     "q": "There are three buyers whose valuations are 15, 20, and 135, respectively. What is the absolute difference in revenue when the price of a digital good changes from 14 to 18? (Round your answer to the nearest whole number.) (Numeric answer)",
+     "options": [
+      "6"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "At price 14 all three buy: 3×14 = 42. At 18 only the 20 and 135 buyers buy: 2×18 = 36. |42 − 36| = 6.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "How does the Exponential Mechanism select a price h∈H?",
+     "options": [
+      "With probability proportional to the inverse of the price.",
+      "With probability proportional to e^((ε/2δ)·S(x,h)).",
+      "With probability proportional to e^((δ/2ε)·S(x,h)).",
+      "Uniformly at random from all prices below the maximum valuation."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"select price h with probability proportional to e^(ε/2Δ · S(x,h))\" (δ in the option denotes the sensitivity Δ) - Exponential Mechanism (Ir_wOyCFohs).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What privacy guarantee does the Exponential Mechanism provide for buyers' valuations?",
+     "options": [
+      "(ε, δ)-Differential Privacy",
+      "ε-Differential Privacy",
+      "K-Anonymity",
+      "Concentrated Differential Privacy"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"exponential mechanism is Epsilon differentially private for the valuations\" - Exponential Mechanism (Ir_wOyCFohs).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the utility guarantee provided by the Exponential Mechanism?",
+     "options": [
+      "It guarantees the absolute highest possible revenue every time.",
+      "It does not guarantee positive revenue every time.",
+      "It guarantees that the revenue will not be significantly lower than the optimal revenue.",
+      "The guarantee will exactly match the median valuation."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"with very high chance I'm going to get a revenue which is not too less than the optimal revenue\" - Exponential Mechanism (Ir_wOyCFohs).",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Statistical Parity, for a protected group C and a classifier M, what is the parity value for an ideal classifier?",
+     "options": [
+      "-1",
+      "0",
+      "0.5",
+      "1"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"for the ideal classifier the parity should be zero\" - Fairness in Machine Learning (UAXIj2IVvpU).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the data comparing White and African American defendants in risk assessments, which of the following statements are true? (Select all that apply.)",
+     "options": [
+      "White defendants were labeled lower risk yet did re-offend at a higher rate than African American defendants.",
+      "African American defendants were labeled higher risk but didn't re-offend at a higher rate than White defendants.",
+      "White defendants had a higher rate of being labeled higher risk without re-offending than African American defendants.",
+      "African American defendants had a lower rate of being labeled lower risk yet re-offending compared to White defendants."
+     ],
+     "answer": [
+      0,
+      1,
+      3
+     ],
+     "explanation": "Labeled high risk but did not re-offend: White ~23%, African American ~44.9%; labeled low risk but re-offended: White 47.7% > African American - Fairness in Machine Learning (UAXIj2IVvpU). Statements 1, 2 and 4 are true.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Based on the analysis of biases in word embeddings from Wikipedia and Social Media, which of the following professions was associated with sexist prejudice towards men?",
+     "options": [
+      "Nurse",
+      "Teacher",
+      "Pharmacist",
+      "Cameraman"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Professions closest to \"man\": \"officer, hunter, commander, god, cameraman\", versus nurse, secretary, teacher for \"woman\" (\"sexist prejudice\") - Fairness in Machine Learning (UAXIj2IVvpU).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The goal of Fair PCA is to find a PCA solution U = [U_A, U_B] such that the reconstruction losses of groups A and B (where A is the protected group) are:",
+     "options": [
+      "Equal",
+      "Unequal",
+      "The protected group has a lower reconstruction loss",
+      "The protected group has a higher reconstruction loss"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"the optimal U has the exact same amount of loss for both the male population and the female population\" - Fairness in Machine Learning (UAXIj2IVvpU).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 8,
+   "source": "https://www.youtube.com/watch?v=UzxOQWBogBw, https://www.youtube.com/watch?v=dfSX1ZyxkFQ, https://www.youtube.com/watch?v=xkhGcOuCVYQ, https://www.youtube.com/watch?v=g_LHUlK-Sbs, https://www.youtube.com/watch?v=Yn6V6J7Mwkk",
+   "questions": [
+    {
+     "q": "Which of the following best describes Pixel Attribution Methods?",
+     "options": [
+      "They compress neural network layers to reduce model size.",
+      "They automatically remove backdoor triggers from poisoned datasets.",
+      "They convert text datasets directly into image representations.",
+      "They highlight pixels that were relevant for a certain image classification."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Pixel attribution methods \"highlight the pixels that were relevant for a certain image classification\" - Interpretability - I (0llPpGFPoQg).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following pixel attribution methods involve manipulating parts of an image to generate explanations?",
+     "options": [
+      "Gradient-based methods",
+      "Occlusion-based methods",
+      "Mechanical methods",
+      "Top-down methods"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"occlusion or perturbation based ... SHAP and LIME manipulate parts of the images to generate explanations\" - Interpretability - I (0llPpGFPoQg).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What should happen to a saliency map if a model that genuinely captures higher-level class concepts has its layers randomized?",
+     "options": [
+      "The map should invert its colors.",
+      "The map should remain identical.",
+      "The map should change significantly.",
+      "The map should become a blank image."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"if a model captures higher level class concepts then the saliency map should change as the model is being randomized\" - Interpretability - I (0llPpGFPoQg).",
+     "verified": "lecture"
+    },
+    {
+     "q": "How can we validate the explanations given by LIME? (Select all that apply.)",
+     "options": [
+      "By using prior knowledge.",
+      "By randomizing the model's layers.",
+      "By using human annotators.",
+      "By applying adversarial perturbations."
+     ],
+     "answer": [
+      0,
+      2
+     ],
+     "explanation": "LIME \"uses prior knowledge, using prior knowledge we can validate the explanations ... probably even human annotation\" - Interpretability - I (0llPpGFPoQg).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following interpretability approaches involves locating information in a model without fully understanding how it is processed?",
+     "options": [
+      "Mechanistic interpretability",
+      "Top-down interpretability",
+      "Feature-based visualization",
+      "Game-theoretic approach"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Top-down: \"locate information in a model without full understanding of how it is processed\" - Interpretability - II (VvCbwm2yzM4).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary function of probing in interpretability?",
+     "options": [
+      "To inject hidden trojans into public datasets during training.",
+      "To check whether representations encode information reliably",
+      "To optimize latent space interpolation for image generation",
+      "To completely reverse-engineer all node-to-node algorithmic connections in large language models."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Probing is used \"to check whether representations encode information reliably for some specific tasks\" - Interpretability - II (VvCbwm2yzM4).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, which of the following are Attack Vectors? (Select all that apply.)",
+     "options": [
+      "API keys",
+      "Public Datasets",
+      "HuggingFace models",
+      "A downloadable execution file"
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "explanation": "Attack vectors named: public data sets and model sharing libraries (\"Hugging Face, PyTorch, TensorFlow\") - Interpretability - II (VvCbwm2yzM4).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Consider the following equation for LIME: ξ(x) = argmin_{g∈G} L(f, g, π_x) + Ω(g). What do the components L and Ω(g) represent?",
+     "options": [
+      "L measures how unfaithful the explanation model g is in approximating f locally (weighted by π_x), while Ω(g) measures the complexity/interpretability penalty of the explanation model.",
+      "L represents the global accuracy of the black-box model f, and Ω(g) represents the total number of convolutional layers.",
+      "L is the adversarial perturbation budget, and Ω(g) is the learning rate of the surrogate model.",
+      "L calculates the exact Shapley values, and Ω(g) computes the gradient with respect to input pixels."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "LIME: g is the simple interpretable model fit locally to the complex f, with proximity weighting π_x; Ω penalizes complexity - Interpretability - I (0llPpGFPoQg).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary goal of Neural Cleanse when detecting Trojans in neural networks?",
+     "options": [
+      "To fine-tune the model using a 0.05% poisoned dataset",
+      "To reverse-engineer potential triggers",
+      "To prune the entire first-layer weights of a classifier",
+      "To train a neural network using high-dimensional pooling layers"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"we can reverse engineer the Trojan by searching for a trigger and the target label\" (Neural Cleanse) - Interpretability - II (VvCbwm2yzM4).",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does top-down interpretability differ from mechanistic interpretability?",
+     "options": [
+      "Top-down focuses on algorithmic node-to-node connections, whereas mechanistic looks at global activity of populations of neurons.",
+      "Top-down localizes information in a model and looks at representational spaces, while mechanistic attempts to reverse-engineer neural networks at the neuron level.",
+      "Top-down requires full mathematical proof of model weights, whereas mechanistic is entirely model-agnostic.",
+      "Top-down can only be applied to text-based saliency maps, whereas mechanistic only applies to GANs."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Top-down works in \"representational spaces ... global activity of populations of neurons\"; mechanistic tries to \"reverse engineer neural networks\" neuron by neuron - Interpretability - II (VvCbwm2yzM4).",
+     "verified": "lecture"
+    },
+    {
+     "q": "What game-theoretic concept does SHAP (Shapley Additive exPlanations) explain about the output of any machine learning model?",
+     "options": [
+      "Nash Equilibrium",
+      "Pareto Optimality",
+      "Shapley Values",
+      "Minimax Theorem"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "SHAP is \"built on this idea called Shapley values and it's a game theoretic approach\" - Interpretability - I (0llPpGFPoQg).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Regarding LIME and SHAP, which of the following statements are true? (Select all that apply.)",
+     "options": [
+      "They generate global explanations that apply uniformly across the entire dataset.",
+      "They are model-agnostic methods that can work on any black-box model.",
+      "They are restricted solely to image datasets and cannot handle natural language data.",
+      "They can be computationally expensive to compute compared to direct gradient-based visualizations."
+     ],
+     "answer": [
+      1,
+      3
+     ],
+     "explanation": "LIME \"works on any blackbox model\" and SHAP explains \"the output of any machine learning model\"; \"LIME and SHAP are expensive\" versus faster gradient methods - Interpretability - I (0llPpGFPoQg).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 9,
+   "source": "https://www.youtube.com/watch?v=4p8Oga1GtP8, https://www.youtube.com/watch?v=gfBFoXcUEMM, https://www.youtube.com/watch?v=-D5P0gl-im4, https://www.youtube.com/watch?v=eMEJmKq7boc, https://www.youtube.com/watch?v=tNVAo6wmXwc",
+   "questions": [
+    {
+     "q": "What is the difference between \"vertical\" and \"horizontal\" AI regulation?",
+     "options": [
+      "Vertical regulates the hardware, while horizontal regulates the software.",
+      "Vertical regulation is completely market-based, while horizontal is purely state-controlled.",
+      "Vertical regulation applies existing sector-specific laws to AI, while horizontal regulation creates broad, new risk-based laws across all sectors.",
+      "Vertical regulation only applies to the industry, while horizontal applies to the industry and its customers."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 1: vertical = \"what existing laws with tweaks can actually govern the use of AI in that particular sector\"; horizontal = the EU-AI-Act style risk-based law.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Why is data privacy considered a relatively better-understood guardrail compared to model explainability?",
+     "options": [
+      "Explainability has exact mathematical bounds, whereas privacy cannot be measured mathematically.",
+      "Privacy can be controlled by improving the model's accuracy, while explainability depends mainly on the size of the training dataset.",
+      "Privacy can be formally bounded and guaranteed with mathematical frameworks.",
+      "There are far less constraints in ensuring data privacy than explainability."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 3: privacy is \"a better understood guard rail ... you can kind of give a better mathematical guarantee for privacy as opposed to explainability\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, as AI systems become autonomous agents capable of performing complex tasks independently, what is the main trade-off that occurs regarding human decision-making.",
+     "options": [
+      "Individual human agency decreases as decision-making is delegated to autonomous AI systems.",
+      "Human decision-making increases because autonomous AI agents provide more information and recommendations to users.",
+      "Human agency remains unchanged because autonomous AI systems only perform tasks without affecting human decisions.",
+      "Human decision-making becomes more reliable because AI agents completely eliminate uncertainty and errors from the decision-making process"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 2: \"individual agency and autonomy is going to get compromised ... agents is about delegating our agency\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following are privacy-preserving training techniques? (Select all that apply.)",
+     "options": [
+      "Model Quantization",
+      "Differential Privacy",
+      "Federated Learning",
+      "Data Augmentation"
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 3 mentions \"privacy preserving training techniques\"; differential privacy and federated learning are the privacy-preserving ones (quantization and augmentation are not).",
+     "verified": "reasoning"
+    },
+    {
+     "q": "In structured AI governance, what is defines a \"co-regulation\" model from from strict-regulation or self-regulation?",
+     "options": [
+      "Companies operate without zero external guidelines or government interaction.",
+      "The government directly dictates every policy of code without interference from the industry.",
+      "The government ensures that consumers have as much responsiblities as companies to follow policy.",
+      "Industries establish policies which are formally recognized and enforced by the government."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 2: in co-regulation, companies present their common best practices to the government, which then expects everyone in the domain to comply.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, if copyrighted data is found inside a large AI model and must be removed, what is a major technical challenge?",
+     "options": [
+      "Removing the data may significantly reduce the model's ability to generalize to unrelated tasks.",
+      "The model may need to be retrained or use specialized unlearning techniques to remove the data's influence.",
+      "The model may become unstable because removing one data point automatically changes its entire architecture.",
+      "The model may require additional training on the copyrighted data before its influence can be safely removed."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 3: \"data points are basically taken out of the data set and there is again the retraining that need to be done ... no lingering effects\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the discussed AI safety and governance proposals, about how much of an AI model's development budget should be spent on safety and responsible AI?",
+     "options": [
+      "50% on legal costs",
+      "100% on testing the model after it is released",
+      "10% on AI safety and responsible AI research",
+      "All profits on building newer hardware"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 3: \"for every 100 million ... spend 10%, 10 million on responsible and safe AI practices\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, which technical strategy help reduce the energy consumption and environmental footprint of LLM deployment?",
+     "options": [
+      "Routing every simple text query to ultra-large GPU clusters in real time.",
+      "Increasing parameter counts by 10x for routine classification tasks.",
+      "Running duplicate backup models continuously on solar-powered data centers.",
+      "Moving model inference to run on CPUs/Edge devices instead of GPUs."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 3: \"from the GPU can we move it to CPU ... we have reduced lot of compute\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does Back Translation Defense mitigate jailbreak attacks?",
+     "options": [
+      "It takes an unmoderated model output, reverse-infers the prompt that generated it, and runs it through safety filters.",
+      "It translates outputs into multiple foreign languages until a syntax error occurs.",
+      "It automatically rejects any prompt containing more words than the model's maximum context window.",
+      "It re-encrypts the LLM's weights after every user interaction."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "AI Policies, Regulations, AGI - Part 3: \"the back translation defense would try to infer the prompt from this being an output\" and then moderate it.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following are principles of Responsible AI (RAI)? (Select all that apply.)",
+     "options": [
+      "Fairness",
+      "Explainability",
+      "AI Autonomy",
+      "Accountability",
+      "Fast Deployment",
+      "Privacy"
+     ],
+     "answer": [
+      0,
+      1,
+      3,
+      5
+     ],
+     "explanation": "Fairness, explainability, accountability and privacy are the RAI principles (the panel lists \"fairness equality accountability\"); AI autonomy and fast deployment are not.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "According to the Fairness Tree Framework, which fairness metric is recommended when interventions are punitive and you are most concerned with ensuring predictive equity among people for whom intervention is taken?",
+     "options": [
+      "FN/GS Parity",
+      "FP/GS Pairty",
+      "FDR Parity",
+      "FPR Parity"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Aequitas fairness tree (Ghani/CMU): punitive intervention, with concern for the people for whom the intervention is taken -> FDR parity. FPR parity is for people for whom intervention is not warranted.",
+     "verified": "reasoning"
+    },
+    {
+     "q": "According to the systems approach framework for AI design and development, what action immediately follows the step of analyzing the root causes of bias?",
+     "options": [
+      "Measure and detect the bias",
+      "Mitigate the impact through adjusting interventions",
+      "Monitor & Evaluate",
+      "Improve fairness of AI systems"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Rayid Ghani's fairness deck (the CMU material the W9 speakers drew on; the slides are not shown in the course videos): Understand (root causes of bias) is followed directly by Improve (fairness of AI systems), then Mitigate, then Monitor & Evaluate.",
+     "verified": "reasoning"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 10,
+   "source": "https://www.youtube.com/watch?v=qgCLWDdVNGc, https://www.youtube.com/watch?v=nAdhdk9xa2c, https://www.youtube.com/watch?v=waqMbpZ9D44, https://www.youtube.com/watch?v=TF6rbJU85UU",
+   "questions": [
+    {
+     "q": "According to the lecture, why is black-box access considered insufficient for conducting rigorous AI auditing? (multiple-select: checkboxes)",
+     "options": [
+      "It restricts evaluation to only the utilization of computation.",
+      "It focuses only on the final outputs rather than the internal mechanisms.",
+      "It fails to reveal underlying problematic model behaviour.",
+      "It requires the auditors to retrain the underlying weights from scratch."
+     ],
+     "answer": [
+      1,
+      2
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: black-box audits may fail \"to identify and surface the problematic behavior\"; deeper (internal) access is needed.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does \"goal misgeneralization\" differ from \"reward hacking\"?",
+     "options": [
+      "The agent pursues a different goal that is merely correlated with the true reward function.",
+      "The agent continuously optimizes an imperfect proxy goal, worsening the outcomes.",
+      "The agent actively manipulates its own code to rewrite the target goal.",
+      "The agent randomly pursues a completely new, unpredictable behvaiour is deployment."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: goal misgeneralization \"ends up optimizing a different reward function because it was ... really correlated with the true reward function\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following characteristics of highly agentic AI systems could introduce severe safety concerns beyond those of current language models?",
+     "options": [
+      "High parameter count and dense multi-head attention.",
+      "Increased speed of token generation in text.",
+      "Exploding context window expansion.",
+      "Direct interaction with external digital infrastructure."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: safety concerns become more severe with agentic systems \"plugged into ... infrastructure\", given tools and more data.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Why are benchmarks insufficient for assessing dangerous capabilities in current models?",
+     "options": [
+      "Benchmarks fail to capture emergent behaviours in a tool-based environment.",
+      "Benchmarks require white-box parameter access to accurately test models.",
+      "Benchmarks are only able to accurately assess image models and not language models.",
+      "Benchmarks cannot measure basic mathematical computation accuracy."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: \"you don't really know what a system can do when you combine it with other systems ... give it access to more tools\"; benchmarks are narrow.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Instead of relying on third-party audits, what alternative approach can developers use to demonstrate that a model is safe before deployment?",
+     "options": [
+      "Deploying models in restricted sandbox environments to observe failure cases.",
+      "Releasing the complete source code and model weights to the public.",
+      "Providing a positive case demonstrating that the system is safe.",
+      "Mandating that all training be physically monitored by the public."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: \"affirmative safety and safety cases ... we want developers to actually be making a positive [case] ... to show that they are safe\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is a systemic risk about highly capable, personalized AI assistants that adapt to a user's habits?",
+     "options": [
+      "They will overwrite local user data to optimize their performance.",
+      "They will frequently hallucinate and fabricate sensitive personal information or memories.",
+      "They put dangerous amounts of private information in the hands of a few big companies.",
+      "They require localized hardware upgrades that need to be funded by the user."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: personal assistants that adapt to work habits put \"knowledge ... in the hands of these big companies ... dangerous amount of power\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, why is training models on copyrighted data not constitute \"transformative fair use\"?",
+     "options": [
+      "The models fail to provide accurate citations for the generated content.",
+      "The resulting model directly competes economically with the creators.",
+      "The generated outputs are legally indistinguishable from the copyrighted data.",
+      "The training process stores exact copies of the original works."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: \"one of the important criteria for ... fair use is that you aren't directly competing with the creators of the copyright data\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, why might single-nation AI regulations fail to prevent the deployment of dangerous AI systems?",
+     "options": [
+      "National regulators lack the technical tools needed to monitor large computing data centers within their own borders.",
+      "Individual nations may have the need to bypass regulations and build dangerous AI systems anyways.",
+      "International copyright laws prevent individual countries from enforcing safety standards on foreign models.",
+      "Private AI companies can legally overturn single-nation safety laws in international judicial systems."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 1: nations and companies \"will still ... use them to pursue selfish and short-term objectives ... to survive as a nation\"; coordination is the problem.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which mechanism explains why safety fine-tuning may fail to eliminate deep-seated societal biases in LLMs?",
+     "options": [
+      "Catastrophic learning episodes",
+      "Superficial behaviour alignment",
+      "Inference latency optimization",
+      "Data scaling bottlenecks"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 2: \"safety fine-tuning ... it's really superficial\"; models keep biases \"deep down\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Why is it dangerous for AI systems to be optimized for user persuasiveness?",
+     "options": [
+      "It requires continuous access to quantum compute.",
+      "It degrades latency during multi-turn dialogue.",
+      "It creates incentives to manipulate human intent.",
+      "It prevents models from processing implicit or indirect input cues"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 2: \"don't build systems in a way that they have the incentive to manipulate people\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Why is it better to have upstream regulation for companies developing AI systems and hardware than having downstream regulation on the people using the AI systems?",
+     "options": [
+      "Developers are completely free of standard regulations.",
+      "Developers lack any technical control over baseline models.",
+      "Users control the underlying training data pipeline.",
+      "Users face high market pressure to adopt AI systems."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 2: governing users \"puts way too much onus on the user ... really hard to resist using AI systems because they provide such a ... competitive advantage\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, why is cross-modal capability considered to be a characteristic of Artificial General Intelligence (AGI)?",
+     "options": [
+      "Text processing requires higher computational memory.",
+      "Multimodal models eliminate risks of hallucinations in the outputs.",
+      "Language models cannot represent abstract reasoning.",
+      "Excluding human modalities creates a gap in real-world understanding."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "AI Policies, AGI with Prof. David Krueger - Part 2: \"if you have a system that can't process certain data modalities that humans are able to process then that's a qualitative cognitive deficit ... not AGI\".",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 11,
+   "source": "https://www.youtube.com/watch?v=CiWWrbXEX5E, https://www.youtube.com/watch?v=RYDRH3iNjzw, https://www.youtube.com/watch?v=M43GSwgbsGU, https://www.youtube.com/watch?v=iC-EfjQRgJw",
+   "questions": [
+    {
+     "q": "In the context of data privacy, which right requires companies to delete user data when requested?",
+     "options": [
+      "Right to intellectual property retention",
+      "Right to be forgotten",
+      "Right to data portability",
+      "Right to transparency"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "AI Governance: \"right to be forgotten ... the company should be able to delete in a certain period of time\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which OECD AI Principle states that AI systems should operate safely and function properly under normal use, misuse, or adverse conditions?",
+     "options": [
+      "Inclusive growth, sustainable development and well-being",
+      "Transparency and explainability",
+      "Robustness, security, and safety",
+      "Accountability"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Governance: robustness, security and safety: systems should function appropriately \"in conditions of normal use, foreseeable use or misuse or other adverse conditions\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Under the EU AI Act, which application category is classified as an 'unacceptable risk'? (Select all that apply.)",
+     "options": [
+      "Social Scoring Systems",
+      "Critical Infrastructure Management",
+      "Law Enforcement",
+      "Cognitive Behavioural Manipulation"
+     ],
+     "answer": [
+      0,
+      3
+     ],
+     "explanation": "AI Governance: unacceptable risk = cognitive behavioural manipulation, social scoring, biometric ID. Critical infrastructure and law enforcement are listed as high risk.",
+     "verified": "lecture"
+    },
+    {
+     "q": "When a system like an email spam server filters out malicious messages in the background without requiring user intervention, which type of threat mitigation is it demonstrating?",
+     "options": [
+      "Educating and training users",
+      "Providing interface-level threat warnings",
+      "Silently eliminating the threat",
+      "Enforcing legal regulations"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "AI Governance: \"silently eliminating the threat ... One technical side could be email spam server\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "What specific transparency requirement does the EU AI Act impose on deepfakes or generated media?",
+     "options": [
+      "They must be exclusively hosted on European-based servers.",
+      "They must be clearly labeled as AI-generated.",
+      "They must not be published on the internet at all.",
+      "They must be heavily taxed before distribution."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "AI Governance: AI-generated or modified images/audio/video \"need to be clearly labeled as AI generated\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the AI Value Chain, who is considered the \"deployer\"?",
+     "options": [
+      "The person or organization that uses the AI systems under its own authority.",
+      "The original engineering team that built the AI model.",
+      "The individual who imports the AI system into the EU market.",
+      "The government official responsible for writing the regulations."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "AI Governance: \"deployer: persons that uses the systems under its authority\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "To satisfy the OECD principle of \"accountability,\" AI actors should ensure \"traceability\" throughout the system's lifecycle. What does this specifically help achieve?",
+     "options": [
+      "It allows companies to track user information that can lead to their location, such as IP addresses.",
+      "It ensures one can trace back how data was collected and how it influences decision-making.",
+      "It guarantees the system uses minimal computing power and has a low carbon footprint.",
+      "It allows the AI to completely wipe its training period after a set period."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "AI Governance: traceability: \"one can trace back to the point of how the data was collected, how the data is helping to make the choice\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the SaGE framework, how is semantic inconsistency functionally defined?",
+     "options": [
+      "Failing to identify commonsense reasoning violations within a single prompt.",
+      "Generating factually incorrect statements in response to a factual prompt.",
+      "Utilizing grammatically disparate structures to answer identical prompts.",
+      "Providing semantically disparate answers to semantically equivalent prompts."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Research Overview: SaGE: \"semantically equivalent questions should yield semantically equivalent answers\"; LLMs give contradictory answers to paraphrased questions.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the SaGE framework, what does a higher semantic graph entropy indicate about the LLM?",
+     "options": [
+      "The model is exhibiting higher semantic consistency.",
+      "The model is exhibiting higher semantic inconsistency.",
+      "The model is exhibiting lower syntactic divergence.",
+      "The model is exhibiting lower fundamental judgment."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Research Overview: SaGE: \"more entropy in the graph ... your answers are inconsistent\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "A developer attempts to reduce an LLM's tendency to give contradictory answers to moral questions by lowering the generation temperature. Based on SaGE, what is the expected outcome?",
+     "options": [
+      "The consistency score will improve to near perfection.",
+      "The consistency score will perfectly match human scores.",
+      "The consistency score will drop to near zero.",
+      "The consistency score will remain largely unaffected."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Research Overview: SaGE: across temperatures the scores \"do not really change beyond a point ... consistency is not really a property of temperature\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the SaGE framework, how does an LLM's accuracy on standard commonsense reasoning benchmarks correlate with its moral consistency?",
+     "options": [
+      "Accuracy negatively correlates with consistency.",
+      "Accuracy does not correlate with consistency.",
+      "Accuracy strictly correlates with consistency.",
+      "Accuracy conditionally correlates with consistency."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Research Overview: SaGE: \"the accuracy of a benchmark does not correlate with its consistency at all\".",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 12,
+   "source": "https://www.youtube.com/watch?v=FD4Ptu1qDQY, https://www.youtube.com/watch?v=AQsMnIQTdgQ, https://www.youtube.com/watch?v=UwjObFcBaSE, https://www.youtube.com/watch?v=tlpgooDKgoY",
+   "questions": [
+    {
+     "q": "What does a 'guarded' attribute mean in a language model's representation space?",
+     "options": [
+      "The attribute can only be classified by specific linear probes.",
+      "The attribute requires non-linear transformations to be classified.",
+      "The attribute is heavily emphasized during the initial pre-training process.",
+      "The attribute is entirely impossible to classify based on the representation."
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Research Overview: Representation Surgery: guardedness = \"you cannot draw a classifier on the representations ... to classify this attribute Z\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the primary objective of modifying vectors from one distribution (e.g., toxic to non-toxic) to look like another?",
+     "options": [
+      "To increase the computational cost of generating toxic content.",
+      "To guard an attribute with the smallest possible change to unrelated semantics.",
+      "To fundamentally alter the underlying vocabulary of the model.",
+      "To completely randomize the vector outputs of specific trigger tokens."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Research Overview: Representation Surgery: make toxic vectors look non-toxic \"with the smallest change possible ... to preserve all semantics that is unrelated to Z\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to the lecture, what is the implication behind using Affine Steering?",
+     "options": [
+      "It is a no-gradient and cheap way to control model generation.",
+      "It fine-tunes the model to effectively remove bias using minimal training data.",
+      "It is a highly interpretable, gradient-based optimization method.",
+      "It depends heavily on reinforcement learning and human feedback."
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Research Overview: Representation Surgery: \"we get a no gradient way to cheaply control the generation from the language model\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does the size of a conventional cell complex scale as the size of the graph increases?",
+     "options": [
+      "It scales inversely with respect to graph size.",
+      "It scales quadratically with respect to graph size.",
+      "It scales logarithmically with respect to graph size.",
+      "It scales linearly with respect to graph size."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Research Overview: Higher Order Structures for Graph Explanations: \"the size of a conventional cell complex will scale quadratically as the size of the graph increases\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "In the molecule toxicity detection task, why might a standard Graph Neural Network Explainer fail to identify the correct explanation?",
+     "options": [
+      "It removes all nodes that have a high edge degree.",
+      "It processes node features too slowly for a chemical dataset.",
+      "It cannot capture specific multi-node groupwise interactions.",
+      "It assigns zero weight to all the chemical bonds by default."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Research Overview: Higher Order Structures for Graph Explanations: the benzene ring is a group interaction that a GNN treats as separate pairwise edges; GNNExplainer gets only two ring nodes right.",
+     "verified": "lecture"
+    },
+    {
+     "q": "How does FORGE reduce the computational complexity of the cell complex to a linear scale?",
+     "options": [
+      "By randomly sampling only 10% of the original graph edges.",
+      "By strategically removing specific types of boundary relations.",
+      "By completely deleting all nodes with a degree higher than a threshold degree.",
+      "By executing the explainer algorithm on highly compressed latent space."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Research Overview: Higher Order Structures for Graph Explanations: \"if we strategically generate or strategically add the boundary edges we can bring this ... down to linear\" (dropping 1-cell to 1-cell and 2-cell to 2-cell relations).",
+     "verified": "lecture"
+    },
+    {
+     "q": "How are cycles structurally represented in the cell complex?",
+     "options": [
+      "They are represented as 0-cells.",
+      "They are represented as 1-cells.",
+      "They are represented as 2-cells.",
+      "They are represented as 3-cells."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Research Overview: Higher Order Structures for Graph Explanations slide: \"Cycles are 2-cells, which are connected to all edges that make up that cycle\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following are examples of graph explainers? (Select all that apply.)",
+     "options": [
+      "Predicting the next token in a language model",
+      "Toxicity detection of molecules",
+      "Affine concept erasure",
+      "Drug prediction",
+      "Fraud detection"
+     ],
+     "answer": [
+      1,
+      3,
+      4
+     ],
+     "explanation": "Research Overview: Higher Order Structures for Graph Explanations: graph applications listed include molecules for drug/property prediction (toxicity) and transaction networks for fraud detection.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following methods benefits the most from the FORGE framework?",
+     "options": [
+      "Attention-based methods",
+      "Surrogate-based methods",
+      "Gradient-based methods",
+      "Perturbation-based methods"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Research Overview: Higher Order Structures for Graph Explanations: \"perturbation based methods which are GNNExplainer and SubgraphX ... benefit the most from our framework\".",
+     "verified": "lecture"
+    },
+    {
+     "q": "Based on the mathematical definitions of cell complexes presented in the FORGE slides, which of the following statements are correct? (Select all that apply.)",
+     "options": [
+      "A 0-cell corresponds to a vertex, while a 1-cell corresponds to an edge in traditional graphs.",
+      "The 1-skeleton X^(1) of a cell complex consists exclusively of 1-dimensional cells.",
+      "Vertical boundary relations connect two cells of the same dimension that share a common boundary.",
+      "Boundary relations in the framework are restricted to be undirected, meaning σ_{c1,c2} = σ_{c2,c1}.",
+      "A p-cell c^(p) is considered a face or boundary of a (p+1)-cell c^(p+1) if the set of points composing c^(p) is a subset of those composing c^(p+1)."
+     ],
+     "answer": [
+      0,
+      3,
+      4
+     ],
+     "explanation": "Research Overview: Higher Order Structures for Graph Explanations slides (Def 3.4/3.5): the p-skeleton has cells \"of dimension at most p\"; \"horizontal\" relations join same-dimension cells and \"vertical\" ones join different dimensions; \"we further restrict the boundary relations to be undirected\". The face/boundary definition matches statement 5.",
+     "verified": "lecture"
+    }
+   ]
+  }
+ ]
+}

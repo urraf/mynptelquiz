@@ -1,11 +1,12 @@
 # NPTEL Quiz Bench
 
-Practice sites for the weekly assignment questions of two NPTEL courses (IIT Kharagpur):
+Practice sites for the weekly assignment questions of three NPTEL courses:
 
 | Page | Course | Questions |
 |---|---|---|
 | [index.html](index.html) | Introduction to Industry 4.0 and Industrial Internet of Things (Prof. Sudip Misra) | 1,582 from 2022–2026 |
 | [psychology-of-learning.html](psychology-of-learning.html) | Psychology of Learning (Prof. Atasi Mohanty) | 478 from 2023–2026 |
+| [responsible-safe-ai.html](responsible-safe-ai.html) | Responsible & Safe AI Systems (Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar) | 464 from 2024–2026 |
 
 Open either file in a browser. No server or internet connection is needed.
 
@@ -16,14 +17,15 @@ Open either file in a browser. No server or internet connection is needed.
 - "Must know" and "Repeated" badges on questions asked in more than one run
 - A mistakes list that keeps the questions you got wrong until you answer them right
 - A "Next week" button at the end of each weekly set
+- Typed answers for numeric questions
 
 ## About the answers
 
-The questions come from public answer-key sites and screen recordings of the assignments. Every answer was then checked against the lecture transcripts and slides. Answers marked "Checked against lecture" are confirmed by the lecture. The few marked "Check this answer" are still uncertain. This is not NPTEL's official answer key.
+The questions come from public answer-key sites and screen recordings of the assignments. Every answer was then checked against the lecture transcripts and slides. Answers marked "NPTEL accepted answer" come from NPTEL's own answer screens, and answers marked "Checked against lecture" are confirmed by the lecture. The few marked "Check this answer" are still uncertain. This is not NPTEL's official answer key.
 
 ## Editing
 
-Question data lives in `data/` (IIoT) and `data-psych/` (Psychology), one JSON file per year. After changing it, rebuild both pages:
+Question data lives in `data/` (IIoT), `data-psych/` (Psychology) and `data-rsai/` (Responsible AI). After changing it, rebuild the pages:
 
 ```
 python3 build.py
