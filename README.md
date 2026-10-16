@@ -8,7 +8,7 @@ Practice sites for the weekly assignment questions of three NPTEL courses:
 | [psychology-of-learning.html](psychology-of-learning.html) | Psychology of Learning (Prof. Atasi Mohanty) | 478 from 2023–2026 |
 | [responsible-safe-ai.html](responsible-safe-ai.html) | Responsible & Safe AI Systems (Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar) | 464 from 2024–2026 |
 
-Open either file in a browser. No server or internet connection is needed.
+Open any of these files in a browser. No server or internet connection is needed.
 
 ## Features
 
