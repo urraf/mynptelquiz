@@ -1,0 +1,1720 @@
+{
+ "sets": [
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 0,
+   "source": "https://www.youtube.com/watch?v=Dbpcg5CyVzc, https://www.youtube.com/watch?v=8C2zvkanSq4 (Accepted Answers); https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores)",
+   "questions": [
+    {
+     "q": "Which of the following is NOT a social network?",
+     "options": [
+      "Facebook",
+      "Koo",
+      "Naukri",
+      "LinkedIn"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "StackOverflow and Quora belong to which class of online networks?",
+     "options": [
+      "Discussion forums and Community-based Question Answering",
+      "Bookmarking and content curation networks",
+      "Consumer review networks",
+      "Blogging and publishing networks"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is the verified twitter handle of Bengaluru City Police?",
+     "options": [
+      "@BlrCityPolice",
+      "@blrcp",
+      "@bangalore_police",
+      "@bengaluru_police"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following Twitter handle likely belongs to a bot account (i.e. likely a fake account)?",
+     "options": [
+      "@DelhiPolice",
+      "@delhipolice1",
+      "@hydcitypolice",
+      "@Navimumpolice"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Visit Dr. Ponnurangum Kumaraguru’s twitter profile ( https://twitter.com/ponguru ). When did he join twitter?",
+     "options": [
+      "September 2009",
+      "January 2010",
+      "October 2009",
+      "August 2009"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Trending is a feature of which of the following networks?",
+     "options": [
+      "Twitter",
+      "Facebook",
+      "Youtube",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is a Facebook feature?",
+     "options": [
+      "Charity Donations",
+      "Groups",
+      "Pages",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following are anonymous networks?",
+     "options": [
+      "Whisper",
+      "Blind",
+      "4chan",
+      "Indeed"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "When a person blocks someone on Facebook, the other party gets a notification.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Orkut was owned by:",
+     "options": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Uber"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 1,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=Z9wWeySGJDo, https://www.youtube.com/watch?v=c0qRF9gSm1Q, https://www.youtube.com/watch?v=YCBlDETKfVI, https://www.youtube.com/watch?v=ECbEzizw36s",
+   "questions": [
+    {
+     "q": "Which sequence correctly hosts a local Git repository on GitHub?",
+     "options": [
+      "git push origin master → git remote -v → git remote add origin ...",
+      "git remote add origin ... → git remote -v → git push origin master",
+      "git remote -v → git clone → git push",
+      "git clone → git remote add → git status"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following statement(s) is/are true about Anonymous social networks?",
+     "options": [
+      "Anonymous social networks help in providing enhanced privacy and anonymity.",
+      "Anonymous social networks provide more freedom of expression.",
+      "Anonymous social networks reduce the fear of judgment or social consequences.",
+      "None of the above"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Choose the correct option to create a virtual environment in Python",
+     "options": [
+      "python3 -m venv",
+      "python3 venv -m",
+      "virtualpython3 -m venv",
+      "virtualenv python3 -m venv myenv"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Why is it important to create a virtual environment in Python?",
+     "options": [
+      "Creating a virtual environment isolates project dependencies and prevents conflicts between different projects.",
+      "Creating a virtual environment enhances the performance of Python programs.",
+      "Creating a virtual environment to ensure compatibility with different operating systems.",
+      "Creating a virtual environment optimises memory usage in Python applications."
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Fill in the correct option to stage files/directories. [Figure: Git file lifecycle with columns Untracked | (a) | (b) | Staged; 'Add the file' goes Untracked→Staged, 'Edit the file' goes (a)→(b), 'Stage the file' goes (b)→Staged, 'Remove the file' goes (a)→Untracked, 'Commit' goes Staged→(a).] (a) and (b) are respectively:",
+     "options": [
+      "Modified, Unmodified",
+      "Unmodified, modified",
+      "modified, unstaged",
+      "Modified, tracked"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which command lists all the remote addresses associated with a local repository?",
+     "options": [
+      "git remote -v",
+      "git pull origin master",
+      "Git stash",
+      "Git checkout"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following concept is closely related to the fact that infrequent, arms-length relationships are more beneficial for employment opportunities, promotions, and wages than strong ties?",
+     "options": [
+      "Six degrees of separation",
+      "Small world phenomenon",
+      "Strength of weak ties",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is/are shortcomings of online social media platforms?",
+     "options": [
+      "Spread of misinformation",
+      "Cyberbullying and harassment",
+      "Addiction and time consumption",
+      "limited control over privacy"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "When a piece of content, such as a video, meme, or news article, gains attention on social media platforms, it can quickly reach a large audience within a short period. Which V of social media does it refers to?",
+     "options": [
+      "Velocity",
+      "Veracity",
+      "Value",
+      "Volume"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is the primary purpose of the Gab platform?",
+     "options": [
+      "To promote free speech",
+      "To facilitate online shopping experience",
+      "It provides educational resources",
+      "Support for professional networking"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 2,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=GgXENczXktA, https://www.youtube.com/watch?v=XdebM8MKPxE, https://www.youtube.com/watch?v=oxTgYTIBmQg",
+   "questions": [
+    {
+     "q": "What is the primary data format utilized by the Reddit API when returning information?",
+     "options": [
+      "JSON",
+      "XML",
+      "HTML",
+      "CSV"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "JSON stands",
+     "options": [
+      "JavaScript Object Notation",
+      "JavaScript Object Network",
+      "JavaScript Oriented Notation",
+      "JavaScript Oriented Namespace"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Suppose you want to retrieve the top 5 hottest posts from the subreddit \"r/technology\" using the Reddit API. Which Python library would you most likely use to achieve this?",
+     "options": [
+      "PRAW",
+      "Requests",
+      "Urllib",
+      "JSON"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "You want to fetch the details of the 10 hot posts from the subreddit \"r/worldnews\" using the Reddit API in Python. Which is the correct code snippet from below options?",
+     "options": [
+      "import praw reddit = praw.Reddit(client_id='MY_CLIENT_ID', client_secret='MY_CLIENT_SECRET', user_agent='MY_USER_AGENT') posts = reddit.subreddit('worldnews').hot(limit=10) for post in posts: print(post.title)",
+      "import requests url = \"https://www.reddit.com/r/worldnews/new.json?limit=10\" response = requests.get(url) data = response.json() for post in data['data']['children']: print(post['data']['title'])",
+      "import praw reddit = praw.Reddit(client_id='MY_CLIENT_ID', client_secret='MY_CLIENT_SECRET', user_agent='MY_USER_AGENT') posts = reddit.subreddit('worldnews').new(limit=10) for post in posts: print(post.title)",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following tweet content falls in category of linguistic features?",
+     "options": [
+      "Number of followers",
+      "Presence of negative emotion words",
+      "Presence of smiley",
+      "Presence of pronouns"
+     ],
+     "answer": [
+      1,
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Why do we do network analysis on social media platforms?",
+     "options": [
+      "To analyze the performance of computer networks and improve data transmission speeds.",
+      "To understand the social structures and relationships between individuals or entities in a network.",
+      "To study the behavior of network protocols and optimize their efficiency.",
+      "To identify and analyze patterns of diseases spreading within a population."
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is a recent example of misinformation spread on social media platforms?",
+     "options": [
+      "Tweet claiming that a particular brand of COVID-19 vaccine causes severe side effects, with no evidence to support the claim.",
+      "Facebook post sharing information from a well-known health organization about the effectiveness of vaccination.",
+      "Instagram story containing accurate information about a recent political development with credible sources cited.",
+      "YouTube video providing a detailed explanation of climate change supported by scientific evidence."
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Given a MongoDB collection named \"employees\" with the following document structure: { \"_id\": ObjectId(\"615243d88f0ae43f255874c1\"), \"name\": \"Ram\", \"department\": \"CSE\", \"age\": 35, \"salary\": 50000 } What MongoDB query would you use to retrieve all employees with a salary greater than or equal to 60000?",
+     "options": [
+      "db.employees.find({ \"salary\": { $gte: 60000 } })",
+      "db.employees.find({ \"salary\": { $gt: 60000 } })",
+      "db.employees.find({ \"salary\": { $lte: 60000 } })",
+      "db.employees.find({ \"salary\": { $lt: 60000 } })"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "You are developing a social media platform, and you have a database table, \"posts\" to store user posts. The \"posts\" table schema is given below: CREATE TABLE posts ( post_id INT PRIMARY KEY, user_id INT, post_content TEXT, post_date DATETIME ); Now, you want to retrieve the 5 most recent posts made by a specific user with the user ID \"12345\". Which SQL query would you use?",
+     "options": [
+      "SELECT * FROM posts WHERE user_id = 12345 ORDER BY post_date DESC LIMIT 5;",
+      "SELECT * FROM posts WHERE user_id = 12345 ORDER BY post_id DESC LIMIT 5;",
+      "SELECT * FROM posts WHERE user_id = 12345 ORDER BY post_date ASC LIMIT 5;",
+      "SELECT * FROM posts WHERE user_id = 12345 ORDER BY post_id ASC LIMIT 5;"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is the Facebook Graph API as discussed in lecture?",
+     "options": [
+      "An API that provides access to a user's Facebook friends list.",
+      "An API that allows developers to create and manage Facebook pages.",
+      "An API that enables developers to integrate Facebook login into their applications for user authentication.",
+      "An API that provides access to a wide range of user data, interactions, and connections on Facebook."
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 3,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=1Zut8uj1U8c, https://www.youtube.com/watch?v=ls471f2ss38, https://www.youtube.com/watch?v=6g9urqnlvUQ",
+   "questions": [
+    {
+     "q": "Consider the below response: “To this segment, consumer privacy is very important; they feel that they have been victims of privacy invasions, they are pessimistic about the future of privacy protection, and about a third of them favour creating a general federal regulatory agency on consumer privacy.” To which of the three Westin Privacy categories is \"they\" in the above sentence most likely to fall?",
+     "options": [
+      "Fundamentalists",
+      "Pragmatists",
+      "Unconcerned",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following features is used by the credibility model- TweetCred?",
+     "options": [
+      "Tweet links",
+      "Tweet Author",
+      "Tweet network",
+      "Tweet meta data"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Cronbach’s alpha",
+     "options": [
+      "determines the statistical significance of a research study.",
+      "assess the reliability and internal consistency of a questionnaire.",
+      "analyze the effect size of an intervention.",
+      "calculate the standard deviation of a sample population."
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Suppose we have five tweets (TW1, TW2, TW3, TW4, and TW5) with their relevances based on user feedback or relevance labels: TW1: Highly relevant tweet (Relevance = 2) TW2: Moderately relevant tweet (Relevance = 1) TW3: Not relevant tweet (Relevance = 0) TW4: Relevant tweet (Relevance = 1) TW5: Highly relevant tweet (Relevance = 2) Now, let's assume the ranking algorithm generates a ranked list of tweets: Rank 1: TW5 (Highly relevant tweet) Rank 2: TW1 (Highly relevant tweet) Rank 3: TW3 (Not relevant tweet) Rank 4: TW2 (Moderately relevant tweet) Rank 5: TW4 (Relevant tweet) What would be NDCG@5 for this ranked list of tweets?",
+     "options": [
+      "0.5",
+      ".513",
+      ".975",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "DCG@5 = 2/log2(2)+2/log2(3)+0+1/log2(5)+1/log2(6) ≈ 4.08 and IDCG@5 ≈ 4.19, so NDCG ≈ 0.97 (≈0.98 with 2^rel-1 gains). The closest option is .975.",
+     "verified": "official"
+    },
+    {
+     "q": "[Read through the report \"Privacy in India: Attitudes and Awareness V 2.0\" at https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/research/privacyindia/PI_2012_Complete_Report.pdf and answer questions 5-7.] How many participants have changed their default settings on their social network?",
+     "options": [
+      "75%",
+      "60%",
+      "50%",
+      "25%"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Read through the report \"Privacy in India: Attitudes and Awareness V 2.0\" at https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/research/privacyindia/PI_2012_Complete_Report.pdf and answer questions 5-7.] What is the primary purpose of a Focus Group Discussion (FGD) in the above report?",
+     "options": [
+      "To conduct one-on-one interviews with participants.",
+      "To collect quantitative data through surveys and questionnaires.",
+      "To observe participants' behaviours in a controlled environment.",
+      "To facilitate group discussions and gather qualitative insights."
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Read through the report \"Privacy in India: Attitudes and Awareness V 2.0\" at https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/research/privacyindia/PI_2012_Complete_Report.pdf and answer questions 5-7.] “When you hear the word privacy, what comes to mind”. Which is the most common respondent answer according to the above report?",
+     "options": [
+      "Information Privacy",
+      "Bodily privacy",
+      "Communication privacy",
+      "Territorial privacy"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Consider the below graph and choose the correct option:",
+     "options": [
+      "For 82% of the users, the response time was less than 2 seconds, and for 99%, the response time was under 10 seconds.",
+      "For 99% of the users, the response time was less than 6 seconds, and for 100%, the response time was under 10 seconds.",
+      "For 82% of the users, the response time was less than 6 seconds, and for 99%, the response time was under 10 seconds.",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is the Likert scale?",
+     "options": [
+      "rating scale in surveys and questionnaires",
+      "gives the score for any real-time tweets",
+      "Interannotator agreement",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "TweetCred is",
+     "options": [
+      "a real-time web-based system to automatically evaluate the credibility of content on Twitter.",
+      "a real-time app-based system to automatically evaluate the score of tweets on Twitter.",
+      "a real-time app-based system to automatically assess the quality of content on Twitter.",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 4,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=4n-8v0RSbeU, https://www.youtube.com/watch?v=CAEBjLUO1xE, https://www.youtube.com/watch?v=PV1domwIaho",
+   "questions": [
+    {
+     "q": "What is the critical challenge that Latanya Sweeney's research on k-anonymity addresses?",
+     "options": [
+      "make datasets larger for analysis",
+      "eliminate data from datasets",
+      "anonymise data without losing utility",
+      "ignore research utility for better privacy"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Suppose you're working on a project that involves analysing sales data for a chain of stores. You are provided with a list of daily sales figures for a particular product over some time. The task is to calculate various statistics such as the total sales, average sales, and maximum sales for that product. Answer questions 2-4.] Which data structure can significantly enhance the efficiency and simplicity of your calculations?",
+     "options": [
+      "Python numpy list",
+      "Python numpy array",
+      "Python variables",
+      "None of these"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Suppose you're working on a project that involves analysing sales data for a chain of stores. You are provided with a list of daily sales figures for a particular product over some time. The task is to calculate various statistics such as the total sales, average sales, and maximum sales for that product. Answer questions 2-4.] Fill in the correct function calculate_total_sales(sales_list) which calculates the total sales from a list of daily sales figures using NumPy in the below code import numpy as np def calculate_total_sales(sales_list): <<< write your code here >>>> return total_sales daily_sales = [1200, 1500, 1300, 1400, 1800, 1600] total_sales = calculate_total_sales(daily_sales) print(\"Total sales:\", total_sales)",
+     "options": [
+      "sales_array = np.array(sales_list) total_sales = np.sum(sales_array)",
+      "sales_array = np.list(sales_list) total_sales = np.sum(sales_array)",
+      "sales_array = np.array(sales_list) total_sales = np.sum(np.concatenate(sales_array,sales_list))",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Suppose you're working on a project that involves analysing sales data for a chain of stores. You are provided with a list of daily sales figures for a particular product over some time. The task is to calculate various statistics such as the total sales, average sales, and maximum sales for that product. Answer questions 2-4.] Fill in the correct function calculate_maximum_sales(sales_list) which calculates the maximum sales from a list of daily sales figures using NumPy in the below code import numpy as np def calculate_maximum_sales(sales_list): << >>>> return max_sales daily_sales = [1200, 1500, 1300, 1400, 1800, 1600] maximum_sales = calculate_maximum_sales(daily_sales) print(\"Maximum sales:\", maximum_sales)",
+     "options": [
+      "sales_array = np.array(sales_list) max_sales = np.max(sales_array)",
+      "sales_array = np.list(sales_list) max_sales = np.max(sales_array)",
+      "sales_array = np.array(sales_list) max_sales = np.max(np.concatenate(sales_array,sales_list))",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Imagine you have a NumPy array representing your monthly expenses for the past year. Each array element corresponds to the total expenses (in dollars) for a specific month. expenses_array = np.array([1200, 1500, 1300, 1400, 1800, 1600, 1400, 1250, 1350, 1500, 1700, 1900]). Answer questions 5-7.] How would you extract expenses for the second half of the year (July to December)?",
+     "options": [
+      "second_half_expenses = expenses_array[6:]",
+      "second_half_expenses = expenses_array[5:]",
+      "second_half_expenses = expenses_array[:12]",
+      "second_half_expenses = expenses_array[7:]"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Imagine you have a NumPy array representing your monthly expenses for the past year. Each array element corresponds to the total expenses (in dollars) for a specific month. expenses_array = np.array([1200, 1500, 1300, 1400, 1800, 1600, 1400, 1250, 1350, 1500, 1700, 1900]). Answer questions 5-7.] Identify the months where expenses exceeded $1600.",
+     "options": [
+      "high_expense_months = np.where(expenses_array < 1600)[0]",
+      "high_expense_months = np.where(expenses_array > 1600)[0]",
+      "high_expense_months = np.where(expenses_array > 1600))",
+      "high_expense_months = np.where(expenses_array > 1600)[0] + 1"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Imagine you have a NumPy array representing your monthly expenses for the past year. Each array element corresponds to the total expenses (in dollars) for a specific month. expenses_array = np.array([1200, 1500, 1300, 1400, 1800, 1600, 1400, 1250, 1350, 1500, 1700, 1900]). Answer questions 5-7.] Calculate the average expenses for the first quarter of year.",
+     "options": [
+      "first_quarter_average = np.mean(expenses_array[:4])",
+      "first_quarter_average = np.mean(expenses_array[:2])",
+      "first_quarter_average = np.mean(expenses_array[:3])",
+      "first_quarter_average = np.mean(expenses_array[:6])"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Choose the correct option for “result” import pandas as pd data = { 'Product': ['A', 'B', 'A', 'B', 'C', 'A', 'C', 'B', 'C', 'A'], 'Category': ['Electronics', 'Clothing', 'Electronics','Clothing', 'Home', 'Electronics', 'Home', 'Clothing', 'Home', 'Electronics'], 'Price': [500, 40, 600, 35, 100, 550, 80, 30, 90, 480] } sales_df = pd.DataFrame(data) grouped = sales_df.groupby('Category') result = grouped.agg({ 'Price': ['sum', 'mean'] }).reset_index() # Rename the columns result.columns = ['Category', 'Total Revenue', 'Average Price'] print(result)",
+     "options": [
+      "Table: Category/Total Revenue/Average Price = clothing 105 35.00; electronics 1630 543.33; home 270 90.00",
+      "Table: clothing 1630 35.00; electronics 105 543.33; home 270 90.00",
+      "Table: clothing 105 35.00; electronics 270 90.00; home 1630 543.33",
+      "None of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "The real output is Clothing 105 35.00, Electronics 1630 543.33, Home 270 90.00. Option a has these numbers but writes the categories in lowercase, and NPTEL accepted 'None of the above'.",
+     "verified": "official"
+    },
+    {
+     "q": "What is the primary goal of k-anonymity in data privacy?",
+     "options": [
+      "Ensure that every attribute in the dataset is unique.",
+      "Prevent unauthorised access to the dataset.",
+      "Minimize the amount of data collected.",
+      "Making it difficult to link specific individuals to their records."
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What will be the output of the below code: import numpy as np import matplotlib.pyplot as plt time = np.linspace(0, 2 * np.pi, 1000) amplitude = 1.0 frequency = 1.0 sine_wave = amplitude * np.sin(frequency * time) plt.figure(figsize=(8, 6)) plt.plot(time, sine_wave, label='Sine Wave', color='blue') plt.title('Sine Wave') plt.xlabel('Time') plt.ylabel('Amplitude') plt.legend() plt.grid(True) plt.show()",
+     "options": [
+      "A plot consisting of sine wave",
+      "A plot consisting of cosine wave",
+      "Logical error in code",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 5,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=1SlqLMbL54g, https://www.youtube.com/watch?v=r5QCyL1dRdE, https://www.youtube.com/watch?v=9mM9gsDv9Gs",
+   "questions": [
+    {
+     "q": "How do Online Social Networks improve public Communication between police and residents?",
+     "options": [
+      "provide actionable information and collective action",
+      "provide mutual accountability",
+      "understand fear and victimisation effects",
+      "help to contact concerned authorities"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "explanation": "A submission with the first three options scored 0.75, so NPTEL's key has all four options.",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following are examples of actionable information?",
+     "options": [
+      "OSN post regarding traffic issues on the road",
+      "OSN post regarding open potholes on the road",
+      "OSN post sharing about Azaadi ka Amrit Mahotsav celebrations in the locality",
+      "None of the above"
+     ],
+     "answer": [
+      0,
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What type of actionable information is highlighted in (bold) the below example? [Example: \"Saturday evening. “Time – between 5.30 pm and 6pm. Location: The circle between Freedom Park and the route that goes into Cubbon Park, towards Century Club. Not a single police posted here...\" – the bold parts are 'Saturday evening' and 'Time – between 5.30 pm and 6pm'.]",
+     "options": [
+      "Temporal data",
+      "Spatial data",
+      "Linguistic data",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Given below are two types of communication as discussed in the lecture. [1: \"Dear Sir, Request to take action on Railway Station parking contractors they are not issuing parking slips . . . today @Yashwantpur Railway Station Tumkur Roadside Entrance Parking.\" 2: \"Kudos to the Banasawadi Traffic Police Team. My Salute and sincere thanks to the Banasawadi Traffic Inspector XXX. . . . An ANGEL in disguise\"]",
+     "options": [
+      "Formal and Formal",
+      "Informal and Formal",
+      "Informal and Informal",
+      "Formal and Informal"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "How would you identify emotional and psychological states based on the written text?",
+     "options": [
+      "LIWC",
+      "K-means clustering",
+      "N-gram analysis",
+      "All of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Consider a sentence \"ISRO launched Chandrayaan and conducted experiments on thermophysical properties and environment\". What is the thematic content and subject matter being discussed?",
+     "options": [
+      "The linguistic diversity of the sentence.",
+      "The emotional tone is conveyed in the sentence.",
+      "The grammatical structure of the sentence.",
+      "The activities and research conducted by ISRO."
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What does an “n” represent in the n-gram analysis of a sentence?",
+     "options": [
+      "The number of emotions in the analysis.",
+      "The number of words in each n-gram.",
+      "The number of characters in each n-gram.",
+      "The number of different languages in the sentence."
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "A sentiment analysis study analyses a text passage for valence and arousal values. On a scale of -1 to 1, the valence and arousal score is 0.75 and 0.85. What do these values suggest about the emotional characteristics of the text?",
+     "options": [
+      "Negative sentiment, low emotional intensity",
+      "Positive sentiment, high emotional intensity",
+      "Negative sentiment, high emotional intensity",
+      "Positive sentiment, low emotional intensity"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "A social media analyst is studying the engagement characteristics (likes, comments, and shares) of three different posts on a platform. The engagement counts for each post over a week are as follows: Post 1: 120 likes, 30 comments, 15 shares Post 2: 80 likes, 45 comments, 20 shares Post 3: 100 likes, 25 comments, 10 shares Calculate the mean engagement (average likes, comments, and shares) for each post and then find the standard deviation of engagement for the entire set of posts. Based on the standard deviation, which post shows the highest variability in engagement characteristics?",
+     "options": [
+      "Post 1",
+      "Post 2",
+      "Post 3",
+      "All posts show similar variability."
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What kind of post and sentiment is depicted in the below example? “Absolutely disgusted by the state of our local park! It's been months since we reported the broken playground equipment, and nothing has been done. Our kids deserve better!”",
+     "options": [
+      "Citizen-initiated and positive",
+      "Public authority-initiated and negative",
+      "Citizen-initiated and negative",
+      "Public authority-initiated and positive"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 6,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=7VY2TksCAc8, https://www.youtube.com/watch?v=loBp-IA6Uss, https://www.youtube.com/watch?v=17r8NhqQ52k",
+   "questions": [
+    {
+     "q": "Consider the following scenario on a social network A is friends with B and C. B is friends with A and D. C is friends with A and D. D is friends with B and C. Calculate the betweenness centrality for A, B, C, and D. Identify the individual having the highest betweenness centrality.",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "All of them have the same betweenness centrality"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What does indegree centrality measure in the social media and network analysis context?",
+     "options": [
+      "The level of activity a user has on the platform.",
+      "The number of outgoing connections a user has with other users.",
+      "A user's popularity based on their followers or incoming connections.",
+      "The diversity of content shared by a user."
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What does betweenness centrality depict about the node?",
+     "options": [
+      "One who is quickly approachable",
+      "Who is close to everyone",
+      "One who is most influential",
+      "All of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is link farming?",
+     "options": [
+      "Agricultural practice that involves cultivating crops in a vertical arrangement.",
+      "Rapidly growing links on a website through unethical or manipulative means.",
+      "A strategy for developing social connections by attending networking events.",
+      "All of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Spamming the index of search engines is called",
+     "options": [
+      "Spamdexing",
+      "Spamexing",
+      "Spamming",
+      "None of the above"
+     ],
+     "answer": [
+      0,
+      1
+     ],
+     "explanation": "Selecting only 'Spamdexing' scored 0.5, so the key has two options. Earlier runs' Accepted Answers list both 'Spamdexing' and the misspelling 'Spamexing'.",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is the best example of a clickbait headline?",
+     "options": [
+      "Annual Financial Report 2026",
+      "Meeting Agenda for Today",
+      "You Won't Believe What Happened Next! Click Here to Claim Your Prize!",
+      "Python Programming Notes"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is considered as “social etiquette” on online social media such as Twitter?",
+     "options": [
+      "Following back",
+      "Comment on the post of an influential person",
+      "Giving likes to the post of an influential person",
+      "Saying “Thank you” to any appreciation by an influential person"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "A psychological principle where individuals feel compelled to return favours and interactions they receive is called",
+     "options": [
+      "Spamming",
+      "Reciprocity",
+      "Link farming",
+      "All of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is/are graph centrality measures?",
+     "options": [
+      "Eigen centrality",
+      "Node degree",
+      "Betweenness centrality",
+      "Closeness centrality"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "explanation": "A submission with Eigen, Betweenness and Closeness centrality scored 0.75, so Node degree is also in NPTEL's key (all four).",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following are spam targets? [Figure: spammer S has edges to A and B; A and B are labelled 'spam-targets'; B ('targeted follower') follows S back; C is a 'spam-follower' with an edge to S.]",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "S"
+     ],
+     "answer": [
+      0,
+      1
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 7,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=-hzl29zFNPI, https://www.youtube.com/watch?v=X1PefW_dlJ4, https://www.youtube.com/watch?v=zjqoYb1Yrbw",
+   "questions": [
+    {
+     "q": "Consider the following statement: \"Hello everyone!!!, Are you enjoying psosm course --- and learning new skills.\" Choose the correct code to convert it to unpunctuated string",
+     "options": [
+      "Code A: punctuations = '''!()-[]{};:'\"\\,<>/?@#$%^&*_~''' (no '.'); no_punct = \"\"; for char in my_str: if char not in punctuations: no_punct = no_punct + char",
+      "Code B: punctuations = '''!()[]{};:'\"\\,<>./?@#$%^&*_~'''; no_punct = \"\"; for char in my_str: if char not in punctuations: no_punct = char",
+      "Code C: punctuations = '''!()-[]{};:'\"\\,<>./?@#$%^&*_~'''; no_punct = \"\"; for char in my_str: if char not in punctuations: no_punct = no_punct + char",
+      "None of these"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Code C is the only one that removes '.' too and builds the string up. Code A leaves '.' in, and Code B keeps only the last character.",
+     "verified": "official"
+    },
+    {
+     "q": "Consider the following code: from collections import Counter; x = [2, 1, 3, 4, 5, 2]; token = ['social', 'media', 'nptel', 'nltk', 'python', 'tutorial']; pairs = Counter(dict(zip(token, x))).most_common(2). Which of the following is the correct option?",
+     "options": [
+      "This code is used to retrieve an ascending sorted list having two tuples.",
+      "This code is used to retrieve a descending sorted list having two tuples.",
+      "This code retrieves two tuples in a sorted or unsorted manner.",
+      "This code returns a logical error."
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following are not stopwords in the following list? stopwords = [\"i\", \"me\", \"my\", \"myself\", \"we\", \"our\", \"ours\", \"ourselves\", \"you\", \"your\", \"yours\", \"yourself\", \"yourselves\", \"he\", \"him\", \"his\", \"himself\", \"she\", \"her\", \"hers\", \"herself\", \"it\", \"its\", \"itself\", \"they\", \"them\", \"their\", \"theirs\", \"themselves\", \"what\", \"which\", \"who\", \"whom\", \"this\", \"that\", \"these\", \"those\", \"am\", \"is\", \"are\", \"was\", \"were\", \"be\", \"been\", \"being\", \"have\", \"has\", \"had\", \"having\", \"do\", \"does\", \"did\", \"doing\", “apple”, \"a\", \"an\", \"the\", \"and\", \"but\", \"if\", \"or\", \"because\", \"as\", \"until\", \"while\", \"of\", \"at\", \"by\", \"for\", \"with\", \"about\", \"against\", \"between\", \"into\", \"through\", \"during\", \"before\", \"after\", \"above\", \"below\", \"to\", \"from\", \"up\", \"down\", \"in\", \"out\", \"on\", \"off\", \"over\", \"under\", \"again\", \"further\", \"then\", \"once\", \"here\", \"there\", \"when\", \"where\", \"why\", \"how\", \"all\", \"any\", \"both\", \"each\", \"few\", \"more\", \"most\", \"other\", \"some\", \"such\", \"no\", \"nor\", \"not\", \"only\", \"own\", \"same\", \"so\", \"than\", \"too\", \"very\", \"s\", \"t\", \"can\", \"will\", \"just\", \"don\", \"should\", \"now\"]",
+     "options": [
+      "All of the above are stopwords.",
+      "Further, again, apple",
+      "While, apple",
+      "apple"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which elements in the below sample mail make it potentially phishing email, as discussed in the lecture? [Figure: 'eBay: urgent security notice' email saying the account could be suspended unless account information is re-entered via a link, with a 24-hour suspension threat.]",
+     "options": [
+      "Urgency in subject",
+      "Regrettable information in the body",
+      "Potential phishing link along with body",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is correct statement as discussed in the lecture?",
+     "options": [
+      "Younger participants were more vulnerable to phishing attacks.",
+      "Older participants were more vulnerable to phishing attacks.",
+      "Younger and older participants were equally vulnerable to phishing attacks.",
+      "No one is vulnerable to phishing attacks."
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In a scientific experiment, which group refers to manipulating the independent variable?",
+     "options": [
+      "Observational group",
+      "Comparison group",
+      "Control group",
+      "Experimental group"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is/are the advantages of having privacy policies?",
+     "options": [
+      "To help users make informed decisions with the information that is presented to them",
+      "To help individuals avoid regrettable online disclosures",
+      "Both a and b are correct",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following nudges is depicted in the figure below? [Figure: Facebook status box 'this is a public post' with profile pictures of five audience members and the text 'These people and ANYONE ON THE INTERNET can see your post.']",
+     "options": [
+      "Timer nudge",
+      "Picture nudge",
+      "Sentiment nudge",
+      "All of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "As discussed in the lecture, which of the following is/are not a social media nudge?",
+     "options": [
+      "Timer Nudge",
+      "Picture Nudge",
+      "Sentiment Nudge",
+      "Voice Nudge"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following has the property of having high indegree and high outdegree on online social media?",
+     "options": [
+      "Top Link farmers",
+      "Random social network users",
+      "Top Spammers",
+      "All of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 8,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=qEMSrTynO1A, https://www.youtube.com/watch?v=PxGNdS3PWm4, https://www.youtube.com/watch?v=eIeT2chP4fk",
+   "questions": [
+    {
+     "q": "What are the different approaches to profile linking?",
+     "options": [
+      "Study and analyse common attributes (place of work, profile picture, name, etc.) across different social media platforms",
+      "Check important attributes such as the same emails, locations, and contact numbers (if available) used across multiple platforms",
+      "Only looking at the user posting behaviour on social media platforms will help in profile linking.",
+      "It is not possible to find the same user profiles on different social media platforms."
+     ],
+     "answer": [
+      0,
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following statements is/are true regarding username change on social media? S1: Changes to any profile attribute other than username do not lead to unreachability to the user profile. S2: The potential benign reasons for username change include space gain, suiting a trending event, gaining/losing anonymity, adjusting to real-life events, and avoiding boredom. S3: The malicious intentions for username change may include obscured username promotion and username squatting. S4: Search by the user’s old username results in a failed attempt to reach the user’s profile, potentially making others falsely believe that the user account has been deactivated.",
+     "options": [
+      "Only S1 and S4 are correct",
+      "Only S1, S2, and S3 are correct",
+      "S1, S2, and S4 are correct",
+      "All S1, S2, S3, S4 are correct."
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Below is the graph of username change. Which of the following is correct inference from the graph (as discussed in the lecture)?",
+     "options": [
+      "Around 35 per cent, of the users change their profile picture at least 3 times.",
+      "Around 60-70 percent of the users change their usernames atleast once.",
+      "Around 35 percent of the users change their profile picture 3 times.",
+      "Around 50-55 per cent of users have changed their descriptions thrice."
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Why do whisper users have a low clustering coefficient over the network?",
+     "options": [
+      "Whisper users are likely to interact with complete strangers who are highly unlikely to interact with each other.",
+      "Users interact with a large sample of other users",
+      "New users make 20% of the contribution in the whisper content.",
+      "All of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is the primary purpose of Gephi software?",
+     "options": [
+      "Video Editing",
+      "3D Modeling",
+      "Network Visualization and Analysis",
+      "Music Composition"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Why studying username change behaviour is/are useful for social media researchers?",
+     "options": [
+      "This is one of the unique attributes of the user",
+      "It is usually homogeneous",
+      "The number of characters and length of the username is restricted",
+      "It is the publicly available attribute"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In the network graph of Twitter, where nodes are users, the in-degree of the node would be",
+     "options": [
+      "Number of followers on Twitter",
+      "Number of people you follow",
+      "Both a and b",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is/are anonymous social networks?",
+     "options": [
+      "Secret",
+      "4chan",
+      "Yak yak",
+      "Blind"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "A scale-free network can be one having",
+     "options": [
+      "Power law degree distribution",
+      "Zipf’s law",
+      "Pareto principle",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Consider the below situation Imagine you're a student in a university, and you decide to survey to determine the number of friends each of your classmates has on social media. You ask everyone to report the number of friends they have on one popular social media platform (say Facebook). When you collect the data and calculate the average number of friends reported by your classmates, 300 friends. However, when you individually examine the number of friends reported by each of your classmates, you notice that many of them have fewer than 300 friends, perhaps ranging from 50 to 200 friends. Why did you observe such a phenomenon?",
+     "options": [
+      "Most of the individuals have reported it wrong in the report.",
+      "Few individuals have exceptionally high friend counts (outliers) that skew the average upward.",
+      "There is an error in individual calculations. It is impossible to have 300 friends on average if many individuals have fewer than 300 friends.",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 9,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=DfmOn1KFB74, https://www.youtube.com/watch?v=4kSnBpvUq8M",
+   "questions": [
+    {
+     "q": "Which of the following is/are location-based services?",
+     "options": [
+      "Foursquare",
+      "Yelp",
+      "Gowalla",
+      "Uber"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is the difference between Pearson and Spearman rank correlation? Hint: https://en.wikipedia.org/wiki/Pearson_correlation_coefficient",
+     "options": [
+      "Pearson correlation assesses linear relationships, while Spearman correlation evaluates monotonic relationships.",
+      "Spearman correlation is always between -1 and 1, while Pearson correlation can have values outside this range.",
+      "Spearman correlation is calculated using a formula involving the sum of squared differences, whereas Pearson correlation is based on the product of z-scores.",
+      "All of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "You have two datasets and want to measure the strength and direction of the relationship between them. One set of data consists of the ranks or ordinal values of the observations, while the other set consists of continuous numerical data. Which correlation coefficient is most appropriate for this scenario?",
+     "options": [
+      "Spearman's rank correlation coefficient",
+      "Pearson's correlation coefficient",
+      "Either Spearman or Pearson correlation can be used interchangeably.",
+      "None of the above because correlation coefficients are not applicable in this scenario."
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following are open text fields, whose validity is not enforced by the system and may carry noise/invalid locations?",
+     "options": [
+      "Venue location",
+      "tips",
+      "User home city",
+      "dones"
+     ],
+     "answer": [
+      0,
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is correct inference from Figure 2?",
+     "options": [
+      "The distributions are very skewed, with a few cities having as many as 100 mayorships, tips or dones.",
+      "The distributions are evenly balanced, with cities having a nearly equal number of mayorships, tips, or dones.",
+      "The distributions are normally distributed, with no cities having an exceptionally high number of mayorships, tips, or dones.",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is the key difference between a scatter plot and a bar chart?",
+     "options": [
+      "Scatter plots display categorical data, while bar charts are used for numerical data.",
+      "Scatter plots show the relationship between two numerical variables, while bar charts display the frequency or distribution of categorical data.",
+      "Scatter plots are only used for displaying data with a single variable, while bar charts can visualize data with multiple variables.",
+      "All of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is publicly available data on Foursquare?",
+     "options": [
+      "Mayorships",
+      "Tips",
+      "Dones",
+      "Checkins"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which plot is shown in the below figure?",
+     "options": [
+      "Scatter plot",
+      "Bar chart",
+      "Bubble plot",
+      "Histogram"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What is the primary characteristic of Location-Based Social Networks (LBSNs)?",
+     "options": [
+      "They allow users to share text-based posts with their friends and followers.",
+      "They provide a platform for online gaming and virtual reality experiences.",
+      "They enable users to connect with others and share their physical locations and activities.",
+      "They focus exclusively on professional networking and job searching."
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "As discussed in lecture, Choose the correct inference (s) for figures below (Figure 4 and Figure 5). Here mayorships (blue), Tips (red), and Dones (green). Reference: https://cdn.iiit.ac.in/cdn/precog.iiit.ac.in/Publications_files/TP_lbsn_2012.pdf",
+     "options": [
+      "In Figure 4, The distribution of minimum inter-activity times is very skewed towards short periods of time, with almost 50% of the users posting consecutive tips/dones 1 hour apart.",
+      "In Figure 4, On average, median and maximum, users do tend to experience very long periods of time between consecutive tips and dones. For instance, around 50% of the users have an average interactivity time of at least 450 hours, whereas around 80% of the users have a maximum inter-activity time above 167 hours (roughly a week).",
+      "In Figure 5, Around 36% of the users have average and maximum displacements of 0 kilometer, indicating very short distances (within a few metres)",
+      "In Figure 5, About 10% of the users have a maximum displacement of at least 6,000 kilometers."
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 10,
+   "source": "https://github.com/Tushyent/NPTEL-PSOSM (website/data/pssm_data.json: one learner's noc26_cs141 submissions with NPTEL's per-question scores); question text and answers checked against https://www.youtube.com/watch?v=OZaXe_aaOlI, https://www.youtube.com/watch?v=pTGKFrikK_8, https://www.youtube.com/watch?v=KjOXOgxC8bc",
+   "questions": [
+    {
+     "q": "[Please go through the paper \"Beware of What You Share: Inferring Home Location in Social Networks\" and answer questions 1-3.] Which statement(s) is/are true?",
+     "options": [
+      "The authors perform a large-scale inference study in three popular social networks: Foursquare, Google+ and Twitter.",
+      "The paper is looking at different social networks not only Foursquare.",
+      "The dataset used in the paper comprises many attributes including venues where the location must be defined filling the open text fields, (limited in 30 and 127 characters, respectively), and setting a pin in the map.",
+      "None of the above"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"Beware of What You Share: Inferring Home Location in Social Networks\" and answer questions 1-3.] What is a valid AGI?",
+     "options": [
+      "Valid Artificial General intelligence",
+      "Valid Ambigious Geographical Information",
+      "Valid Artificial Geographical Interface",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"Beware of What You Share: Inferring Home Location in Social Networks\" and answer questions 1-3.] Given the following figure depicts the quality of valid UGI, what is the correct inference(s) from the figure ?",
+     "options": [
+      "In figure (a), the vast majority (80%) of Foursquare users and venues have location information at the city level.",
+      "In figure (b), majority of users provide home location information at country level",
+      "In figure (c), 60% of the users have provided their location information at the district level",
+      "In figure (b), 80% of the users have provided location information at city level."
+     ],
+     "answer": [
+      0,
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"On the dynamics of username change behavior on Twitter\" and answer questions 4-6.] From the overall conclusion of the paper, which of the statements is true",
+     "options": [
+      "The set of people who change their handle many times is slightly larger than those who change their handle a very small number of times.",
+      "The set of people who change their handle many times is slightly smaller than the set of people who change their handle very less number of times.",
+      "The set of people who change their handle many times is roughly equal to the set of people who do not change their handle.",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"On the dynamics of username change behavior on Twitter\" and answer questions 4-6.] From the following figure, what is the correct inference?",
+     "options": [
+      "20% of users rarely change user names in short intervals and 80% change user names frequently after longer intervals.",
+      "80% of users rarely change user names in short intervals, and 20% change user names frequently after longer intervals.",
+      "35% of users choose a user name unrelated to an old one, and 65% of users reuse an old user name.",
+      "20% of users frequently change user names in short intervals, and 80% change user name rarely after longer intervals."
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"On the dynamics of username change behavior on Twitter\" and answer questions 4-6.] What is the correct observation in the paper?",
+     "options": [
+      "This paper aims at finding how and why users change their usernames within a social network like Twitter.",
+      "Most users created new usernames unrelated to the old username when they changed usernames within a social network.",
+      "The authors believe that unrelated usernames over time could be credited to the absence of cognitive load to remember a past dumped username.",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"Boston Marathon: Analyzing Fake Content on Twitter\" and answer the following questions.] Which of the following statements is true about Boston blasts?",
+     "options": [
+      "Twin blasts occurred during the Boston Marathon on April 15th, 2013 at 18:50 GMT",
+      "Twin blasts occurred during the Boston Marathon on April 15th, 2009 at 18:50 GMT",
+      "Four people were killed and 264 were injured in the incident",
+      "All of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"Boston Marathon: Analyzing Fake Content on Twitter\" and answer the following questions.] What can be depicted from the tweets shared below?",
+     "options": [
+      "Both tweets contain Fake content.",
+      "Figure (a) depicts a tweet from a fake charity profile.",
+      "Figure (b) depicts a rumour about a child being killed in the blasts.",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"Boston Marathon: Analyzing Fake Content on Twitter\" and answer the following questions.] What are the major contributions of the figure?",
+     "options": [
+      "The authors characterised the spread of fake content on Twitter using temporal, source and user attributes.",
+      "The authors used linear regression to predict how viral a rumour would be in the future based on its current user characteristics.",
+      "The authors analysed the activity and interaction graphs for the suspended user profiles created during the Boston blasts.",
+      "None of the above"
+     ],
+     "answer": [
+      0,
+      1,
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Please go through the paper \"Boston Marathon: Analyzing Fake Content on Twitter\" and answer the following questions.] What does the following figure depict?",
+     "options": [
+      "The figure shows the temporal distribution of tweets after the Boston blast",
+      "The figure shows the spatial distribution of tweets after the Boston blast",
+      "Both of the above",
+      "None of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2026,
+   "session": "Jul-Oct 2026",
+   "week": 11,
+   "source": "noc23_cs69 Week 11 Accepted Answers (same 10 questions; https://github.com/Tushyent/NPTEL-PSOSM/blob/master/PYQS/680534822-privacy-and-security-combine-assignment-2023.pdf); question text checked against https://www.youtube.com/watch?v=-VZmfAKXBbw, https://www.youtube.com/watch?v=rt_TDBfITnI, https://www.youtube.com/watch?v=Z2rBjdDOpsY, https://www.youtube.com/watch?v=6J2lyleH-d0",
+   "questions": [
+    {
+     "q": "Given below the statement. The statement is “An API is a set of rules and protocols that allows different software applications to communicate with each other, while a programming language is a formal language used to write instructions for a computer to perform specific tasks.”",
+     "options": [
+      "True",
+      "False",
+      "Can’t say"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following features is supposed to be a part of tweet content on Twitter?",
+     "options": [
+      "Presence of pronouns",
+      "No. of followers",
+      "No. of retweets",
+      "Mention of self words (I;my;mine)"
+     ],
+     "answer": [
+      0,
+      3
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "Who among the following are most likely to engage in link farming?",
+     "options": [
+      "Highly active users",
+      "Legitimate users",
+      "Popular users",
+      "Bloggers and experts"
+     ],
+     "answer": [
+      0,
+      1,
+      2,
+      3
+     ],
+     "explanation": "2026 Accepted Answers were not seen. The noc23_cs69 Week 11 Accepted Answers for this identical question list all four options, and About Computer Code and SwaVIDYA tick all four. Engineering Study Desk and NPTEL ASSIGNMENTS tick only 'Highly active users' and 'Bloggers and experts'.",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is username creation behaviour?",
+     "options": [
+      "Static behavior patterns",
+      "Occasional reuse patterns",
+      "Temporal behavior patterns",
+      "Frequent reuse patterns"
+     ],
+     "answer": [
+      0,
+      2
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is a username reuse behaviour?",
+     "options": [
+      "Static behavior patterns",
+      "Occasional reuse patterns",
+      "Temporal behavior patterns",
+      "Frequent reuse patterns"
+     ],
+     "answer": [
+      1,
+      3
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "Why is it called a \"Graph\" API?",
+     "options": [
+      "it allows users to draw and create graphs and charts.",
+      "it represents social connections and relationships as a graph data structure.",
+      "it primarily deals with geographical mapping and location-based services.",
+      "it is used exclusively for graph theory and mathematical computations."
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "Latanya Sweeney's research highlighted how two seemingly unrelated pieces of information can be linked to reidentify an individual. Which term best describes this concept?",
+     "options": [
+      "Data Anonymization",
+      "Data Aggregation",
+      "Reidentification",
+      "All of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "What is the primary purpose of an API key on Twitter?",
+     "options": [
+      "To limit the number of characters in a tweet.",
+      "To verify a user's identity on the platform.",
+      "To authenticate and access Twitter's APIs for development purposes.",
+      "To encrypt and secure direct messages on Twitter."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "What is the primary purpose of link farming in the context of SEO (Search Engine Optimization)?",
+     "options": [
+      "To create high-quality, relevant backlinks to improve a website's search engine ranking.",
+      "To increase organic traffic by optimising on-page content and meta tags.",
+      "To manipulate search engine algorithms by generating a large number of low-quality backlinks.",
+      "To enhance the user experience by improving website navigation and design."
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    },
+    {
+     "q": "Which V of social media represents “Viral trends that spread rapidly across social media platforms.”",
+     "options": [
+      "Value",
+      "Velocity",
+      "Volume",
+      "Veracity"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "2026 Accepted Answers were not seen. This answer is from the noc23_cs69 Week 11 Accepted Answers for the identical question, and solution videos agree.",
+     "verified": "official"
+    }
+   ]
+  }
+ ]
+}

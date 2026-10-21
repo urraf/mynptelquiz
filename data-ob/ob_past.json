@@ -1,0 +1,4439 @@
+{
+ "sets": [
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 1,
+   "source": "https://progiez.com/organizational-behaviour-nptel-week-1-answers (questions, noc25_mg80; answers not shown there); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "Response of the organism or system to various stimuli or inputs, whether internal or external, conscious or subconscious, overt or covert, voluntary or involuntary is called:",
+     "options": [
+      "Organization",
+      "Behaviour",
+      "Resource",
+      "Productivity"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Behaviour. Intro to OB Part 1 definition of behaviour as response of the organism to stimuli.",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is not an organization?",
+     "options": [
+      "TATA Steels",
+      "UNICEF",
+      "Facebook Inc.",
+      "Germany"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Germany. Intro to OB Part 1 defines organization as a consciously coordinated social entity with a common goal (companies, NGOs/agencies); a country is not an organization.",
+     "verified": "official"
+    },
+    {
+     "q": "More output for less input or being able to provide optimal output for a given input is called:",
+     "options": [
+      "Effectiveness",
+      "Productivity",
+      "Efficiency",
+      "Motivation"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Efficiency. Intro to OB Part 2: 'Efficiency is more output for less input or in other words, you are able to give an optimal output for a particular input.'",
+     "verified": "official"
+    },
+    {
+     "q": "The social expectation on an individual is called:",
+     "options": [
+      "Role",
+      "Designation",
+      "Job",
+      "Task"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Role. Intro to OB Part 2: 'your designation prescribes certain things which are expected from you' - social expectation = role.",
+     "verified": "official"
+    },
+    {
+     "q": "Which field can be called as the mother of Organizational behaviour?",
+     "options": [
+      "Anthropology",
+      "Economics",
+      "Industrial Psychology",
+      "Law"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Industrial Psychology. Intro to OB Part 4: 'industrial psychology can be called as the mother of organizational behaviour'.",
+     "verified": "official"
+    },
+    {
+     "q": "The scientific management movement was pioneered by:",
+     "options": [
+      "Walter Dill Scott",
+      "Edward K Strong Jr.",
+      "Hugo Munsterberg",
+      "Frederick W Taylor"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Frederick W Taylor. Intro to OB Part 4/5: scientific management (Taylorism) pioneered by F. W. Taylor.",
+     "verified": "official"
+    },
+    {
+     "q": "The assembly line of production was first introduced by Henry Ford.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Intro to OB Part 4 (video clip): 'in 1913 Ford introduced his most revolutionary change... the assembly line was born.' NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The process of breaking down the entire job into specific tasks and see how each of these tasks are performed and how much time on an average a person will take to finish it is called:",
+     "options": [
+      "Time and Motion Study",
+      "Workplace management",
+      "Job Profile",
+      "Productivity"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Time and Motion Study. Intro to OB Part 4/5: time and motion study breaks the job into tasks and measures average time per task.",
+     "verified": "official"
+    },
+    {
+     "q": "In an experiment, the group in which you make no changes is called the:",
+     "options": [
+      "Experimental Group",
+      "Focus Group",
+      "Control Group",
+      "Target Group"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Control Group. Intro to OB Part 5: 'Experimental group means the group in which you change the condition. Control group means you do not do anything.'",
+     "verified": "official"
+    },
+    {
+     "q": "Hawthorne experiments were a set of experiments conducted to study the impact of assembly line on the health of the workers.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Intro to OB Part 5: Hawthorne experiments aimed 'to understand how physical conditions... ventilation, illumination... temperature in workplace... affected performance of employees', not assembly lines and health. NPTEL 2024 key: False.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 2,
+   "source": "https://progiez.com/organizational-behaviour-nptel-week-2-answers (questions, noc25_mg80; answers not shown there); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "The process of giving meaning to sensory stimuli through organizing and interpreting is called:",
+     "options": [
+      "Sensation",
+      "Perception",
+      "Sublimation",
+      "Organization"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Perception. Perception Part 1: 'Perception is process of giving meaning to sensory stimulus through organizing and interpreting it.'",
+     "verified": "official"
+    },
+    {
+     "q": "Perception is highly objective.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Perception Part 1: 'So, perception is highly subjective.' NPTEL 2024 key: False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an internal factor that influence the principles of perceptual selection?",
+     "options": [
+      "Contrast",
+      "Repetition",
+      "Motion",
+      "Habit"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Habit. Perception Part 1: internal factors in selection: 'The first factor is habit.' (contrast, repetition, motion are external).",
+     "verified": "official"
+    },
+    {
+     "q": "[Image: a grid of dots] In the below picture, we tend to see columns of dots due to a perceptual grouping effect called:",
+     "options": [
+      "Similarity",
+      "Proximity",
+      "Continuity",
+      "Symmetry"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Proximity. Perception Part 2: grouping 'the first one is Proximity... we try to group them based on the proximity, how close they are.'",
+     "verified": "official"
+    },
+    {
+     "q": "[Image: a door being opened] In the below image, one can still perceive the opening door to be of a rectangle shape due to:",
+     "options": [
+      "Figure-Ground Perception",
+      "Optical Illusions",
+      "Perceptual Constancy",
+      "Social Perception"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Perceptual Constancy. Perception Part 2: 'Perceptual constancy... in this example the door which you see you see it as a rectangle.'",
+     "verified": "official"
+    },
+    {
+     "q": "According to Kelley's theory of causal attribution, the extent to which other people behave in the same manner as the person we are judging is called:",
+     "options": [
+      "Consensus",
+      "Consistency",
+      "Distinctiveness",
+      "Identity"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Consensus. Perception Part 3: 'consensus means whether many people agree to it or whether many people feel the same.'",
+     "verified": "official"
+    },
+    {
+     "q": "The tendency to attribute others' action to internal causes while largely ignoring external factors is called:",
+     "options": [
+      "Halo effect",
+      "Team-Halo effect",
+      "Fundamental attribution error",
+      "Similar-to-me effect"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Fundamental attribution error. Perception Part 3/4: tendency to attribute others' behaviour to internal causes ignoring external factors = fundamental attribution error.",
+     "verified": "official"
+    },
+    {
+     "q": "The word \"Carpenter\" immediately brings in to memory the image of a male individual rather than a female individual. This is an example of a job stereotype.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Perception Part 4: job stereotypes are 'gender stereotypes, but we use these criteria when we talk about certain jobs'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "There are many women at the bottom and middle level management roles but only a very few make it to the top. This is due to:",
+     "options": [
+      "Impression Management techniques",
+      "Golem effect",
+      "Pygmalion effect",
+      "Glass-ceiling effect"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Glass-ceiling effect. Perception Part 4: 'Glass ceiling effect means there are many women at the bottom and middle level of management... but there are very few' at the top.",
+     "verified": "official"
+    },
+    {
+     "q": "The process through which individuals attempt to determine the causes behind others' behaviour is called attribution.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Perception Part 2: 'Attribution means... trying to understand the cause behind others behaviour.' NPTEL 2024 key: True.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2025,
+   "session": "Jul-Oct 2025",
+   "week": 3,
+   "source": "https://progiez.com/organizational-behaviour-nptel-week-3-answers (questions, noc25_mg80; answers not shown there); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "The meaning of the Latin word 'Persona' from which the word Personality arises is:",
+     "options": [
+      "Behaviour",
+      "Mask",
+      "Thought",
+      "Person"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Mask. Personality Part 1: 'Personality has its origins in the Latin word personare or persona which means a mask'.",
+     "verified": "official"
+    },
+    {
+     "q": "Many psychologists argue that one's personality can be changed over a period of time because those qualities are formed because of social factors.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Personality Part 2: 'personality... can be changed over a period of time because those qualities are formed because of social factors.' NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Sigmund Freud's psychoanalytic theory, the deepest level of consciousness is:",
+     "options": [
+      "Subconscious",
+      "Conscious state",
+      "Unconscious",
+      "Awareness"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Unconscious. Personality Part 3/4 (Freud's levels of consciousness): unconscious is the deepest level.",
+     "verified": "official"
+    },
+    {
+     "q": "According to Sigmund Freud, reality principle is followed by:",
+     "options": [
+      "Id",
+      "Super Ego",
+      "Dream",
+      "Ego"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Ego. Personality Part 4: 'id driven by pleasure principle, ego is driven by reality principle, super ego is driven by moral principle'.",
+     "verified": "official"
+    },
+    {
+     "q": "In social learning theory, the withdrawal of something which somebody likes to strengthen a behaviour is called:",
+     "options": [
+      "Negative Reinforcement",
+      "Positive Reinforcement",
+      "Reward",
+      "Punishment"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Negative Reinforcement. Personality Part 3: 'Negative reinforcement also strengthen behaviour... Negative reinforcement means withdrawal of something which somebody likes.'",
+     "verified": "official"
+    },
+    {
+     "q": "The main proponent of Self Theory was:",
+     "options": [
+      "Sigmund Freud",
+      "Albert Bandura",
+      "Carl Rogers",
+      "B.F. Skinner"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Carl Rogers. Personality Parts 4-5: Carl Rogers' self theory (unconditional positive regard).",
+     "verified": "official"
+    },
+    {
+     "q": "In Johari's Window model of self-awareness, the part of the self which is not known to ourselves, but others know is called:",
+     "options": [
+      "Open",
+      "Blind",
+      "Hidden",
+      "Unknown"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Blind. Personality Part 6 (Johari Window): blind self = known to others, not to self.",
+     "verified": "official"
+    },
+    {
+     "q": "Employees with high self-esteem are more ready to take responsibilities.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Personality Part 6: employees with high self-esteem 'will be ready to take responsibilities because they know what they are capable of'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "People with ________ locus of control believe that others control their life and whatever happens in their life is because of outside factors.",
+     "options": [
+      "Internal",
+      "External"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: External. Personality Part 7: external locus of control - outside factors/others control one's life.",
+     "verified": "official"
+    },
+    {
+     "q": "According to Big Five Personality Theory, people who like to experiment and try and find out new things and are less judgmental about people of other cultures are high on:",
+     "options": [
+      "Adjustment",
+      "Agreeableness",
+      "Conscientiousness",
+      "Intellectual Openness"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Intellectual Openness. Personality Part 7 (Big Five): 'Intellectual openness is open to new experiences; ... they like to experiment'.",
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 1,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "Response of the organism or system to various stimuli or inputs, whether internal or external, conscious or subconscious, overt or covert, voluntary or involuntary is called:",
+     "options": [
+      "Organization",
+      "Behaviour",
+      "Resource",
+      "Productivity"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Hawthorne experiments were a set of experiments conducted to study the impact of assembly line on the health of the workers.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The social expectation on an individual is called:",
+     "options": [
+      "Role",
+      "Designation",
+      "Job",
+      "Task"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is not an organization?",
+     "options": [
+      "TATA Steels",
+      "UNICEF",
+      "Facebook Inc.",
+      "Germany"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "More output for less input or being able to provide optimal output for a given input is called:",
+     "options": [
+      "Effectiveness",
+      "Productivity",
+      "Efficiency",
+      "Motivation"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which field can be called as the mother of Organizational behaviour?",
+     "options": [
+      "Anthropology",
+      "Economics",
+      "Industrial Psychology",
+      "Law"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In an experiment, the group in which you make no changes is called the:",
+     "options": [
+      "Experimental Group",
+      "Focus Group",
+      "Control Group",
+      "Target Group"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The assembly line of production was first introduced by Henry Ford.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The scientific management movement was pioneered by:",
+     "options": [
+      "Walter Dill Scott",
+      "Edward K Strong Jr.",
+      "Hugo Munsterberg",
+      "Frederick W Taylor"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The process of breaking down the entire job into specific tasks and see how each of these tasks are performed and how much time on an average a person will take to finish it is called:",
+     "options": [
+      "Time and Motion Study",
+      "Workplace management",
+      "Job Profile",
+      "Productivity"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 2,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "Perception is highly objective.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "There are many women at the bottom and middle level management roles but only a very few make it to the top. This is due to:",
+     "options": [
+      "Impression Management techniques",
+      "Golem effect",
+      "Pygmalion effect",
+      "Glass-ceiling effect"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The process of giving meaning to sensory stimuli through organizing and interpreting is called:",
+     "options": [
+      "Sensation",
+      "Perception",
+      "Sublimation",
+      "Organization"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is an internal factor that influence the principles of perceptual selection?",
+     "options": [
+      "Contrast",
+      "Repetition",
+      "Motion",
+      "Habit"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Image: a grid of dots] In the above picture, we tend to see columns of dots due to a perceptual grouping effect called:",
+     "options": [
+      "Similarity",
+      "Proximity",
+      "Continuity",
+      "Symmetry"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "[Image: a door being opened] In the above image, one can still perceive the opening door to be of a rectangle shape due to:",
+     "options": [
+      "Figure-Ground Perception",
+      "Optical Illusions",
+      "Perceptual Constancy",
+      "Social Perception"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The process through which individuals attempt to determine the causes behind others' behaviour is called attribution.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "According to Kelley's theory of causal attribution, the extent to which other people behave in the same manner as the person we are judging is called:",
+     "options": [
+      "Consensus",
+      "Consistency",
+      "Distinctiveness",
+      "Identity"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The tendency to attribute others' action to internal causes while largely ignoring external factors is called:",
+     "options": [
+      "Halo effect",
+      "Team-Halo effect",
+      "Fundamental attribution error",
+      "Similar-to-me effect"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The word \"Carpenter\" immediately brings in to memory the image of a male individual rather than a female individual. This is an example of a job stereotype.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 3,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "In Johari's Window model of self-awareness, the part of the self which is not known to ourselves, but others know is called:",
+     "options": [
+      "Open",
+      "Blind",
+      "Hidden",
+      "Unknown"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The meaning of the Latin word 'Persona' from which the word Personality arises is:",
+     "options": [
+      "Behaviour",
+      "Mask",
+      "Thought",
+      "Person"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Many psychologists argue that one's personality can be changed over a period of time because those qualities are formed because of social factors.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "According to Big Five Personality Theory, people who like to experiment and try and find out new things and are less judgmental about people of other cultures are high on:",
+     "options": [
+      "Adjustment",
+      "Agreeableness",
+      "Conscientiousness",
+      "Intellectual Openness"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "According to Sigmund Freud's psychoanalytic theory, the deepest level of consciousness is:",
+     "options": [
+      "Subconscious",
+      "Conscious state",
+      "Unconscious",
+      "Awareness"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "According to Sigmund Freud, reality principle is followed by:",
+     "options": [
+      "Id",
+      "Super Ego",
+      "Dream",
+      "Ego"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In social learning theory, the withdrawal of something which somebody likes to strengthen a behaviour is called:",
+     "options": [
+      "Negative Reinforcement",
+      "Positive Reinforcement",
+      "Reward",
+      "Punishment"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The main proponent of Self Theory was:",
+     "options": [
+      "Sigmund Freud",
+      "Albert Bandura",
+      "Carl Rogers",
+      "B.F. Skinner"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Employees with high self-esteem are more ready to take responsibilities.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "People with ________ locus of control believe that others control their life and whatever happens in their life is because of outside factors.",
+     "options": [
+      "Internal",
+      "External"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 4,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "__________ are evaluative statements towards objects, people or events.",
+     "options": [
+      "Learning",
+      "Attitudes",
+      "Memory",
+      "Personality"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "A relatively permanent change in behaviour occurring as a result of experience is called:",
+     "options": [
+      "Thinking",
+      "Sensation",
+      "Learning",
+      "Prejudice"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Providing more information can lead to change in attitude.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In Pavlov's Dog experiment, the food presented which makes the dog salivate is:",
+     "options": [
+      "Unconditional stimulus",
+      "Unconditional response",
+      "Conditioned stimulus",
+      "Conditioned response"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In Operant conditioning, the process through which the responses that are no longer reinforced tend to gradually diminish in strength is called:",
+     "options": [
+      "Positive reinforcement",
+      "Negative Reinforcement",
+      "Punishment",
+      "Extinction"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "After watching a Dance TV show, a kid starts to make dance moves. This is an example of:",
+     "options": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Observational learning",
+      "Negative Reinforcement"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Opinion is primarily _______ in nature.",
+     "options": [
+      "Affective",
+      "Cognitive",
+      "Behavioural",
+      "Unconscious"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The intensity of an attitude or the magnitude/degree of its favorableness is called",
+     "options": [
+      "Multiplexity",
+      "Relation to need",
+      "Centrality",
+      "Valence"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "When people do not provide honest answers to certain questions because they feel that it is not right to give those answers, it is called:",
+     "options": [
+      "Social Loafing",
+      "Fatigue",
+      "Social Desirability Effect",
+      "Sampling"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Uncomfortable tension which comes from holding two conflicting thoughts in the mind at the same time is called Cognitive Dissonance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 5,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "The stress which happens because of positive incidences is called:",
+     "options": [
+      "Distress",
+      "Eustress",
+      "Hypo-stress",
+      "Hyper work stress"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "An unfocused, relatively mild feeling that exists as background to our daily experience is called:",
+     "options": [
+      "Behaviour",
+      "Perception",
+      "Mood",
+      "Envy"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The psychological effort involved in holding back one's true emotions is called:",
+     "options": [
+      "Emotional dissonance",
+      "Emotional labor",
+      "Emotional Attachment",
+      "Temperament"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "When John failed his driving license test, he starts to remember how his friends used to tease him saying he was not a good driver. This is an example of:",
+     "options": [
+      "Work-family spillover effect",
+      "Emotional dissonance",
+      "Empathy",
+      "Mood congruence effect"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Threat-based aggression can stem from both a real stimulus or a perceived stimulus.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "__________ is when you have a goal and you are moving towards that goal and you feel that something or someone is stopping you from reaching that goal.",
+     "options": [
+      "Threat-based aggression",
+      "Instrumental aggression",
+      "Irritable aggression",
+      "Frustration-based aggression"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Fear of being rejected is one of the main reasons that make people non-assertive.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The feeling of completely tired and exhausted when you are stressed for a very long time accompanied by lack of meaning is called:",
+     "options": [
+      "Burnout",
+      "Absenteeism",
+      "Hypo stress",
+      "Alarm-reaction"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "What are the behavioural symptoms of stress?",
+     "options": [
+      "Low productivity",
+      "Interpersonal conflicts",
+      "Suicidal tendencies",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "__________ is a mild form of hate.",
+     "options": [
+      "Guilt",
+      "Humiliation",
+      "Resentment",
+      "Shame"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 6,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "___________ is the willingness of a person to put high levels of efforts to reach a goal.",
+     "options": [
+      "Emotions",
+      "Motivation",
+      "Frustration",
+      "Incentives"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The need to be part of a group is categorized as:",
+     "options": [
+      "Achievement motive",
+      "Affiliation motive",
+      "Power motive",
+      "Role conflict"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Money is a form of extrinsic motivation.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "According to Maslow's hierarchy of needs, the highest level of needs one can achieve is:",
+     "options": [
+      "Self-actualization",
+      "Social Needs",
+      "Esteem needs",
+      "Safety needs"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "According to Herzberg's two-factor theory of motivation, pay and security provided by a job is a Motivator.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In Alderfer's ERG theory of motivation, R stands for",
+     "options": [
+      "Reputation",
+      "Regression",
+      "Resilience",
+      "Relatedness"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "____________ means that employees feel that the organization treats its employees in a fair manner and a just way.",
+     "options": [
+      "Intra-personal conflict.",
+      "Self-esteem",
+      "Power motive",
+      "Organizational Justice Climate"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "__________ is when you are moving towards a certain goal, but certain barriers are stopping you from achieving that goal.",
+     "options": [
+      "Goal conflict",
+      "Role conflict",
+      "Frustration",
+      "Satisfaction"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "One of the drawbacks of using money as a motivator is that it can reduce extra-role performance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "John had applied for several jobs after graduation. One day he received a job offer from Tata Motors and Mahindra Group, both of which he loved to work. The conflict Mr. John is facing in selecting one job is called:",
+     "options": [
+      "Role Conflict",
+      "Approach-avoidance conflict",
+      "Approach-approach conflict",
+      "Avoidance-avoidance conflict"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 7,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "When each party involved in a task tries to maximize its own gains, often at the expense of others, it is called:",
+     "options": [
+      "Cooperation",
+      "Interdependency",
+      "Competition",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The degree of confidence we have on others in a relationship is called:",
+     "options": [
+      "Transactional contract",
+      "Relational contract",
+      "Trust",
+      "Norms"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The kind of psychological contract that focuses on long-term interaction and a widely defined relationship is called relational contract.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The type of trust that is established based on the credibility of a person, for e.g., trusting the doctor:",
+     "options": [
+      "Trust based on familiarity",
+      "Swift trust",
+      "Trust based on similarity",
+      "Trust based on social networks"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The characteristic of being and respectful towards others is:",
+     "options": [
+      "Conscientiousness",
+      "Sportsmanship",
+      "Civic virtue",
+      "Courtesy"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Treating the common resources responsibly is called",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "__________ is helping without expecting anything in return.",
+     "options": [
+      "Altruism",
+      "Competition",
+      "Cooperation",
+      "Conscientiousness"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Disagreements on strategy and sharing of responsibility and resources is called:",
+     "options": [
+      "Relational conflict",
+      "Task conflict",
+      "Process conflict",
+      "Avoiding"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "People who focus on maximizing the joint outcomes of everyone involved are called:",
+     "options": [
+      "Competitors",
+      "Cooperators",
+      "Individualists",
+      "Equalizers"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which conflict handling style is best for both the parties involved?",
+     "options": [
+      "Competing",
+      "Avoiding",
+      "Accommodating",
+      "Collaborating"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 8,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "The communication style that is supportive and avoids change and confrontation is called:",
+     "options": [
+      "Animated communication style",
+      "Driver communication style",
+      "Amiable communication style",
+      "Analytical communication style"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In communication, the process of converting a message into symbols is called:",
+     "options": [
+      "Message",
+      "Channel",
+      "Decoding",
+      "Encoding"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Any disturbance that interfere with the transmission, receipt or feedback of a message is called noise.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The level of openness which exists in an organization which gives a certain level of comfort to its members is called:",
+     "options": [
+      "Common information effect",
+      "Hidden profile paradigm",
+      "Communication climate",
+      "Paralinguistic communication"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is NOT a non-verbal mode of communication?",
+     "options": [
+      "Facial expressions",
+      "Pupil dilation",
+      "Gestures",
+      "None of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The study of spatial inter-relationships is called:",
+     "options": [
+      "Kinesics",
+      "Proxemics",
+      "Silence",
+      "Symbols"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Maintaining and distributing minutes of the meeting is helpful in reducing miscommunication in team meetings.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "When parts of some information are shared with the group members whereas other pieces of information are unshared, it gives rise to:",
+     "options": [
+      "Hidden profile paradigm",
+      "Awareness",
+      "Trust building",
+      "Minimizing status difference"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "In information sharing scenario, the case that has to be avoided to reduce decision making problems is:",
+     "options": [
+      "Fully shared case",
+      "Non-overlapping case",
+      "Distributed partial overlap",
+      "All of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Most eastern cultures are comfortable with silence between conversations.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 9,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "The step in team decision making where the problem is defined and a consensus is arrived about what the problem is:",
+     "options": [
+      "Discussion",
+      "Implementation",
+      "Representativeness",
+      "Orientation"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Making the smallest response possible that will reduce the problem to at least a tolerable level is called ________ to decision making.",
+     "options": [
+      "Satisficing approach",
+      "Rational Approach",
+      "Incremental approach",
+      "Garbage-can approach"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Having a false sense of satisfaction even when problems start to show up is called:",
+     "options": [
+      "Complacency",
+      "Procrastination",
+      "Defensive avoidance",
+      "Panic"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Trying to put the responsibility for decision making on somebody else is called buck passing.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The tendency to be influenced by an initial figure, even when the information is largely irrelevant is called:",
+     "options": [
+      "Availability bias",
+      "Overconfidence",
+      "Anchoring and adjustment bias",
+      "Representativeness"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The group's emphasis on harmony and conformity leading to a wrong decision is called:",
+     "options": [
+      "Majority rule",
+      "Synergy",
+      "Risk taking in groups",
+      "Groupthink"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Sunk costs can be recovered.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Tendency to invest additional resources in an apparently losing proposition, influenced by effort, money and time already invested:",
+     "options": [
+      "Abilene Paradox",
+      "Delphi method",
+      "Escalation of commitment",
+      "Groupthink"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The tendency to make different decisions depending on how a problem is presented:",
+     "options": [
+      "Framing",
+      "Prospect theory",
+      "Representativeness",
+      "Bounded rationality"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Finding a solution which is satisfactory than optimal is called satisficing approach to decision making.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 10,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "__________ is the ability to persuade others to seek defined objectives enthusiastically.",
+     "options": [
+      "Coercion",
+      "Behavioural change",
+      "Leadership",
+      "Authority"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The theory which states that the subordinates will be motivated to follow the leader only when they perceive that the leader can help them to fulfil their goals:",
+     "options": [
+      "Path-goal theory",
+      "Fiedler's model",
+      "Hersey and Blanchard's situational leadership theory",
+      "Trait theory"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The source of power which is based on the capacity to administer punishment to others:",
+     "options": [
+      "Legitimate",
+      "Reward",
+      "Coercive",
+      "Expert"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Expert power is when you have certain abilities which nobody else has or is very rare.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Information or skills one possesses, which cannot be recorded or measured is called:",
+     "options": [
+      "Empowerment",
+      "Referent power",
+      "Gossiping",
+      "Tacit knowledge"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The form of political behaviour exhibited when employees try to form a group based on common language they speak is:",
+     "options": [
+      "Impression management",
+      "Building coalitions",
+      "Blaming",
+      "Manipulating information flow"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "While managers rely on control, leaders",
+     "options": [
+      "Ask how and when",
+      "Focus on systems and structure",
+      "Accept status quo",
+      "Inspire trust"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The leadership style where the responsibilities are shared by all and can be very useful in businesses where creative ideas are very important:",
+     "options": [
+      "Autocratic",
+      "Laissez-Faire",
+      "Charismatic",
+      "Paternalistic"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Democratic leadership style encourages decision making from different perspectives.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The ideal case in Blake Mouton Managerial Grid of Leadership style is:",
+     "options": [
+      "Country club",
+      "Impoverished",
+      "Produce or perish",
+      "Team Leader"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 11,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "A type of thought exhibited by group members who try to minimize conflict and reach consensus without critically testing, analyzing and evaluating ideas.",
+     "options": [
+      "Groupthink",
+      "Instrumentality",
+      "Mundane task",
+      "Team cohesion"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Airline attendant teams are an example of:",
+     "options": [
+      "Production teams",
+      "Service teams",
+      "Advisory teams",
+      "Management teams"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Groups are more cohesive than teams and groups are a subset of teams.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is the source of organizational culture?",
+     "options": [
+      "Selection practices",
+      "Actions of top management",
+      "Socialization methods",
+      "Founder's vision/mission/attitudes"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The stage of group development at which unwritten rules for teams are established:",
+     "options": [
+      "Norming",
+      "Storming",
+      "Forming",
+      "Adjourning"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Taking advantage of other members in a group and claiming ownership for their work is called:",
+     "options": [
+      "Altruism",
+      "Groupthink",
+      "Freeriding",
+      "Synergy"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Sometimes in teams, people may think that if they work more, other people will take advantage of them and give all the responsibilities to them. So it is better to decrease their performance. This phenomenon is called:",
+     "options": [
+      "De-individualization",
+      "Social loafing",
+      "Freeriding",
+      "Sucker aversion"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Low trust among the team members can often lead to social loafing.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Culture influences both the conscious and unconscious level of the mind.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "An organization in which its culture is driven by the motive for affiliation:",
+     "options": [
+      "Bureaucracy",
+      "Industrial Organization",
+      "Clubs",
+      "Educational Institutions"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2024,
+   "session": "Jul-Oct 2024",
+   "week": 12,
+   "source": "https://www.scribd.com/document/848535325/Nptel-Assignments-2024 (screenshots of NPTEL portal, noc24_mg87, showing Accepted Answers) (Accepted Answers)",
+   "questions": [
+    {
+     "q": "A set of interrelated and interdependent parts arranged in a manner that produces a unified whole is called:",
+     "options": [
+      "System",
+      "Training",
+      "Rituals",
+      "Span of control"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Revolutionary change happens slowly in an organization and on its own.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The formal system of task and authority relationships that control how people coordinate their actions and use resources to achieve organizational goals is called:",
+     "options": [
+      "Organizational structure",
+      "Organizational change",
+      "Cognitive biases",
+      "Resource allocation"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Indian Railways having different zones of operation like Southern Railways, Central Railway etc. is an example of:",
+     "options": [
+      "Horizontal differentiation",
+      "Vertical differentiation",
+      "Spatial differentiation",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Defining employees' roles through formal documentation is a part of formalization.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "__________ can provide more inputs into decision making and will help in reducing information overload.",
+     "options": [
+      "Centralization",
+      "Decentralization",
+      "Environmental uncertainty",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "According to life-cycle perspective, the stage of organizational life cycle where the goals are ambiguous but there is a lot of creativity is called:",
+     "options": [
+      "Formalization-and-control stage",
+      "Collectivity stage",
+      "Elaboration-of-structure stage",
+      "Entrepreneurial stage"
+     ],
+     "answer": [
+      3
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "The life-cycle perspective sees the organization as an organism.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Redesigning business processes to increase organizational effectiveness is called:",
+     "options": [
+      "Restructuring",
+      "Reengineering",
+      "Organizational Ethics",
+      "Downsizing"
+     ],
+     "answer": [
+      1
+     ],
+     "verified": "official"
+    },
+    {
+     "q": "Closed systems differentiate too much from the larger system and have their own identity.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 1,
+   "source": "https://www.youtube.com/watch?v=vpuaUaSbOOY (nptel edu, noc23_mg73 portal recording; question text/options); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "Which of the following is not an organization?",
+     "options": [
+      "TATA Steels",
+      "UNICEF",
+      "Facebook Inc.",
+      "Germany"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Germany. Intro to OB Part 1 defines organization as a consciously coordinated social entity with a common goal (companies, NGOs/agencies); a country is not an organization.",
+     "verified": "official"
+    },
+    {
+     "q": "Hawthorne experiments were a set of experiments conducted to study the impact of assembly lines on the health of the workers.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Intro to OB Part 5: Hawthorne experiments aimed 'to understand how physical conditions... ventilation, illumination... temperature in workplace... affected performance of employees', not assembly lines and health. NPTEL 2024 key: False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Response of the organism or system to various stimuli or inputs, whether internal or external, conscious or subconscious, overt or covert, voluntary or involuntary is called:",
+     "options": [
+      "Organization",
+      "Behaviour",
+      "Resource",
+      "Productivity"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Behaviour. Intro to OB Part 1 definition of behaviour as response of the organism to stimuli.",
+     "verified": "official"
+    },
+    {
+     "q": "The social expectation on an individual is called:",
+     "options": [
+      "Role",
+      "Designation",
+      "Job",
+      "Task"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Role. Intro to OB Part 2: 'your designation prescribes certain things which are expected from you' - social expectation = role.",
+     "verified": "official"
+    },
+    {
+     "q": "More output for less input or being able to provide optimal output for a given input is called:",
+     "options": [
+      "Effectiveness",
+      "Productivity",
+      "Efficiency",
+      "Motivation"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Efficiency. Intro to OB Part 2: 'Efficiency is more output for less input or in other words, you are able to give an optimal output for a particular input.'",
+     "verified": "official"
+    },
+    {
+     "q": "Which field can be called as the mother of Organizational behaviour?",
+     "options": [
+      "Anthropology",
+      "Economics",
+      "Industrial Psychology",
+      "Law"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Industrial Psychology. Intro to OB Part 4: 'industrial psychology can be called as the mother of organizational behaviour'.",
+     "verified": "official"
+    },
+    {
+     "q": "In an experiment, the group in which you make no changes is called the:",
+     "options": [
+      "Experimental Group",
+      "Focus Group",
+      "Control Group",
+      "Target Group"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Control Group. Intro to OB Part 5: 'Experimental group means the group in which you change the condition. Control group means you do not do anything.'",
+     "verified": "official"
+    },
+    {
+     "q": "The scientific management movement was pioneered by:",
+     "options": [
+      "Walter Dill Scott",
+      "Edward K Strong Jr.",
+      "Hugo Munsterberg",
+      "Frederick W Taylor"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Frederick W Taylor. Intro to OB Part 4/5: scientific management (Taylorism) pioneered by F. W. Taylor.",
+     "verified": "official"
+    },
+    {
+     "q": "Henry Ford first introduced the assembly line of production.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Intro to OB Part 4 (video clip): 'in 1913 Ford introduced his most revolutionary change... the assembly line was born.' NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The process of breaking down the entire job into specific tasks and see how each of these tasks are performed and how much time on an average a person will take to finish it is called:",
+     "options": [
+      "Time and Motion Study",
+      "Workplace management",
+      "Job Profile",
+      "Productivity"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Time and Motion Study. Intro to OB Part 4/5: time and motion study breaks the job into tasks and measures average time per task.",
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 2,
+   "source": "https://www.youtube.com/watch?v=nv2GUUK5Eng (nptel edu, noc23_mg73 portal recording; question text/options); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "The tendency to attribute others' action to internal causes while largely ignoring external factors is called:",
+     "options": [
+      "Halo effect",
+      "Team-Halo effect",
+      "Fundamental attribution error",
+      "Similar-to-me effect"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Fundamental attribution error. Perception Part 3/4: tendency to attribute others' behaviour to internal causes ignoring external factors = fundamental attribution error.",
+     "verified": "official"
+    },
+    {
+     "q": "The process of giving meaning to sensory stimuli through organizing and interpreting is called:",
+     "options": [
+      "Sensation",
+      "Perception",
+      "Sublimation",
+      "Organization"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Perception. Perception Part 1: 'Perception is process of giving meaning to sensory stimulus through organizing and interpreting it.'",
+     "verified": "official"
+    },
+    {
+     "q": "Perception is highly objective.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Perception Part 1: 'So, perception is highly subjective.' NPTEL 2024 key: False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is an internal factor that influence the principles of perceptual selection?",
+     "options": [
+      "Contrast",
+      "Repetition",
+      "Motion",
+      "Habit"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Habit. Perception Part 1: internal factors in selection: 'The first factor is habit.' (contrast, repetition, motion are external).",
+     "verified": "official"
+    },
+    {
+     "q": "[Image: a grid of dots] In the above picture, we tend to see columns of dots due to a perceptual grouping effect called:",
+     "options": [
+      "Similarity",
+      "Proximity",
+      "Continuity",
+      "Symmetry"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Proximity. Perception Part 2: grouping 'the first one is Proximity... we try to group them based on the proximity, how close they are.'",
+     "verified": "official"
+    },
+    {
+     "q": "[Image: a door being opened] In the above image, one can still perceive the opening door to be of a rectangle shape due to:",
+     "options": [
+      "Figure-Ground Perception",
+      "Optical Illusions",
+      "Perceptual Constancy",
+      "Social Perception"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Perceptual Constancy. Perception Part 2: 'Perceptual constancy... in this example the door which you see you see it as a rectangle.'",
+     "verified": "official"
+    },
+    {
+     "q": "According to Kelley's theory of causal attribution, the extent to which other people behave in the same manner as the person we are judging is called:",
+     "options": [
+      "Consensus",
+      "Consistency",
+      "Distinctiveness",
+      "Identity"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Consensus. Perception Part 3: 'consensus means whether many people agree to it or whether many people feel the same.'",
+     "verified": "official"
+    },
+    {
+     "q": "The word \"Carpenter\" immediately brings in to memory the image of a male individual rather than a female individual. This is an example of a job stereotype.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Perception Part 4: job stereotypes are 'gender stereotypes, but we use these criteria when we talk about certain jobs'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "There are many women at the bottom and middle level management roles but only a very few make it to the top. This is due to:",
+     "options": [
+      "Impression Management techniques",
+      "Golem effect",
+      "Pygmalion effect",
+      "Glass-ceiling effect"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Glass-ceiling effect. Perception Part 4: 'Glass ceiling effect means there are many women at the bottom and middle level of management... but there are very few' at the top.",
+     "verified": "official"
+    },
+    {
+     "q": "The process through which individuals attempt to determine the causes behind others' behaviour is called attribution.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Perception Part 2: 'Attribution means... trying to understand the cause behind others behaviour.' NPTEL 2024 key: True.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 3,
+   "source": "https://www.youtube.com/watch?v=T2OjxvZRinI (nptel edu, noc23_mg73 portal recording; question text/options); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "In social learning theory, the withdrawal of something which somebody likes to strengthen a behaviour is called:",
+     "options": [
+      "Negative Reinforcement",
+      "Positive Reinforcement",
+      "Reward",
+      "Punishment"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Negative Reinforcement. Personality Part 3: 'Negative reinforcement also strengthen behaviour... Negative reinforcement means withdrawal of something which somebody likes.'",
+     "verified": "official"
+    },
+    {
+     "q": "In Johari's Window model of self-awareness, the part of the self which is not known to ourselves, but others know is called:",
+     "options": [
+      "Open",
+      "Blind",
+      "Hidden",
+      "Unknown"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Blind. Personality Part 6 (Johari Window): blind self = known to others, not to self.",
+     "verified": "official"
+    },
+    {
+     "q": "The meaning of the Latin word 'Persona' from which the word Personality arises is:",
+     "options": [
+      "Behaviour",
+      "Mask",
+      "Thought",
+      "Person"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Mask. Personality Part 1: 'Personality has its origins in the Latin word personare or persona which means a mask'.",
+     "verified": "official"
+    },
+    {
+     "q": "Many psychologists argue that one's personality can be changed over a period of time because those qualities are formed because of social factors.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Personality Part 2: 'personality... can be changed over a period of time because those qualities are formed because of social factors.' NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Big Five Personality Theory, people who like to experiment and try and find out new things and are less judgmental about people of other cultures are high on:",
+     "options": [
+      "Adjustment",
+      "Agreeableness",
+      "Conscientiousness",
+      "Intellectual Openness"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Intellectual Openness. Personality Part 7 (Big Five): 'Intellectual openness is open to new experiences; ... they like to experiment'.",
+     "verified": "official"
+    },
+    {
+     "q": "According to Sigmund Freud's psychoanalytic theory, the deepest level of consciousness is:",
+     "options": [
+      "Subconscious",
+      "Conscious state",
+      "Unconscious",
+      "Awareness"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Unconscious. Personality Part 3/4 (Freud's levels of consciousness): unconscious is the deepest level.",
+     "verified": "official"
+    },
+    {
+     "q": "According to Sigmund Freud, reality principle is followed by:",
+     "options": [
+      "Id",
+      "Super Ego",
+      "Dream",
+      "Ego"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Ego. Personality Part 4: 'id driven by pleasure principle, ego is driven by reality principle, super ego is driven by moral principle'.",
+     "verified": "official"
+    },
+    {
+     "q": "The main proponent of Self Theory was:",
+     "options": [
+      "Sigmund Freud",
+      "Albert Bandura",
+      "Carl Rogers",
+      "B.F. Skinner"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Carl Rogers. Personality Parts 4-5: Carl Rogers' self theory (unconditional positive regard).",
+     "verified": "official"
+    },
+    {
+     "q": "Employees with high self-esteem are more ready to take responsibilities.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Personality Part 6: employees with high self-esteem 'will be ready to take responsibilities because they know what they are capable of'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "People with ________ locus of control believe that others control their life and whatever happens in their life is because of outside factors.",
+     "options": [
+      "Internal",
+      "External"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: External. Personality Part 7: external locus of control - outside factors/others control one's life.",
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 4,
+   "source": "https://www.youtube.com/watch?v=Vvh3YXZINOY (nptel edu, noc23_mg73 portal recording; question text/options); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "In Pavlov's Dog experiment, the food presented which makes the dog salivate is:",
+     "options": [
+      "Unconditional stimulus",
+      "Unconditional response",
+      "Conditioned stimulus",
+      "Conditioned response"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Unconditional stimulus. Learning Part 1 (Pavlov): food is the unconditioned stimulus; salivation to food is the unconditioned response.",
+     "verified": "official"
+    },
+    {
+     "q": "__________ are evaluative statements towards objects, people or events.",
+     "options": [
+      "Learning",
+      "Attitudes",
+      "Memory",
+      "Personality"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Attitudes. Attitudes Part 1: attitudes are evaluative statements towards objects, people or events.",
+     "verified": "official"
+    },
+    {
+     "q": "A relatively permanent change in behaviour occurring as a result of experience is called:",
+     "options": [
+      "Thinking",
+      "Sensation",
+      "Learning",
+      "Prejudice"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Learning. Learning Part 1: learning is a relatively permanent change in behaviour as a result of experience.",
+     "verified": "official"
+    },
+    {
+     "q": "Providing more information can lead to change in attitude.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Attitudes Part 1: 'attitudes with information newer information with some persuasion you can change attitudes'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Operant conditioning, the process through which the responses that are no longer reinforced tend to gradually diminish in strength is called:",
+     "options": [
+      "Positive reinforcement",
+      "Negative Reinforcement",
+      "Punishment",
+      "Extinction"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Extinction. Learning Part 2: 'Extinction is what happens... after a certain point even without the reward or punishment' responses diminish.",
+     "verified": "official"
+    },
+    {
+     "q": "After watching a Dance TV show, a kid starts to make dance moves. This is an example of:",
+     "options": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Observational learning",
+      "Negative Reinforcement"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Observational learning. Learning Part 2: observational (social) learning - learning by watching models.",
+     "verified": "official"
+    },
+    {
+     "q": "Opinion is primarily _______ in nature.",
+     "options": [
+      "Affective",
+      "Cognitive",
+      "Behavioural",
+      "Unconscious"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Cognitive. Attitudes Part 2: 'opinion is the cognitive element of attitudes'.",
+     "verified": "official"
+    },
+    {
+     "q": "The intensity of an attitude or the magnitude/degree of its favorableness is called",
+     "options": [
+      "Multiplexity",
+      "Relation to need",
+      "Centrality",
+      "Valence"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Valence. Attitudes Part 2: 'The first attribute... is valence... their intensity or the magnitude of favourableness or unfavourableness.'",
+     "verified": "official"
+    },
+    {
+     "q": "When people do not provide honest answers to certain questions because they feel that it is not right to give those answers, it is called:",
+     "options": [
+      "Social Loafing",
+      "Fatigue",
+      "Social Desirability Effect",
+      "Sampling"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Social Desirability Effect. Attitudes Part 2: 'Social desirability effect means certain questions people will not give right answers, because they think it is not correct to give those kind of answers.'",
+     "verified": "official"
+    },
+    {
+     "q": "Uncomfortable tension which comes from holding two conflicting thoughts in the mind at the same time is called Cognitive Dissonance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Attitudes Part 4: 'cognitive dissonance is the uncomfortable tension which happens when you have two different viewpoints about the same issue'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 5,
+   "source": "https://www.youtube.com/watch?v=iJvKiyRAcng (nptel edu, noc23_mg73 portal recording; question text/options); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "When John failed his driving license test, he starts to remember how his friends used to tease him saying he was not a good driver. This is an example of:",
+     "options": [
+      "Work-family spillover effect",
+      "Emotional dissonance",
+      "Empathy",
+      "Mood congruence effect"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Emotions - Part 1: 'Mood congruence means when people are in a positive mood, they tend to remember positive things. Similarly, when they have a negative' mood they recall negative things.",
+     "verified": "official"
+    },
+    {
+     "q": "The stress which happens because of positive incidences is called:",
+     "options": [
+      "Distress",
+      "Eustress",
+      "Hypo-stress",
+      "Hyper work stress"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Emotions - Part 3 (stress): stress from positive events is eustress; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "An unfocused, relatively mild feeling that exists as background to our daily experience is called:",
+     "options": [
+      "Behaviour",
+      "Perception",
+      "Mood",
+      "Envy"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Emotions - Part 1: mood is defined as a mild, unfocused background feeling; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "The psychological effort involved in holding back one's true emotions is called:",
+     "options": [
+      "Emotional dissonance",
+      "Emotional labor",
+      "Emotional Attachment",
+      "Temperament"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Emotions lectures (Week 5): effort of suppressing true emotions = emotional labor; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "Threat-based aggression can stem from both a real stimulus or a perceived stimulus.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Emotions - Part 2: threat-based aggression 'can be a real stimulus or it can be a perceived stimulus'. NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "__________ is when you have a goal and you are moving towards that goal and you feel that something or someone is stopping you from reaching that goal.",
+     "options": [
+      "Threat-based aggression",
+      "Instrumental aggression",
+      "Irritable aggression",
+      "Frustration-based aggression"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Emotions - Part 2: frustration-based aggression arises when something or someone stops you from achieving your goal.",
+     "verified": "official"
+    },
+    {
+     "q": "Fear of being rejected is one of the main reasons that make people non-assertive.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Emotions - Part 2: reasons people are not assertive include insecurity, 'fear of rejection', humiliation. NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The feeling of completely tired and exhausted when you are stressed for a very long time accompanied by lack of meaning is called:",
+     "options": [
+      "Burnout",
+      "Absenteeism",
+      "Hypo stress",
+      "Alarm-reaction"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key. Emotions - Part 3 (stress): prolonged stress with exhaustion and loss of meaning = burnout; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "What are the behavioural symptoms of stress?",
+     "options": [
+      "Low productivity",
+      "Interpersonal conflicts",
+      "Suicidal tendencies",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Emotions - Part 3: behavioural symptoms of stress listed; NPTEL key 'All of the above'.",
+     "verified": "official"
+    },
+    {
+     "q": "__________ is a mild form of hate.",
+     "options": [
+      "Guilt",
+      "Humiliation",
+      "Resentment",
+      "Shame"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Emotions - Part 2: 'Resentment is mild form of hate.'",
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 6,
+   "source": "https://www.youtube.com/watch?v=s5-OTC7UNrw (nptel edu, noc23_mg73 portal recording; question text/options); answers: NPTEL Accepted Answers of identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "John had applied for several jobs after graduation. One day he received a job offer from Tata Motors and Mahindra Group, both of which he loved to work. The conflict Mr. John is facing in selecting one job is called:",
+     "options": [
+      "Role Conflict",
+      "Approach-avoidance conflict",
+      "Approach-approach conflict",
+      "Avoidance-avoidance conflict"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures (goal conflict): choosing between two attractive options = approach-approach conflict; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "___________ is the willingness of a person to put high levels of efforts to reach a goal.",
+     "options": [
+      "Emotions",
+      "Motivation",
+      "Frustration",
+      "Incentives"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Motivation - Part 1: motivation = willingness to exert high effort toward a goal; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "The need to be part of a group is categorized as:",
+     "options": [
+      "Achievement motive",
+      "Affiliation motive",
+      "Power motive",
+      "Role conflict"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures: need to belong to a group = affiliation motive; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "Money is a form of extrinsic motivation.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Motivation - Part 2: 'money is an extrinsic motivation, satisfaction is intrinsic motivation'. NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Maslow's hierarchy of needs, the highest level of needs one can achieve is:",
+     "options": [
+      "Self-actualization",
+      "Social Needs",
+      "Esteem needs",
+      "Safety needs"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key. Motivation - Part 4: self-actualization is the top of Maslow's hierarchy; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "According to Herzberg's two-factor theory of motivation, pay and security provided by a job is a Motivator.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Motivation - Part 4: pay and job security are hygiene factors ('Pay which is basic need... job security, which is security need' = hygiene), not motivators. NPTEL 2024 key: False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Alderfer's ERG theory of motivation, R stands for",
+     "options": [
+      "Reputation",
+      "Regression",
+      "Resilience",
+      "Relatedness"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Motivation - Part 4: ERG = Existence, Relatedness, Growth; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "____________ means that employees feel that the organization treats its employees in a fair manner and a just way.",
+     "options": [
+      "Intra-personal conflict.",
+      "Self-esteem",
+      "Power motive",
+      "Organizational Justice Climate"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures: organizational justice climate = perception that the organization treats employees fairly; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "__________ is when you are moving towards a certain goal, but certain barriers are stopping you from achieving that goal.",
+     "options": [
+      "Goal conflict",
+      "Role conflict",
+      "Frustration",
+      "Satisfaction"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures: frustration = barriers blocking progress toward a goal; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "One of the drawbacks of using money as a motivator is that it can reduce extra-role performance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Motivation - Part 2: rewarding extra-role behaviours with money backfires ('research say it would not' improve good behaviour). NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 7,
+   "source": "https://www.youtube.com/watch?v=_ejz2BuvDAQ (nptel edu, noc23_mg73 portal recording; question text/options); answers decided from course content (no answer key found)",
+   "questions": [
+    {
+     "q": "Two parties working towards shared goals for mutual benefit",
+     "options": [
+      "Cooperation",
+      "Altruism",
+      "Competition",
+      "All of the above"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Interpersonal Relationships - Part 2: cooperation is helping each other 'to achieve a mutual goal or in order to get benefited mutually because they share a goal'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The perceptions and expectations about mutual obligations in a relationship is called:",
+     "options": [
+      "Legal Contract",
+      "Financial Contract",
+      "Psychological Contract",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Interpersonal Relationships - Part 1/2: psychological contract = 'perception of an individual about what are his or her responsibilities... and obligations in that particular relationship'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The type of trust that is established based on the credibility of a person, for e.g. trusting the doctor:",
+     "options": [
+      "Trust based on familiarity",
+      "Swift trust",
+      "Trust based on similarity",
+      "Trust based on social networks"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 1: 'swift trust, which means quick trust... happens when we feel this person has some credibility. For example, if somebody is a doctor'.",
+     "verified": "official"
+    },
+    {
+     "q": "In a transactional contract, the focus is on a long term and widely defined relationship",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Interpersonal Relationships - Part 1: transactional contract is 'very specific give and take and it is very narrowly defined'; the long-term broad one is relational. So False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The characteristic of being kind and respectful towards others is:",
+     "options": [
+      "Conscientiousness",
+      "Sportsmanship",
+      "Civic virtue",
+      "Courtesy"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 2: 'Courtesy is being respectful towards others'.",
+     "verified": "official"
+    },
+    {
+     "q": "People who focus on minimizing the difference in comparison to others",
+     "options": [
+      "Individualists",
+      "Cooperators",
+      "Equalizers",
+      "Competitors"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Interpersonal Relationships - Part 2: equalizers compare with others and 'the objective is to minimize the difference'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following reasons can lead to conflicts between two parties or individuals :",
+     "options": [
+      "Values",
+      "Individual differences",
+      "Job Design",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Interpersonal Relationships - Part 3: lists individual/perception differences, 'Values', and 'the way in which the job it is designed, itself can lead to conflict' as causes.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Conflicts arising out of disagreement on strategy and sharing of responsibilities and resources are called process conflicts",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Interpersonal Relationships - Part 3: 'Process conflict is disagreement in terms of planning or sharing responsibilities... who should have more resources'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which conflict handling style is the best for both the parties involved?",
+     "options": [
+      "Competing",
+      "Avoiding",
+      "Accommodating",
+      "Collaborating"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 4: collaborating (win-win) is best for both parties; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "To empathize means trying to understand the problem from the other person's point of view",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Interpersonal Relationships - Part 4: 'empathize means when there is conflict try to understand the problem from the other persons point of view'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 8,
+   "source": "https://www.youtube.com/watch?v=anDilUhNJIE (nptel edu, noc23_mg73 portal recording; question text/options); answers decided from course content (no answer key found)",
+   "questions": [
+    {
+     "q": "Which of the following is a way to handle hidden profile paradigm?",
+     "options": [
+      "Minimize status difference",
+      "Suspending initial judgement",
+      "Build trust",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Communication - Part 3: remedies for hidden profile include 'suspend initial judgment', 'build trust' and 'minimize status differences', so All of the above.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Converting a message into symbols is called:",
+     "options": [
+      "Channel",
+      "Decoding",
+      "Encoding",
+      "Noise"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Communication - Part 1: encoding = converting the message 'in a symbol such a way that the other person understand this'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "People with amiable communication style are very enthusiastic and use a lot of nonverbal communication gestures",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Communication - Part 1: enthusiastic people using lots of gestures are 'animated'; amiable people are supportive and avoid confrontation. So False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which one of the following is not a communication style?",
+     "options": [
+      "Receiver",
+      "Animated",
+      "Driver",
+      "Analytical"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Communication - Part 1: the four styles are driver, animated, amiable and analytical; 'Receiver' is a communication component, not a style.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The study of the role of body movements such as winking in communication:",
+     "options": [
+      "Proxemics",
+      "Silence",
+      "Kinesics",
+      "Emphasis"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Communication - Part 2: 'Kinesics... certain body movements like winking or shrugging means something'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Western culture, silence is often interpreted as an inability to comprehend what is being said",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Communication - Part 2: 'in western culture silence is interpreted as non-comprehension'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Any disturbance that interfere with the transmission, receipt or feedback of the message is",
+     "options": [
+      "Vocal Cues",
+      "Inflection",
+      "Noise",
+      "Paralinguistic communication"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Communication - Part 1/2: 'Noise is the disturbance which can happen during the communication'.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The problematic scenario in information sharing in teams is",
+     "options": [
+      "Distributed partial overlap",
+      "Fully shared case",
+      "Non overlapping case"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Communication - Part 3: distributed partial overlap is the problematic case; fully shared is ideal.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Maintaining and distributing minutes of the meeting is helpful in reducing miscommunication in team meetings",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Communication - Part 3: 'when there is minutes of meeting there is less miscommunication'. NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "What is the minimum number of individuals required for a communication to take place?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "More than three"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Communication - Part 1: 'for a communication to happen we need a sender and a receiver, at least two people we need... in a very strict sense, we need at least two people to communicate'.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 9,
+   "source": "https://www.youtube.com/watch?v=Rrl9R732MV0 (nptel edu, noc23_mg73 portal recording; question text/options); answers decided from course content (no answer key found)",
+   "questions": [
+    {
+     "q": "The tendency to be overly influenced by stereotypes in making judgements about the likelihood of occurances",
+     "options": [
+      "Prospect theory",
+      "Framing",
+      "Procrastination",
+      "Representativeness"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"representativeness, which means ... we tend to ... evaluate the information based on stereotypes\" (Decision Making - Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Making the smallest response possible that will reduce the problem to at least a tolerable level is called incremental approach",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"Incremental approach is, do something at a very small level so that the problem is solved at that given point in time\" (Decision Making - Part 1); 2024 key accepted Incremental approach for the same definition.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The concept of Bounded Rationality was introduced by",
+     "options": [
+      "Daniel Kahneman",
+      "Frederick Taylor",
+      "Herbert Simon",
+      "none of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"this idea is proposed by a behavioural economist called Herbert Simon\" (bounded rationality, Decision Making - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "A false sense of satisfaction in the current state of affairs even when problems start to show up is",
+     "options": [
+      "Rationalization",
+      "Complacency",
+      "Panic",
+      "Buck Passing"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"Complacency means having a sense of satisfaction, false sense of satisfaction\" (Decision Making - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The tendency to be influenced by an initial figure, even when the information is largely irrelevant is",
+     "options": [
+      "Availability bias",
+      "Overconfidence",
+      "Anchoring and adjustment bias",
+      "confirmation bias"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "NPTEL accepted answer: Anchoring and adjustment bias.",
+     "verified": "official"
+    },
+    {
+     "q": "When a team comes together and is managed well, it can lead to the best output from each of the team members. This is called synergy.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"Synergy means when different people come together ... if you manage the group process well, you can get best out of all the members\" (Decision Making - Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The correct serial order of stages in decision making is\ni. Discussion\nii. Decision Making\niii. Orientation\niv. Implementation",
+     "options": [
+      "iii, i, ii, iv",
+      "i, iii, iv, ii",
+      "iii, ii, i, iv",
+      "i, ii, iv"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Steps: \"the first step is orientation\", \"The next stage is discussion stage\", then decision making and implementation (Decision Making - Part 3); 2024 key accepted Orientation as the first step.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Ringi Technique is a Japanese group decision-making technique",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"The third method is Ringi technique, which is a Japanese method\" (Decision Making - Part 3).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Symptom(s) of Groupthink are:",
+     "options": [
+      "Overestimation",
+      "Close-mindedness",
+      "Pressures toward uniformity",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Groupthink symptoms: \"over estimation\", \"close mindedness\", \"The third symptom is pressure towards uniformity\" (Decision Making - Part 4).",
+     "verified": "lecture"
+    },
+    {
+     "q": "When the sunk costs are very high, escalation of commitment decreases",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"when the sunk cost is very high escalation of commitment is also very high\" (Decision Making - Part 4), so the statement is False.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 10,
+   "source": "https://www.youtube.com/watch?v=bcYfJsBY71s (nptel edu, noc23_mg73 portal recording; question text/options); answers decided from course content (no answer key found)",
+   "questions": [
+    {
+     "q": "The type of leadership style where the leader encourages decision making from different perspectives and tries to include everyone",
+     "options": [
+      "Autocratic",
+      "Democratic",
+      "Laissez faire",
+      "Paternalistic"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Democratic style: leader \"tries to listen to all the subordinates\"; inclusive, different perspectives collated (Power and Leadership - Part 4); 2024 key accepted True for democratic = different perspectives.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The capacity to change the behaviour of others in a desired manner is called Power",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"power is defined as the capacity to change the behaviour or attitude of others in a desired manner\" (Power and Leadership - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The source of power that is derived from rare skills and abilities acquired",
+     "options": [
+      "Legitimate",
+      "Reward",
+      "Coercive",
+      "Expert"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"Expert power means you have certain skills and abilities ... which nobody else has, which is very rare\" (Power and Leadership - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a form of political behaviour in an organization",
+     "options": [
+      "Blaming",
+      "Impression management",
+      "Manipulating information flow",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Forms of political behaviour listed: manipulating information flow, impression management, building coalitions, blaming (Power and Leadership - Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Some features of a leader as opposed to a manager are maintaining status quo, focusing on bottom line and relying on control",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture: manager maintains the status quo and \"looks at the bottom line\"; leaders \"do not accept status quo\" (Power and Leadership - Part 2), so these are manager traits: False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The ideal case in Blake Mourton Managerial Grid of Leadership style is",
+     "options": [
+      "Country Club",
+      "Impoverished",
+      "Team Leader",
+      "Produce or perish"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "NPTEL accepted answer: Team Leader.",
+     "verified": "official"
+    },
+    {
+     "q": "The three factors to be taken into consideration as per Fiedler's theory are task structure, leader member relations and positional power",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Fiedler: style depends on leader-member relationship, \"task structure and also positional power\" (Power and Leadership - Part 5).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The theory which states that the subordinates will be motivated to follow the leader only when they perceive that the leader can help them to fulfil their goals",
+     "options": [
+      "Fiedler's Model",
+      "Path- goal Theory",
+      "Hersey and Blanchard's situational leadership theory",
+      "Trait theory"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "NPTEL accepted answer: Path-goal theory.",
+     "verified": "official"
+    },
+    {
+     "q": "In Hersey and Blanchard's theory, which leadership style should be adopted when the subordinates are in an M3 level of maturity:",
+     "options": [
+      "Delegating",
+      "Participating",
+      "Selling",
+      "Telling"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Hersey-Blanchard: \"if the majority of the followers are slightly better, then you can participate; if the maturity level is slightly lower, which is M 2 ... selling\" (Power and Leadership - Part 5); M3 = Participating.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Mother Theresa is an example of servant leadership",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Servant leadership: \"people like you know Mother Teresa ... identified themselves as poorest of the poorest\" (Power and Leadership - Part 5).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 11,
+   "source": "https://www.youtube.com/watch?v=axT4s_KJBKk (nptel edu, noc23_mg73 portal recording; question text/options); answers decided from course content (no answer key found)",
+   "questions": [
+    {
+     "q": "Which of the following is NOT a condition for social loafing?",
+     "options": [
+      "Mundane Task",
+      "Perceived low instrumentality",
+      "Low trust between team members",
+      "Small team size"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Conditions for social loafing: \"when the team size is very large\", low instrumentality, \"very mundane very boring\" tasks, \"Low trust between team members\" (Group Dynamics - Part 3); small team size is not one.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Groups are special type of teams where people work interdependently.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Lecture says the reverse: \"teams are special type of groups in which people work interdependently\" (Group Dynamics - Part 1); False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is a reason for people to form groups?",
+     "options": [
+      "Task accomplishment",
+      "Affiliation",
+      "Security",
+      "All of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Reasons groups form: task accomplishment, \"security\", affiliation (Group Dynamics - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Tuckman and Jensen (1977), which is the correct order in the evolution of teams over time:\n(i) Storming\n(ii) Forming\n(iii) Performing\n(iv) Norming\n(v) Adjourning",
+     "options": [
+      "i, ii, iii, iv, v",
+      "i, iv, ii, iii, v",
+      "ii, i, iv, iii, v",
+      "none of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Tuckman & Jensen: forming, storming, norming, performing, adjourning (Group Dynamics - Part 2) = ii, i, iv, iii, v.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The stage of group development at which unwritten rules for teams are established:",
+     "options": [
+      "Norming",
+      "Storming",
+      "Forming",
+      "Adjourning"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "NPTEL accepted answer: Norming.",
+     "verified": "official"
+    },
+    {
+     "q": "One main reason for free-riding in groups is the diffusion of responsibility",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"why free riding happens? Because there is diffusion of responsibility\" (Group Dynamics - Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Culture is defined as the ways of thinking, behaving, and believing that members of a social unit have in common.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"we can define culture ... as the ways of thinking, behaving and believing that members of a social unit have in common\" (Organizational Culture - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "An Organization in which its culture is driven by the motive for control:",
+     "options": [
+      "Educational Institution",
+      "Community service organizations",
+      "Bureaucracy",
+      "Clubs"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"Bureaucracy, like government sector the motive is control\" (Organizational Culture - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Which of the following is the source of organizational culture:",
+     "options": [
+      "Selection Practices",
+      "Socialization Methods",
+      "Actions of top Management",
+      "Founder's vision/mission/attitudes"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "NPTEL accepted answer: Founder's vision/mission/attitudes.",
+     "verified": "official"
+    },
+    {
+     "q": "The choice of office furniture in an organization is an expression of its organizational culture",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Physical cues like \"what kind of furniture\" are expressions of organizational culture (Organizational Culture - Part 2).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2023,
+   "session": "Jul-Oct 2023",
+   "week": 12,
+   "source": "https://www.youtube.com/watch?v=VXTA0QgDPKg (nptel edu, noc23_mg73 portal recording; question text/options); answers decided from course content (no answer key found)",
+   "questions": [
+    {
+     "q": "The degree to which the authority to make discretionary choices is concentrated in an individual, unit or level is called",
+     "options": [
+      "Formalization",
+      "Integration",
+      "Centralization",
+      "Standardization"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"Centralization means to what extent the authority ... to make decisions is concentrated in one individual, unit or level\" (Organizational Structure - Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "A change which happens very slowly and on its own is called revolutionary change.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"Evolutionary change means change which happens on its own, change which happens slowly\" (Organizational Change); so False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "An organization is about to make a major change. However, a dispute arises between the Finance department and the HR department of the organization as the former supports the change while the latter opposes it due to the kind of new processes that has to introduced. What level of resistance to change does this signify?",
+     "options": [
+      "Organizational Level",
+      "Group Level",
+      "Functional Level",
+      "Individual Level"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"At a functional level ... differences in functional orientation can create resistance because one department will want change, but other departments will resist change\" (Organizational Change).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Indian Railways having different zones like Northern Railway, Central Railway, etc., is an example of:",
+     "options": [
+      "Horizontal Differentiation",
+      "Spatial Differentiation",
+      "Vertical Differentiation",
+      "None of the above"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "NPTEL accepted answer: Spatial differentiation. \"Spatial differentiation ... For example, we can have zonal units; Indian railways have different zones\" (Organizational Structure - Part 1).",
+     "verified": "official"
+    },
+    {
+     "q": "Setting up more common resources like common mess area for all employees will help to create",
+     "options": [
+      "Horizontal coordination",
+      "Vertical Coordination",
+      "Spatial Coordination",
+      "Span of control"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"the first method is using common resources ... common resources like a mess ... So, this can create horizontal coordination\" (Organizational Structure - Part 1).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Formalization is the existence of written policies, rules, procedures, job descriptions and other process documents in an organization",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"formalization denotes the written policies rules and procedures\" (Organizational Structure - Part 3).",
+     "verified": "lecture"
+    },
+    {
+     "q": "Decentralization can provide more input into decision-making",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"Decentralization can provide more input because ... people who are at the ground level they have more inputs\" (Organizational Structure - Part 2).",
+     "verified": "lecture"
+    },
+    {
+     "q": "The first stage of an organization according to life-cycle perspective is",
+     "options": [
+      "Collectivity stage",
+      "Formalization-and-control stage",
+      "Elaboration-of-structure stage",
+      "Entrepreneurial stage"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "\"the first stage is entrepreneurial stage where the organization is formed\" (Organizational Structure - Part 3).",
+     "verified": "lecture"
+    },
+    {
+     "q": "An important feature of life-cycle perspective is that it sees organization as an organism",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"life cycle perspective ... looks at organization as an organism\" (Organizational Structure - Part 3).",
+     "verified": "lecture"
+    },
+    {
+     "q": "A set of interrelated and interdependent parts arranged in a manner that produces a unified whole is called",
+     "options": [
+      "Differentiation",
+      "Norms",
+      "System",
+      "Formalization"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "\"System is a collection of interdependent and interrelated parts arranged in a way that it looks like a unified whole\" (Organizational Structure - Part 3).",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "session": "Jul-Oct 2022",
+   "week": 4,
+   "source": "https://www.youtube.com/watch?v=g3ngiSw3DuE, https://www.youtube.com/watch?v=JOzACDTFaPI (2022 questions, identical text and order to 2024); answers: NPTEL Accepted Answers of the identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "__________ are evaluative statements towards objects, people or events.",
+     "options": [
+      "Learning",
+      "Attitudes",
+      "Memory",
+      "Personality"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Attitudes. Attitudes Part 1: attitudes are evaluative statements towards objects, people or events.",
+     "verified": "official"
+    },
+    {
+     "q": "A relatively permanent change in behaviour occurring as a result of experience is called:",
+     "options": [
+      "Thinking",
+      "Sensation",
+      "Learning",
+      "Prejudice"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Learning. Learning Part 1: learning is a relatively permanent change in behaviour as a result of experience.",
+     "verified": "official"
+    },
+    {
+     "q": "Providing more information can lead to change in attitude.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Attitudes Part 1: 'attitudes with information newer information with some persuasion you can change attitudes'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Pavlov's Dog experiment, the food presented which makes the dog salivate is:",
+     "options": [
+      "Unconditional stimulus",
+      "Unconditional response",
+      "Conditioned stimulus",
+      "Conditioned response"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key: Unconditional stimulus. Learning Part 1 (Pavlov): food is the unconditioned stimulus; salivation to food is the unconditioned response.",
+     "verified": "official"
+    },
+    {
+     "q": "In Operant conditioning, the process through which the responses that are no longer reinforced tend to gradually diminish in strength is called:",
+     "options": [
+      "Positive reinforcement",
+      "Negative Reinforcement",
+      "Punishment",
+      "Extinction"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Extinction. Learning Part 2: 'Extinction is what happens... after a certain point even without the reward or punishment' responses diminish.",
+     "verified": "official"
+    },
+    {
+     "q": "After watching a Dance TV show, a kid starts to make dance moves. This is an example of:",
+     "options": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Observational learning",
+      "Negative Reinforcement"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Observational learning. Learning Part 2: observational (social) learning - learning by watching models.",
+     "verified": "official"
+    },
+    {
+     "q": "Opinion is primarily _______ in nature.",
+     "options": [
+      "Affective",
+      "Cognitive",
+      "Behavioural",
+      "Unconscious"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key: Cognitive. Attitudes Part 2: 'opinion is the cognitive element of attitudes'.",
+     "verified": "official"
+    },
+    {
+     "q": "The intensity of an attitude or the magnitude/degree of its favorableness is called",
+     "options": [
+      "Multiplexity",
+      "Relation to need",
+      "Centrality",
+      "Valence"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key: Valence. Attitudes Part 2: 'The first attribute... is valence... their intensity or the magnitude of favourableness or unfavourableness.'",
+     "verified": "official"
+    },
+    {
+     "q": "When people do not provide honest answers to certain questions because they feel that it is not right to give those answers, it is called:",
+     "options": [
+      "Social Loafing",
+      "Fatigue",
+      "Social Desirability Effect",
+      "Sampling"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key: Social Desirability Effect. Attitudes Part 2: 'Social desirability effect means certain questions people will not give right answers, because they think it is not correct to give those kind of answers.'",
+     "verified": "official"
+    },
+    {
+     "q": "Uncomfortable tension which comes from holding two conflicting thoughts in the mind at the same time is called Cognitive Dissonance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Attitudes Part 4: 'cognitive dissonance is the uncomfortable tension which happens when you have two different viewpoints about the same issue'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "session": "Jul-Oct 2022",
+   "week": 6,
+   "source": "https://www.youtube.com/watch?v=NQCHIzrnYN0, https://www.youtube.com/watch?v=l4NcpsKWJWY (2022 questions, identical text and order to 2024); answers: NPTEL Accepted Answers of the identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "___________ is the willingness of a person to put high levels of efforts to reach a goal.",
+     "options": [
+      "Emotions",
+      "Motivation",
+      "Frustration",
+      "Incentives"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Motivation - Part 1: motivation = willingness to exert high effort toward a goal; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "The need to be part of a group is categorized as:",
+     "options": [
+      "Achievement motive",
+      "Affiliation motive",
+      "Power motive",
+      "Role conflict"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures: need to belong to a group = affiliation motive; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "Money is a form of extrinsic motivation.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Motivation - Part 2: 'money is an extrinsic motivation, satisfaction is intrinsic motivation'. NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "According to Maslow's hierarchy of needs, the highest level of needs one can achieve is:",
+     "options": [
+      "Self-actualization",
+      "Social Needs",
+      "Esteem needs",
+      "Safety needs"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key. Motivation - Part 4: self-actualization is the top of Maslow's hierarchy; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "According to Herzberg's two-factor theory of motivation, pay and security provided by a job is a Motivator.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Motivation - Part 4: pay and job security are hygiene factors ('Pay which is basic need... job security, which is security need' = hygiene), not motivators. NPTEL 2024 key: False.",
+     "verified": "lecture"
+    },
+    {
+     "q": "In Alderfer's ERG theory of motivation, R stands for",
+     "options": [
+      "Reputation",
+      "Regression",
+      "Resilience",
+      "Relatedness"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Motivation - Part 4: ERG = Existence, Relatedness, Growth; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "____________ means that employees feel that the organization treats its employees in a fair manner and a just way.",
+     "options": [
+      "Intra-personal conflict.",
+      "Self-esteem",
+      "Power motive",
+      "Organizational Justice Climate"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures: organizational justice climate = perception that the organization treats employees fairly; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "__________ is when you are moving towards a certain goal, but certain barriers are stopping you from achieving that goal.",
+     "options": [
+      "Goal conflict",
+      "Role conflict",
+      "Frustration",
+      "Satisfaction"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures: frustration = barriers blocking progress toward a goal; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "One of the drawbacks of using money as a motivator is that it can reduce extra-role performance.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Motivation - Part 2: rewarding extra-role behaviours with money backfires ('research say it would not' improve good behaviour). NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "John had applied for several jobs after graduation. One day he received a job offer from Tata Motors and Mahindra Group, both of which he loved to work. The conflict Mr. John is facing in selecting one job is called:",
+     "options": [
+      "Role Conflict",
+      "Approach-avoidance conflict",
+      "Approach-approach conflict",
+      "Avoidance-avoidance conflict"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Motivation lectures (goal conflict): choosing between two attractive options = approach-approach conflict; matches NPTEL key.",
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "session": "Jul-Oct 2022",
+   "week": 7,
+   "source": "https://www.youtube.com/watch?v=1auN3Tt-5SY, https://www.youtube.com/watch?v=8fHTJE9abl4 (2022 questions, identical text and order to 2024); answers: NPTEL Accepted Answers of the identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "When each party involved in a task tries to maximize its own gains, often at the expense of others, it is called:",
+     "options": [
+      "Cooperation",
+      "Interdependency",
+      "Competition",
+      "None of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 2: competition is 'if I have to win the other person has to lose'; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "The degree of confidence we have on others in a relationship is called:",
+     "options": [
+      "Transactional contract",
+      "Relational contract",
+      "Trust",
+      "Norms"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 2: 'Trust is the degree of confidence on others'.",
+     "verified": "official"
+    },
+    {
+     "q": "The kind of psychological contract that focuses on long-term interaction and a widely defined relationship is called relational contract.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Interpersonal Relationships - Part 1: 'In relational contract, the focus is like very long term... long term, broad definition of a relationship'. NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The type of trust that is established based on the credibility of a person, for e.g., trusting the doctor:",
+     "options": [
+      "Trust based on familiarity",
+      "Swift trust",
+      "Trust based on similarity",
+      "Trust based on social networks"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 1: 'swift trust, which means quick trust... happens when we feel this person has some credibility. For example, if somebody is a doctor'.",
+     "verified": "official"
+    },
+    {
+     "q": "The characteristic of being and respectful towards others is:",
+     "options": [
+      "Conscientiousness",
+      "Sportsmanship",
+      "Civic virtue",
+      "Courtesy"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 2: 'Courtesy is being respectful towards others'.",
+     "verified": "official"
+    },
+    {
+     "q": "Treating the common resources responsibly is called",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Interpersonal Relationships - Part 2: 'civic virtue means treating those common resources responsibly'. Statement is truncated on the portal; NPTEL's 2024 key for this identical item accepted True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "__________ is helping without expecting anything in return.",
+     "options": [
+      "Altruism",
+      "Competition",
+      "Cooperation",
+      "Conscientiousness"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships lectures: altruism = helping without expecting anything in return; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "Disagreements on strategy and sharing of responsibility and resources is called:",
+     "options": [
+      "Relational conflict",
+      "Task conflict",
+      "Process conflict",
+      "Avoiding"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 3: 'Process conflict is disagreement in terms of planning or sharing responsibilities... who should have more resources'.",
+     "verified": "official"
+    },
+    {
+     "q": "People who focus on maximizing the joint outcomes of everyone involved are called:",
+     "options": [
+      "Competitors",
+      "Cooperators",
+      "Individualists",
+      "Equalizers"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 2: people who maximize benefits for everyone (win-win) 'are called co-operators'.",
+     "verified": "official"
+    },
+    {
+     "q": "Which conflict handling style is best for both the parties involved?",
+     "options": [
+      "Competing",
+      "Avoiding",
+      "Accommodating",
+      "Collaborating"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Interpersonal Relationships - Part 4: collaborating (win-win) is best for both parties; matches NPTEL key.",
+     "verified": "official"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "session": "Jul-Oct 2022",
+   "week": 8,
+   "source": "https://www.youtube.com/watch?v=xMVAAz21ikU, https://www.youtube.com/watch?v=U2UM7EgzyoA (2022 questions, identical text and order to 2024); answers: NPTEL Accepted Answers of the identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "The communication style that is supportive and avoids change and confrontation is called:",
+     "options": [
+      "Animated communication style",
+      "Driver communication style",
+      "Amiable communication style",
+      "Analytical communication style"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Communication - Part 1: 'amiable style... very supportive in communication... they also avoid change in confrontation'.",
+     "verified": "official"
+    },
+    {
+     "q": "In communication, the process of converting a message into symbols is called:",
+     "options": [
+      "Message",
+      "Channel",
+      "Decoding",
+      "Encoding"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Communication - Part 1: encoding = converting the message into symbols (language) both parties understand.",
+     "verified": "official"
+    },
+    {
+     "q": "Any disturbance that interfere with the transmission, receipt or feedback of a message is called noise.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Communication - Part 1/2: 'Noise is the disturbance which can happen during the communication... noise is something which interferes with communication'. NPTEL 2024 key: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The level of openness which exists in an organization which gives a certain level of comfort to its members is called:",
+     "options": [
+      "Common information effect",
+      "Hidden profile paradigm",
+      "Communication climate",
+      "Paralinguistic communication"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Communication lectures: communication climate = openness that makes members comfortable; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "Which of the following is NOT a non-verbal mode of communication?",
+     "options": [
+      "Facial expressions",
+      "Pupil dilation",
+      "Gestures",
+      "None of the above"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "Official NPTEL key. Communication - Part 2: facial expressions, pupil dilation and gestures are all non-verbal cues, so none of them is 'NOT non-verbal'; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "The study of spatial inter-relationships is called:",
+     "options": [
+      "Kinesics",
+      "Proxemics",
+      "Silence",
+      "Symbols"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "Official NPTEL key. Communication - Part 2: proxemics 'means the spatial interrelationships'.",
+     "verified": "official"
+    },
+    {
+     "q": "Maintaining and distributing minutes of the meeting is helpful in reducing miscommunication in team meetings.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Communication - Part 3: 'when there is minutes of meeting there is less miscommunication'. NPTEL 2024 key for the identical item: True.",
+     "verified": "lecture"
+    },
+    {
+     "q": "When parts of some information are shared with the group members whereas other pieces of information are unshared, it gives rise to:",
+     "options": [
+      "Hidden profile paradigm",
+      "Awareness",
+      "Trust building",
+      "Minimizing status difference"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Official NPTEL key. Communication - Part 3: shared vs unshared information pieces gives the hidden profile paradigm; matches NPTEL key.",
+     "verified": "official"
+    },
+    {
+     "q": "In information sharing scenario, the case that has to be avoided to reduce decision making problems is:",
+     "options": [
+      "Fully shared case",
+      "Non-overlapping case",
+      "Distributed partial overlap",
+      "All of the above"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "Official NPTEL key. Communication - Part 3: distributed partial overlap (some info common, most unshared) is the problematic case; 'ideally fully shared case is preferred'.",
+     "verified": "official"
+    },
+    {
+     "q": "Most eastern cultures are comfortable with silence between conversations.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Communication - Part 2: 'In most eastern cultures people are comfortable with silence between conversation like I said Japanese culture.' NPTEL 2024 key: True.",
+     "verified": "lecture"
+    }
+   ]
+  },
+  {
+   "year": 2022,
+   "session": "Jul-Oct 2022",
+   "week": 9,
+   "source": "https://www.youtube.com/watch?v=OelJyTmcWoo (2022 questions, identical text and order to 2024); answers: NPTEL Accepted Answers of the identical Jul-Oct 2024 questions (https://www.scribd.com/document/848535325/Nptel-Assignments-2024)",
+   "questions": [
+    {
+     "q": "The step in team decision making where the problem is defined and a consensus is arrived about what the problem is:",
+     "options": [
+      "Discussion",
+      "Implementation",
+      "Representativeness",
+      "Orientation"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "NPTEL accepted answer: Orientation. Lecture: \"the first step is orientation ... the group has to arrive at the consensus about what is the problem\" (Decision Making - Part 3).",
+     "verified": "official"
+    },
+    {
+     "q": "Making the smallest response possible that will reduce the problem to at least a tolerable level is called ________ to decision making.",
+     "options": [
+      "Satisficing approach",
+      "Rational Approach",
+      "Incremental approach",
+      "Garbage-can approach"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "NPTEL accepted answer: Incremental approach. \"Incremental approach is, do something at a very small level so that the problem is solved at that given point in time\" (Decision Making - Part 1).",
+     "verified": "official"
+    },
+    {
+     "q": "Having a false sense of satisfaction even when problems start to show up is called:",
+     "options": [
+      "Complacency",
+      "Procrastination",
+      "Defensive avoidance",
+      "Panic"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "NPTEL accepted answer: Complacency. \"Complacency means having a sense of satisfaction, false sense of satisfaction\" (Decision Making - Part 1).",
+     "verified": "official"
+    },
+    {
+     "q": "Trying to put the responsibility for decision making on somebody else is called buck passing.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "\"Buck passing is you try to put the responsibility on somebody else\" (Decision Making - Part 1); same item accepted True in the Jul-Oct 2024 key.",
+     "verified": "lecture"
+    },
+    {
+     "q": "The tendency to be influenced by an initial figure, even when the information is largely irrelevant is called:",
+     "options": [
+      "Availability bias",
+      "Overconfidence",
+      "Anchoring and adjustment bias",
+      "Representativeness"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "NPTEL accepted answer: Anchoring and adjustment bias.",
+     "verified": "official"
+    },
+    {
+     "q": "The group's emphasis on harmony and conformity leading to a wrong decision is called:",
+     "options": [
+      "Majority rule",
+      "Synergy",
+      "Risk taking in groups",
+      "Groupthink"
+     ],
+     "answer": [
+      3
+     ],
+     "explanation": "NPTEL accepted answer: Groupthink.",
+     "verified": "official"
+    },
+    {
+     "q": "Sunk costs can be recovered.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      1
+     ],
+     "explanation": "\"sunk cost means, cost which cannot be recovered once they have been incurred\" (Decision Making - Part 4); same item accepted False in the Jul-Oct 2024 key.",
+     "verified": "lecture"
+    },
+    {
+     "q": "Tendency to invest additional resources in an apparently losing proposition, influenced by effort, money and time already invested:",
+     "options": [
+      "Abilene Paradox",
+      "Delphi method",
+      "Escalation of commitment",
+      "Groupthink"
+     ],
+     "answer": [
+      2
+     ],
+     "explanation": "NPTEL accepted answer: Escalation of commitment. Escalation of commitment: \"influenced by the effort money and time already invested\" (Decision Making - Part 4).",
+     "verified": "official"
+    },
+    {
+     "q": "The tendency to make different decisions depending on how a problem is presented:",
+     "options": [
+      "Framing",
+      "Prospect theory",
+      "Representativeness",
+      "Bounded rationality"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "NPTEL accepted answer: Framing.",
+     "verified": "official"
+    },
+    {
+     "q": "Finding a solution which is satisfactory than optimal is called satisficing approach to decision making.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "answer": [
+      0
+     ],
+     "explanation": "Satisficing (Herbert Simon) = \"the solution will satisfy ... good, but not necessarily the best\" (Decision Making - Part 1); same item accepted True in the Jul-Oct 2024 key.",
+     "verified": "lecture"
+    }
+   ]
+  }
+ ]
+}

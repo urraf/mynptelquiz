@@ -1,12 +1,14 @@
 # NPTEL Quiz Bench
 
-Practice sites for the weekly assignment questions of three NPTEL courses:
+Practice sites for the weekly assignment questions of five NPTEL courses:
 
 | Page | Course | Questions |
 |---|---|---|
 | [index.html](index.html) | Introduction to Industry 4.0 and Industrial Internet of Things (Prof. Sudip Misra) | 1,582 from 2022–2026 |
 | [psychology-of-learning.html](psychology-of-learning.html) | Psychology of Learning (Prof. Atasi Mohanty) | 478 from 2023–2026 |
 | [responsible-safe-ai.html](responsible-safe-ai.html) | Responsible & Safe AI Systems (Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar) | 464 from 2024–2026 |
+| [privacy-security-social-media.html](privacy-security-social-media.html) | Privacy and Security in Online Social Media (Prof. Ponnurangam Kumaraguru) | 784 from 2023–2026 |
+| [organizational-behaviour.html](organizational-behaviour.html) | Organizational Behaviour (Prof. M. P. Ganesh, IIT Hyderabad) | 450 from 2022–2026 |
 
 Open any of these files in a browser. No server or internet connection is needed.
 
@@ -25,10 +27,11 @@ The questions come from public answer-key sites and screen recordings of the ass
 
 ## Editing
 
-Question data lives in `data/` (IIoT), `data-psych/` (Psychology) and `data-rsai/` (Responsible AI). After changing it, rebuild the pages:
+Question data lives in `data/` (IIoT), `data-psych/` (Psychology), `data-rsai/` (Responsible AI), `data-psosm/` (Privacy & Security) and `data-ob/` (Organizational Behaviour). After changing it, rebuild the pages and run the smoke test:
 
 ```
 python3 build.py
+for f in *.html; do node tools/smoke_test.js "$f"; done
 ```
 
-`courses.json` holds each course's title, notes and colours, and `src/app.html` is the shared page template.
+`courses.json` holds each course's title, notes and colours, and `src/app.html` is the shared page template. `tools/mkverify.py` and `tools/apply_verify.py` prepare answer-checking batches and apply their verdicts.

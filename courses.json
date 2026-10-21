@@ -62,6 +62,56 @@
           "--accent-ink": "#05201a"
         }
       }
+    },
+    {
+      "slug": "psosm",
+      "name": "Privacy & Security in OSM",
+      "title": "Social Media Privacy Quiz",
+      "meta": "NPTEL · IIIT Hyderabad · Prof. Ponnurangam Kumaraguru",
+      "heading": "Privacy <span>&amp;</span> Security in Online Social Media",
+      "data": "data-psosm",
+      "out": "privacy-security-social-media.html",
+      "dist": "dist/psosm.html",
+      "artifact": "https://claude.ai/artifact/WYWXKdovUXtKHX2rKpq7J8",
+      "lskey": "psosmq",
+      "note": "Almost every answer here is NPTEL’s own: 778 come from printouts of NPTEL’s “Accepted Answers” screens for the 2023–2025 runs and from graded 2026 submissions, which show NPTEL’s “Yes, the answer is correct” for each question. Five were worked out from the question itself or checked against the lecture. One, marked “Check this answer”, has no official answer.",
+      "theme": {
+        "light": {
+          "--accent": "#1f5fbf",
+          "--accent-soft": "#dfe9f8",
+          "--accent-ink": "#ffffff"
+        },
+        "dark": {
+          "--accent": "#7fb0ff",
+          "--accent-soft": "#16263f",
+          "--accent-ink": "#081627"
+        }
+      }
+    },
+    {
+      "slug": "ob",
+      "name": "Organizational Behaviour",
+      "title": "Organizational Behaviour Quiz",
+      "meta": "NPTEL · IIT Hyderabad · Prof. M. P. Ganesh",
+      "heading": "Organizational <span>Behaviour</span> Quiz Bench",
+      "data": "data-ob",
+      "out": "organizational-behaviour.html",
+      "dist": "dist/ob.html",
+      "artifact": "https://claude.ai/artifact/MHVvrUCWeeA4LUkK8VLzxR",
+      "lskey": "obq",
+      "note": "326 answers are NPTEL’s own accepted answers, from screenshots of the 2024 run and from identical questions in other runs. Every other answer was checked against Prof. Ganesh’s lecture transcripts: 121 are confirmed by the lecture and 3 by reasoning. None of the collected answers needed correcting. This is not NPTEL’s official key.",
+      "theme": {
+        "light": {
+          "--accent": "#a4471f",
+          "--accent-soft": "#f7e4da",
+          "--accent-ink": "#ffffff"
+        },
+        "dark": {
+          "--accent": "#f0956a",
+          "--accent-soft": "#3a2117",
+          "--accent-ink": "#2a1006"
+        }
+      }
     }
   ]
 }

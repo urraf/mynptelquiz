@@ -1,0 +1,23 @@
+// Smoke-test a built quiz page in Node with a stubbed DOM: node tools/smoke_test.js page.html
+const fs = require('fs'), vm = require('vm');
+const html = fs.readFileSync(process.argv[2], 'utf8');
+const scripts = [...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m => m[1]);
+const el = () => ({innerHTML: '', hidden: true, textContent: '', addEventListener(t, f) { this['on' + t] = f; }, querySelector() { return null; }});
+const app = el(), toast = el();
+global.window = {scrollTo() {}};
+global.document = {getElementById: id => id === 'app' ? app : toast, addEventListener() {}};
+global.localStorage = {getItem() { return null; }, setItem() {}};
+vm.runInThisContext(scripts.join('\n'));
+const click = ds => app.onclick({target: {closest: () => ({dataset: ds})}});
+const fail = msg => { console.log('FAIL', msg); process.exitCode = 1; };
+const h = () => app.innerHTML;
+const sets = (h().match(/data-set="/g) || []).length;
+if (!sets) fail('no week sets on home page');
+const first = h().match(/data-set="([^"]+)"/)[1];
+click({set: first});
+if (!/Q 01 \/ \d+/.test(h())) fail('quiz did not start');
+click({act: 'finish'});
+if (!/class="score"/.test(h())) fail('results did not render');
+click({act: 'home'}); click({act: 'drill'});
+if (!/Mixed drill/.test(h())) fail('mixed drill did not start');
+console.log(process.exitCode ? '' : 'ok', process.argv[2], '-', sets, 'week sets');
