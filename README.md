@@ -12,6 +12,11 @@ Practice sites for the weekly assignment questions of five NPTEL courses:
 
 Open any of these files in a browser. No server or internet connection is needed.
 
+## Study notes
+
+- [psychology-of-learning-notes.pdf](psychology-of-learning-notes.pdf): 12 pages of revision notes for Psychology of Learning, one page per week, written from the lecture transcripts and slides
+- [psychology-of-learning-who-gave-what.pdf](psychology-of-learning-who-gave-what.pdf): every person named in the Psychology of Learning questions and the theory the lecture credits them with
+
 ## Features
 
 - Practice mode (instant feedback), exam mode (score at the end) and study mode (answer sheet)
