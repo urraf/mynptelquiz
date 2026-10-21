@@ -1,6 +1,6 @@
 # NPTEL Quiz Bench
 
-Practice sites for the weekly assignment questions of five NPTEL courses:
+Practice sites for the weekly assignment questions of six NPTEL courses:
 
 | Page | Course | Questions |
 |---|---|---|
@@ -9,6 +9,7 @@ Practice sites for the weekly assignment questions of five NPTEL courses:
 | [responsible-safe-ai.html](responsible-safe-ai.html) | Responsible & Safe AI Systems (Prof. Ponnurangam Kumaraguru, Prof. Balaraman Ravindran, Prof. Arun Rajkumar) | 464 from 2024–2026 |
 | [privacy-security-social-media.html](privacy-security-social-media.html) | Privacy and Security in Online Social Media (Prof. Ponnurangam Kumaraguru) | 784 from 2023–2026 |
 | [organizational-behaviour.html](organizational-behaviour.html) | Organizational Behaviour (Prof. M. P. Ganesh, IIT Hyderabad) | 450 from 2022–2026 |
+| [intro-large-language-models.html](intro-large-language-models.html) | Introduction to Large Language Models (Prof. Tanmoy Chakraborty, Prof. Soumen Chakrabarti) | 444 from 2025–2026 |
 
 Open any of these files in a browser. No server or internet connection is needed.
 
@@ -32,7 +33,7 @@ The questions come from public answer-key sites and screen recordings of the ass
 
 ## Editing
 
-Question data lives in `data/` (IIoT), `data-psych/` (Psychology), `data-rsai/` (Responsible AI), `data-psosm/` (Privacy & Security) and `data-ob/` (Organizational Behaviour). After changing it, rebuild the pages and run the smoke test:
+Question data lives in `data/` (IIoT), `data-psych/` (Psychology), `data-rsai/` (Responsible AI), `data-psosm/` (Privacy & Security), `data-ob/` (Organizational Behaviour) and `data-llm/` (Intro to LLMs). After changing it, rebuild the pages and run the smoke test:
 
 ```
 python3 build.py

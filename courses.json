@@ -112,6 +112,31 @@
           "--accent-ink": "#2a1006"
         }
       }
+    },
+    {
+      "slug": "llm",
+      "name": "Intro to LLMs",
+      "title": "Intro to LLMs Quiz",
+      "meta": "NPTEL · IIT Delhi & IIT Bombay · Prof. Tanmoy Chakraborty, Prof. Soumen Chakrabarti",
+      "heading": "Introduction to <span>Large Language Models</span>",
+      "data": "data-llm",
+      "out": "intro-large-language-models.html",
+      "dist": "dist/llm.html",
+      "artifact": null,
+      "lskey": "llmq",
+      "note": "All answers for Jan–Apr 2025, Jul–Oct 2025 and Jan–Apr 2026 are NPTEL’s own: from printouts of the “Accepted Answers” screens and from the course’s official solution PDFs. Jul–Oct 2026 has no official key yet, so its answers come from comparing several solution videos and are being checked against the lectures.",
+      "theme": {
+        "light": {
+          "--accent": "#a8326c",
+          "--accent-soft": "#f6e0eb",
+          "--accent-ink": "#ffffff"
+        },
+        "dark": {
+          "--accent": "#f07ab3",
+          "--accent-soft": "#3a1828",
+          "--accent-ink": "#2a0716"
+        }
+      }
     }
   ]
 }

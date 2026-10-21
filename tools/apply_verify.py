@@ -17,7 +17,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 vdir = sys.argv[1]
 dry = '--dry' in sys.argv
 only = [a.split('=', 1)[1] for a in sys.argv if a.startswith('--only=')]
-DATA = {'psych': 'data-psych', 'rsai': 'data-rsai', 'psosm': 'data-psosm', 'ob': 'data-ob'}
+DATA = {'psych': 'data-psych', 'rsai': 'data-rsai', 'psosm': 'data-psosm', 'ob': 'data-ob', 'llm': 'data-llm'}
 QUOTES = str.maketrans({'‘': "'", '’': "'", '“': '"', '”': '"', '–': '-', '—': '-'})
 
 

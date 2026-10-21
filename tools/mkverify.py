@@ -13,7 +13,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 import build  # noqa: E402
 
-SLUG = {'data': 'iiot', 'data-psych': 'psych', 'data-rsai': 'rsai', 'data-psosm': 'psosm', 'data-ob': 'ob'}
+SLUG = {'data': 'iiot', 'data-psych': 'psych', 'data-rsai': 'rsai', 'data-psosm': 'psosm', 'data-ob': 'ob', 'data-llm': 'llm'}
 
 out = sys.argv[1]
 os.makedirs(out, exist_ok=True)
